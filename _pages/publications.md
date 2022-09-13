@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Journal Publications
+## Journal Publications
 1. Abarca, A., Monteiro, R., & *O’Reilly, G. J.* (2022). Exposure knowledge impact on regional seismic risk assessment of bridge portfolios. Bulletin of Earthquake Engineering. https://doi.org/10.1007/s10518-022-01491-z [[PDF](http://gerardjoreilly.github.io/files/74f14ec3-b71c-47fe-9979-b566247ad542.pdf.pdf)][[Link](https://link.springer.com/article/10.1007/s10518-022-01491-z)]
 1. Gallo WWC, Clemett N, Gabbianelli G, *O’Reilly GJ*, Monteiro R. Influence of Parameter Uncertainty in Multi-Criteria Decision-Making When Identifying Optimal Retrofitting Strategies for RC Buildings. Journal of Earthquake Engineering 2022: 1–26. DOI: 10.1080/13632469.2022.2087794.
 1. Carofilis Gallo WW, Clemett N, Gabbianelli G, *O’Reilly GJ*, Monteiro R. Seismic Resilience Assessment for Optimal Integrated Retrofitting of Existing School Buildings in Italy. Buildings 2022. DOI: 10.3390/buildings12060845.
@@ -42,7 +42,7 @@ author_profile: true
 1. *O’Reilly GJ*, Sullivan TJ. Fragility function for eccentrically braced frame structures. Earthquakes and Structures 2016; 10(2): 367–388. DOI: 10.12989/eas.2016.10.2.367.
 1. *O’Reilly GJ*, Sullivan TJ. Direct displacement-based seismic design of eccentrically braced steel frames. Journal of Earthquake Engineering 2016; 20(2): 243–278. DOI: 10.1080/13632469.2015.1061465.
 
-# Conference Papers
+## Conference Papers
 1. O’Reilly GJ, Nafeh AMB. Towards improved response quantification of existing infilled RC frames Gerard. 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania: 2022.
 1. O’Reilly GJ, Shahnazaryan D. Current and contemporary seismic design methods: a comparative review. 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania: 2022.
 1. Nafeh AMB, O’Reilly GJ. Simplified Seismic Risk Assessment of Non-Ductile Infilled RC Frame Buildings. 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania: 2022.
