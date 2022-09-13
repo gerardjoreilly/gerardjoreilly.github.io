@@ -39,8 +39,8 @@ author_profile: true
 1. *O’Reilly GJ*, Perrone D, Fox M, Monteiro R, Filiatrault A. Seismic assessment and loss estimation of existing school buildings in Italy. Engineering Structures 2018; 168: 142–162. DOI: 10.1016/j.engstruct.2018.04.056.
 1. *O’Reilly GJ*, Sullivan TJ. Probabilistic seismic assessment and retrofit considerations for Italian RC frame buildings. Bulletin of Earthquake Engineering 2018; 16(3): 1447–1485. DOI: 10.1007/s10518-017-0257-9.
 1. *O’Reilly GJ*, Sullivan TJ. Quantification of modelling uncertainty in existing Italian RC frames. Earthquake Engineering & Structural Dynamics 2018; 47(4): 1054–1074. DOI: 10.1002/eqe.3005.
-1. *O’Reilly GJ*, Sullivan TJ. Fragility function for eccentrically braced frame structures. Earthquakes and Structures 2016; 10(2): 367–388. DOI: 10.12989/eas.2016.10.2.367.
-1. *O’Reilly GJ*, Sullivan TJ. Direct displacement-based seismic design of eccentrically braced steel frames. Journal of Earthquake Engineering 2016; 20(2): 243–278. DOI: 10.1080/13632469.2015.1061465.
+1. *O’Reilly GJ*, Sullivan TJ. Fragility function for eccentrically braced frame structures. Earthquakes and Structures 2016; 10(2): 367–388. DOI: 10.12989/eas.2016.10.2.367. [[PDF](http://gerardjoreilly.github.io/files/Journal/J2-2016_O’Reilly, Sullivan_Fragility Function for Eccentrically Braced Frame Structures.pdf)][[Link](http://koreascience.or.kr/article/JAKO201608361186958.page)]
+1. *O’Reilly GJ*, Sullivan TJ. Direct displacement-based seismic design of eccentrically braced steel frames. Journal of Earthquake Engineering 2016; 20(2): 243–278. DOI: 10.1080/13632469.2015.1061465. [[PDF](http://gerardjoreilly.github.io/files/Journal/J1-2016_O’Reilly, Sullivan_Direct Displacement-Based Seismic Design of Eccentrically Braced Steel Frames.pdf)][[Link](https://www.tandfonline.com/doi/full/10.1080/13632469.2015.1061465)]
 
 ## Conference Papers
 1. O’Reilly GJ, Nafeh AMB. Towards improved response quantification of existing infilled RC frames Gerard. 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania: 2022.
