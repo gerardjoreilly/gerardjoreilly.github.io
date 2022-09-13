@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Gerard J. O'Reilly"
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Structural Engineering tackling problems related to seismic risk"
+  bio              : "Assistant Professor of Structural Engineering researching seismic risk and more"
   location         : "Pavia, Italy"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.it/citations?user=YO83uYMAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Gerard-Oreilly-2"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gerard-o-reilly-19601732/"
+  linkedin         : "gerard-o-reilly-19601732/"
   orcid            : "https://orcid.org/0000-0001-5497-030X"
   pinterest        :
   soundcloud       :
@@ -184,9 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
