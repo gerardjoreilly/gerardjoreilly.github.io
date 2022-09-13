@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gerard J. O'Reilly"
   avatar           : "Portrait_C.jpg"
-  bio              : "Assistant Professor of Structural Engineering researching seismic risk and more"
+  bio              : "Assistant Professor at the Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre)"
   location         : "Pavia, Italy"
   employer         :
   pubmed           :
@@ -185,6 +185,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
 
