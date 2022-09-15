@@ -9,8 +9,12 @@ redirect_from:
 Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUSS Pavia](https://www.iusspavia.it/en). Primary research interests include the seismic design and assessment of structures to incorporate innovative aspects of performance-based earthquake engineering; the seismic vulnerability of existing structures and ways that different retrofitting measures (both structural and non-structural) may improve their seismic performance.
 
 
-News
-======
+<button type="button" class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div>
+
+# News
 * Abarca, A., Monteiro, R., & **O’Reilly, G. J.** (2022). Exposure knowledge impact on regional seismic risk assessment of bridge portfolios. Bulletin of Earthquake Engineering. https://doi.org/10.1007/s10518-022-01491-z [[PDF](http://gerardjoreilly.github.io/files/Journal/74f14ec3-b71c-47fe-9979-b566247ad542.pdf)][[Link](https://doi.org/10.1007/s10518-022-01491-z)]
 * Gallo WWC, Clemett N, Gabbianelli G, **O’Reilly GJ**, Monteiro R. Influence of Parameter Uncertainty in Multi-Criteria Decision-Making When Identifying Optimal Retrofitting Strategies for RC Buildings. Journal of Earthquake Engineering 2022: 1–26. DOI: 10.1080/13632469.2022.2087794. [[PDF](http://gerardjoreilly.github.io/files/Journal/J34.pdf)][[Link](https://www.tandfonline.com/doi/full/10.1080/13632469.2022.2087794)]
 * Carofilis Gallo WW, Clemett N, Gabbianelli G, **O’Reilly GJ**, Monteiro R. Seismic Resilience Assessment for Optimal Integrated Retrofitting of Existing School Buildings in Italy. Buildings 2022. DOI: 10.3390/buildings12060845. [[PDF](http://gerardjoreilly.github.io/files/Journal/J33.pdf)][[Link](https://www.mdpi.com/2075-5309/12/6/845)]
