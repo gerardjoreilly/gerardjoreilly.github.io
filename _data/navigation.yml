@@ -1,11 +1,15 @@
 # main links links
 main:
+  - title: "Bio"
+    url: /bio/
+
   - title: "Portfolio"
     subfolderitems:
       - page: Thing 1
         url: /portfolio/
       - page: Thing 2
         url: /portfolio/
+    url: /portfolio/
 
   - title: "Research"
     url: /research/
@@ -24,9 +28,6 @@ main:
 
   - title: "Software"
     url: /software/
-
-  - title: "News"
-    url: /year-archive/
 
   - title: "People"
     url: /people/
