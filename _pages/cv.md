@@ -17,8 +17,11 @@ Current and Past Appointments
 * Nov 2019 – Dec 2019
   * Visiting Researcher @ [Kobori Research Complex](http://www.kobori-takken.co.jp/index.html), Tokyo, Japan
 
-* Mar 2017 –  Apr 2019
-  * 
+
+* Post-doctoral Researcher @ @ Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre), [IUSS Pavia, Italy](https://www.iusspavia.it/it)
+  * Mar 2017 –  Apr 2019
+
+
 Education
 ======
 * Ph.D in Earthquake Engineering & Engineering Seismology, [IUSS Pavia, Italy](https://www.iusspavia.it/it), 2016
