@@ -29,8 +29,8 @@ Education
 Honours and Awards
 ======
 * Selected by editor as “Top Reviewer” for the journal Bulletin of Earthquake Engineering in 2020
-* Won the “2020 Outstanding Paper Award” by the International Association for Bridge and Structural Engineering for the * research article “ Once upon a Time in Italy: The Tale of the Morandi Bridge”
-* Awarded “Top Downloaded Paper 2018-2019” by Earthquake Engineering and Structural Dynamics for the article “Conceptual design in performance-based earthquake engineering”
+* Won the “2020 Outstanding Paper Award” by the International Association for Bridge and Structural Engineering for the * research article “ Once upon a Time in Italy: The Tale of the Morandi Bridge” [[PDF](http://gerardjoreilly.github.io/files/Journal/J6-2019_Calvi et al._Once upon a Time in Italy The Tale of the Morandi Bridge.pdf)][[Link](https://www.tandfonline.com/doi/full/10.1080/10168664.2018.1558033)]
+* Awarded “Top Downloaded Paper 2018-2019” by Earthquake Engineering and Structural Dynamics for the article “Conceptual design in performance-based earthquake engineering” [[PDF](http://gerardjoreilly.github.io/files/Journal/J9-2019_O'Reilly, Calvi_Conceptual seismic design in performance-based earthquake engineering.pdf)][[Link](https://onlinelibrary.wiley.com/doi/10.1002/eqe.3141)]
 * Awarded a research scholarship by the University of California Education Abroad Program to complete a 1-year research exchange at the University of California, Berkeley
 * Awarded “Best Structures Paper” for paper presented at the BCRI2012 conference in Dublin, Ireland
 * Awarded 2 University Scholar prizes in recognition of academic excellence during undergraduate studies
