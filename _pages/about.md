@@ -33,6 +33,8 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 <ul>
 <li> <b>2021</b> - Gerard gave a presentation on "Seismic Risk Classification of Non-Structural Elements" at the 17th World Conference on Earthquake Engineering, Sendai, Japan [<a href="http://gerardjoreilly.github.io/files/Conference/C19-2020.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/17WCEE_Presentation_NonStrRisk.pdf">Presentation</a>] </li>
 
+<li> <b>13/12/2019</b> - Gerard gave a presentation on the Joint Research carried out at the Kobori Research Complex in Tokyo, Japan [<a href="http://gerardjoreilly.github.io/files/Presentations/OReilly-Gerard-KRC-Final-Presentation.pdf">Presentation</a>] </li>
+
 <li> <b>2019</b> - Gerard gave a presentation on "Characterising Seismic Vulnerability of Bridge Structures and Infrastructure Vulnerability Assessment" as part of the INFRA-NAT Platform Workshop in Ohrid, North Macedonia [<a href="http://gerardjoreilly.github.io/files/Presentations/INFRA-NAT-Meeting-Gerard.pdf">Presentation</a>] </li>
 
 <li> <b>2019</b> - Gerard gave an invited talk on "Developments in performance-based seismic design and assessment: an Italian perspective" at the University of Canterbury, New Zealand. </li>
