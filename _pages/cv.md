@@ -9,11 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Current and Past Appointments
+======
+* May 2019  - present
+  * Assistant Professor of Structural Engineering @ Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre), [IUSS Pavia, Italy](https://www.iusspavia.it/it)
+
+* Nov 2019 – Dec 2019
+  * Visiting Researcher @ [Kobori Research Complex](http://www.kobori-takken.co.jp/index.html), Tokyo, Japan
+
+* Mar 2017 –  Apr 2019
+  * 
 Education
 ======
-* B.Eng. in Civil Engineering, University of Galway, 2010
-* M.Sc. in Civil Engineering, University of Galway, 2013
-* Ph.D in Earthquake Engineering & Engineering Seismology, Scuola Universitaria Superiore IUSS Pavia, Italy
+* Ph.D in Earthquake Engineering & Engineering Seismology, [IUSS Pavia, Italy](https://www.iusspavia.it/it), 2016
+* M.Sc. in Civil Engineering, [University of Galway, Ireland](https://www.universityofgalway.ie/), 2013
+* B.Eng. in Civil Engineering, [University of Galway, Ireland](https://www.universityofgalway.ie/), 2010
+
 
 Work experience
 ======
