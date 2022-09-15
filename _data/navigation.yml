@@ -1,7 +1,11 @@
 # main links links
 main:
   - title: "Portfolio"
-    url: /portfolio/
+    subfolderitems:
+      - page: Thing 1
+        url: /portfolio/
+      - page: Thing 2
+        url: /portfolio/
 
   - title: "Research"
     url: /research/
