@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-# About
 Gerard J. O’Reilly (1989) is an Assistant Professor of Structural Engineering at [IUSS Pavia](https://www.iusspavia.it/en), completing his Bachelor and Master degrees in Civil Engineering in Ireland in 2010 and 2013, with a period as a visiting researcher at the University of California, Berkeley in 2012. He obtained his PhD in Earthquake Engineering and Engineering Seismology from IUSS Pavia in 2016.
 
 Primary research interests include the seismic design and assessment of structures to incorporate innovative aspects of performance-based earthquake engineering; the seismic vulnerability of existing structures and ways that different retrofitting measures (both structural and non-structural) may improve their seismic performance. These include the incorporation of economic losses and collapse risk directly in the design process as a general effort towards the next-generation of design codes, as well as the Sismabonus classification guidelines recently introduced in Italy. Much of this research also relates to different projects in collaboration with the [EUCENTRE Foundation](https://www.eucentre.it/?lang) and the [ReLUIS consortium](https://www.reluis.it/it/) on the assessment of existing school buildings and ways in which limited resources allocation may be prioritised.
