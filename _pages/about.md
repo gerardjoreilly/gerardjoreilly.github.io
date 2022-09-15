@@ -18,7 +18,7 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
   <li> <b>5/9/2022</b> - Gerard gave a presentation on "Towards improved response quantification of existing infilled RC frames" at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C33-IM-bias-paper.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/3ECEES-IM-bias-presentation.pdf">Presentation</a>] </li>
 
-  <li> <b>18/7/2022</b> - Gerard gave a presentation on "Integrating multiple risks to aid the navigation of industrial plant workers during seismic events" at the ASME 2022 Pressure Vessels & Piping Conference, Las Vegas, USA [<a href="http://gerardjoreilly.github.io/files/Conference/C28-PVP2022-84014_final.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/pvp2022_.pdf">Presentation</a>] </li>
+  <li> <b>18/7/2022</b> - Gerard gave a presentation on "Integrating multiple risks to aid the navigation of industrial plant workers during seismic events" at the ASME 2022 Pressure Vessels & Piping Conference, Las Vegas, USA [<a href="http://gerardjoreilly.github.io/files/Conference/C28-PVP2022-84014_final.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/pvp2022_.pdf">Presentation</a>][<a href="https://youtu.be/h0L81oRVhV8">Video</a>] </li>
 
   <li> <b>6/7/2022</b> - Gerard gave a presentation on "Risk and loss mitigation in seismic design: a review of current methods and future direction" at ICONHIC 2022 - 3rd International Conference on Natural Hazards & Infrastructure, 22 – 24 June 2021, Athens, Greece. [<a href="http://gerardjoreilly.github.io/files/Conference/C27-ICONHIC2021_paper_OReilly_v2.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ICONHIC-2022-OReilly.pdf">Presentation</a>] </li>
 
@@ -31,7 +31,7 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 <details><summary>Older news</summary>
 <ul>
-<li> <b>2021</b> - Gerard gave a presentation on "Seismic Risk Classification of Non-Structural Elements" at the 17th World Conference on Earthquake Engineering, Sendai, Japan [<a href="http://gerardjoreilly.github.io/files/Conference/C19-2020.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/17WCEE_Presentation_NonStrRisk.pdf">Presentation</a>] </li>
+<li> <b>2021</b> - Gerard gave a presentation on "Seismic Risk Classification of Non-Structural Elements" at the 17th World Conference on Earthquake Engineering, Sendai, Japan [<a href="http://gerardjoreilly.github.io/files/Conference/C19-2020.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/17WCEE_Presentation_NonStrRisk.pdf">Presentation</a>][<a href="https://youtu.be/DXka-0tk8XU">Video</a>] </li>
 
 <li> <b>13/12/2019</b> - Gerard gave a presentation on the Joint Research carried out at the Kobori Research Complex in Tokyo, Japan [<a href="http://gerardjoreilly.github.io/files/Presentations/OReilly-Gerard-KRC-Final-Presentation.pdf">Presentation</a>] </li>
 
@@ -52,9 +52,9 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 <li> <b>2017</b> - Gerard gave a presentation on "Modelling Uncertainty in Existing Italian RC Frames" at COMPDYN 2017 - 6th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Rhodes, Greece.
  [<a href="http://gerardjoreilly.github.io/files/Conference/C8-2017.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/Compdyn2017_Presentation.pdf">Presentation</a>] </li>
 
-<li> <b>2017</b> - Gerard gave a presentation on "System Identification and Structural Modelling of Italian School Buildings" at the IMAC-XXXV Conference & Exposition on Structural Dynamics, Orange County, USA. [<a href="http://gerardjoreilly.github.io/files/Conference/C7-2017.pdf">Paper</a>] </li>
+<li> <b>2017</b> - Gerard gave a presentation on "System Identification and Structural Modelling of Italian School Buildings" at the IMAC-XXXV Conference & Exposition on Structural Dynamics, Orange County, USA. [<a href="http://gerardjoreilly.github.io/files/Conference/C7-2017.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/IMACXXXV_Presentation_v2.pdf">Presentation</a>] </li>
 
-<li> <b>2017</b> - Gerard gave a presentation on "Implications of a More Refined Damage Estimation Approach in the Assessment of RC Frames" at the 16th World Conference on Earthquake Engineering, Santiago, Chile. [<a href="http://gerardjoreilly.github.io/files/Conference/C6-2017.pdf">Paper</a>] </li>
+<li> <b>2017</b> - Gerard gave a presentation on "Implications of a More Refined Damage Estimation Approach in the Assessment of RC Frames" at the 16th World Conference on Earthquake Engineering, Santiago, Chile. [<a href="http://gerardjoreilly.github.io/files/Conference/C6-2017.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/WCEE_Presentation_v1.pdf">Presentation</a>] </li>
 
 <li> <b>2015</b> - Gerard gave a presentation on "Influence of Modelling Parameters on the Fragility Assessment of pre-1970 Italian RC Structures" at COMPDYN 2015 - 5th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Hersonissos, Greece. [<a href="http://gerardjoreilly.github.io/files/Conference/C5-2015.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/OReilly_Sullivan_Compdyn2015_Presentation.pdf">Presentation</a>] </li>
 
