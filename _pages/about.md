@@ -18,9 +18,10 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 <details><summary>Older news</summary>
 
+<ul>
 <li>Tea</li>
 <li>Milk</li>
 <li> Abarca, A., Monteiro, R., & **O’Reilly, G. J.** (2022). Exposure knowledge impact on regional seismic risk assessment of bridge portfolios. Bulletin of Earthquake Engineering. <a href="url">https://doi.org/10.1007/s10518-022-01491-z</a> </li>
-
+</ul>
 
 </details>
