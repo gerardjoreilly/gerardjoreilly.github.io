@@ -9,25 +9,24 @@ main:
         url: /portfolio/
       - page: Thing 2
         url: /portfolio/
-    url: /portfolio/
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /archive-layout-with-content/
+  # - title: "Teaching"
+  #   url: /archive-layout-with-content/
 
-  - title: "Software"
-    url: /software/
-
-  - title: "People"
-    url: /people/
+  # - title: "Software"
+  #   url: /software/
+  #
+  # - title: "People"
+  #   url: /people/
