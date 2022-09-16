@@ -26,8 +26,6 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 <li> <b>8/6/2022</b> - The ERIES project was kicked off in Pavia, Italy [<a href="https://eries.eu/eries-kick-off-meeting-8th-june-2022/">See more</a>] </li>
 
-</ul>
-
 
 <details><summary>Older news</summary>
 <ul>
