@@ -22,8 +22,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Teaching"
-  #   url: /archive-layout-with-content/
+  - title: "Teaching"
+    url: /teaching/
 
   # - title: "Software"
   #   url: /software/
