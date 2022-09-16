@@ -11,7 +11,7 @@ A simplified alternative more desirable for practitioners is based on storey los
 It outlines the implementation procedure alongside a comparative demonstration of its application where dependency and correlation of damage states between different components are considered. Finally, a comparison of SLF-based and component-based loss estimation approaches is carried out through the application to a real case-study school building. The agreement and consistency of the attained loss metrics demonstrate the quality and ease of the SLF-based approach in achieving accurate results for a more expedite assessment of building performance.
 
 
-<img src="/images/slfs.JPG" style="width:48px;height:48px;">
+<img src="/images/slfs.JPG"">
 
 
 For the latest version of the tool, please visit the Github page [here](https://github.com/davitshahnazaryan3/SLFGenerator).
