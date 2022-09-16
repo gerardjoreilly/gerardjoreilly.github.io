@@ -9,10 +9,46 @@ redirect_from:
 Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUSS Pavia](https://www.iusspavia.it/en). His primary research interests include the seismic design and assessment of structures to incorporate innovative aspects of performance-based earthquake engineering; the seismic vulnerability of existing structures and ways that different retrofitting measures (both structural and non-structural) may improve their seismic performance. He has been involved in several EU-funded projects and is the coordinator of the Horizon Europe funded [ERIES project](https://www.eries.eu).
 
 
+ <!-- Slideshow container -->
+<div class="slideshow-container fade">
+
+  <!-- Full images with numbers and message Info -->
+  <div class="Containers">
+    <div class="MessageInfo">1 / 3</div>
+    <img src="http://gerardjoreilly.github.io/files/Conference/3ecees.jpeg" style="width:100%">
+    <div class="Info">First caption</div>
+  </div>
+
+  <div class="Containers">
+    <div class="MessageInfo">2 / 3</div>
+    <img src="http://gerardjoreilly.github.io/files/Conference/anidis.jpeg" style="width:100%">
+    <div class="Info">Second Caption</div>
+  </div>
+
+  <div class="Containers">
+    <div class="MessageInfo">3 / 3</div>
+    <img src="http://gerardjoreilly.github.io/files/Conference/eries.jpeg" style="width:100%">
+    <div class="Info">Third Caption</div>
+  </div>
+
+  <!-- Back and forward buttons -->
+  <a class="Back" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="forward" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The circles/dots -->
+<div style="text-align:center">
+  <span class="dots" onclick="currentSlide(1)"></span>
+  <span class="dots" onclick="currentSlide(2)"></span>
+  <span class="dots" onclick="currentSlide(3)"></span>
+</div>
+
+
 ## News
 <ul>
 
-  <li> <b>14/9/2022</b> - Gerard gave a presentation on "Simplified tools for the risk assessment and classification of existing buildings" at ANIDIS - Associazione Nazionale Italiana di Ingegneria Sismica 2022, Turin, Italy [<a href="http://gerardjoreilly.github.io/files/Conference/OReilly_etal_ANIDIS_2022_v3.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ANIDIS-2022-presentation.pdf">Presentation</a>] <img src="http://gerardjoreilly.github.io/files/Photos/anidis.jpeg" height="50%"> </li>
+  <li> <b>14/9/2022</b> - Gerard gave a presentation on "Simplified tools for the risk assessment and classification of existing buildings" at ANIDIS - Associazione Nazionale Italiana di Ingegneria Sismica 2022, Turin, Italy [<a href="http://gerardjoreilly.github.io/files/Conference/OReilly_etal_ANIDIS_2022_v3.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ANIDIS-2022-presentation.pdf">Presentation</a>]
 
   <li> <b>9/9/2022</b> - Gerard gave a presentation on "Current and contemporary seismic design methods: a comparative review" at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C32-Design-Methods-final.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/3ECEES-Design-Methods-presentation.pdf">Presentation</a>] </li>
 
@@ -31,22 +67,22 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 <details><summary>Older news</summary>
 <ul>
-<li> <b>2021</b> - Gerard gave a presentation on "Seismic Risk Classification of Non-Structural Elements" at the 17th World Conference on Earthquake Engineering, Sendai, Japan [<a href="http://gerardjoreilly.github.io/files/Conference/C19-2020.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/17WCEE_Presentation_NonStrRisk.pdf">Presentation</a>][<a href="https://youtu.be/DXka-0tk8XU">Video</a>] </li>
+<li> <b>13/9/2021</b> - Gerard gave a presentation on "Seismic Risk Classification of Non-Structural Elements" at the 17th World Conference on Earthquake Engineering, Sendai, Japan [<a href="http://gerardjoreilly.github.io/files/Conference/C19-2020.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/17WCEE_Presentation_NonStrRisk.pdf">Presentation</a>][<a href="https://youtu.be/DXka-0tk8XU">Video</a>] </li>
 
 <li> <b>13/12/2019</b> - Gerard gave a presentation on the Joint Research carried out at the Kobori Research Complex in Tokyo, Japan [<a href="http://gerardjoreilly.github.io/files/Presentations/OReilly-Gerard-KRC-Final-Presentation.pdf">Presentation</a>] </li>
 
 <li> <b>2019</b> - Gerard gave a presentation on "Characterising Seismic Vulnerability of Bridge Structures and Infrastructure Vulnerability Assessment" as part of the INFRA-NAT Platform Workshop in Ohrid, North Macedonia [<a href="http://gerardjoreilly.github.io/files/Presentations/INFRA-NAT-Meeting-Gerard.pdf">Presentation</a>] </li>
 
-<li> <b>2019</b> - Gerard gave an invited talk on "Developments in performance-based seismic design and assessment: an Italian perspective" at the University of Canterbury, New Zealand. </li>
+<li> <b>3/10/2019</b> - Gerard gave an invited talk on "Developments in performance-based seismic design and assessment: an Italian perspective" at the University of Canterbury, New Zealand. </li>
 
-<li> <b>2019</b> - Gerard gave a presentation on "On the Efficient Risk Assessment of Bridge Structures" at COMPDYN 2019 - 7th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Hersonissos, Greece. [<a href="http://gerardjoreilly.github.io/files/Conference/C13-2019.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/Compdyn2019_Presentation.pdf">Presentation</a>] </li>
+<li> <b>24/6/2019</b> - Gerard gave a presentation on "On the Efficient Risk Assessment of Bridge Structures" at COMPDYN 2019 - 7th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Hersonissos, Greece. [<a href="http://gerardjoreilly.github.io/files/Conference/C13-2019.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/Compdyn2019_Presentation.pdf">Presentation</a>] </li>
 
-<li> <b>2019</b> - Gerard gave a presentation on "Towards Regional Safety Assessment of Bridge Infrastructure" at the 13th International Conference on Applications of Statistics and Probability in Civil Engineering, Seoul, South Korea. [<a href="http://gerardjoreilly.github.io/files/Conference/C11-2019.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ICASP13_Presentation.pdf">Presentation</a>] </li>
+<li> <b>27/5/2019</b> - Gerard gave a presentation on "Towards Regional Safety Assessment of Bridge Infrastructure" at the 13th International Conference on Applications of Statistics and Probability in Civil Engineering, Seoul, South Korea. [<a href="http://gerardjoreilly.github.io/files/Conference/C11-2019.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ICASP13_Presentation.pdf">Presentation</a>] </li>
 
-<li> <b>2018</b> - Gerard gave a presentation on "On the seismic assessment and retrofit of infilled RC frames structures" at the 16th European Conference on Earthquake Engineering, Thessaloniki, Greece.
+<li> <b>19/6/2018</b> - Gerard gave a presentation on "On the seismic assessment and retrofit of infilled RC frames structures" at the 16th European Conference on Earthquake Engineering, Thessaloniki, Greece.
  [<a href="http://gerardjoreilly.github.io/files/Conference/C10-2018.pdf">Paper</a>] </li>
 
-<li> <b>2018</b> - Gerard gave a presentation on "Intensity Measures for the Collapse Assessment of Infilled RC Frames" at the 16th European Conference on Earthquake Engineering, Thessaloniki, Greece.
+<li> <b>19/6/2018</b> - Gerard gave a presentation on "Intensity Measures for the Collapse Assessment of Infilled RC Frames" at the 16th European Conference on Earthquake Engineering, Thessaloniki, Greece.
  [<a href="http://gerardjoreilly.github.io/files/Conference/C9-2018.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/16ECEE_Presentation.pdf">Presentation</a>] </li>
 
 <li> <b>2017</b> - Gerard gave a presentation on "Modelling Uncertainty in Existing Italian RC Frames" at COMPDYN 2017 - 6th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Rhodes, Greece.
