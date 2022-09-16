@@ -6,9 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUSS Pavia](https://www.iusspavia.it/en). His primary research interests include the seismic design and assessment of structures to incorporate innovative aspects of performance-based earthquake engineering; the seismic vulnerability of existing structures and ways that different retrofitting measures (both structural and non-structural) may improve their seismic performance. He has been involved in several EU-funded projects and is the coordinator of the Horizon Europe funded [ERIES project](https://www.eries.eu). {: .notice}
+Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUSS Pavia](https://www.iusspavia.it/en). His primary research interests include the seismic design and assessment of structures to incorporate innovative aspects of performance-based earthquake engineering; the seismic vulnerability of existing structures and ways that different retrofitting measures (both structural and non-structural) may improve their seismic performance. He has been involved in several EU-funded projects and is the coordinator of the Horizon Europe funded [ERIES project](https://www.eries.eu).
 
-text
 
 ## News
 <ul>
