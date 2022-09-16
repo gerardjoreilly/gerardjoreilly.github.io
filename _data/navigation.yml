@@ -25,8 +25,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  # - title: "Software"
-  #   url: /software/
-  #
+  - title: "Software"
+    url: /software/
+
   # - title: "People"
   #   url: /people/
