@@ -1,13 +1,13 @@
 ---
 title: "Numerical Modelling of Non-Ductile RC Frames"
-excerpt: "Short description of software item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Tools to model the non-linear behaviour of non-ductile elements such as beam-column elements and beam-column elements based on experimental test data"
 collection: software
 ---
 
 The different tools outlined throughout O'Reilly and Sullivan (2019) to model the behaviour of the beam-column elements in addition to the beam-column joints are included here and their use illustrated. This way users can adopt the proposed numerical modelling approach proposed by the authors using single procedure commands within OpenSees. This model outlines the response of the three storey frame tested by Calvi et al. [2002] which was a frame designed for gravity loading only, whose comparison is shown below.
 
 
-<img src="../files/Images/modelling-techniques.png" style="width:48px;height:48px;">
+<img src="/images/modelling-techniques.png" style="width:48px;height:48px;">
 
 
 For the latest version of the tool, please visit the Github page [here](https://github.com/gerardjoreilly/Numerical-Modelling-of-GLD-RC-Frames).
