@@ -10,8 +10,8 @@ main:
   #     - page: Thing 2
   #       url: /portfolio/
 
-  # - title: "Research"
-  #   url: /research/
+  - title: "Research"
+    url: /research/
 
   - title: "CV"
     url: /cv/
