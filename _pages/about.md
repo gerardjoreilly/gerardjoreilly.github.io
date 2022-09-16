@@ -9,15 +9,15 @@ redirect_from:
 Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUSS Pavia](https://www.iusspavia.it/en). His primary research interests include the seismic design and assessment of structures to incorporate innovative aspects of performance-based earthquake engineering; the seismic vulnerability of existing structures and ways that different retrofitting measures (both structural and non-structural) may improve their seismic performance. He has been involved in several EU-funded projects and is the coordinator of the Horizon Europe funded [ERIES project](https://www.eries.eu).
 
 Testing2
-<head>
+<!-- <head>
   <link rel="stylesheet" href="styles.css">
-</head>
+</head> -->
 
-<script src="slider.js"></script>
+<!-- <script src="slider.js"></script> -->
 
 
  <!-- Slideshow container -->
-<div class="slideshow-container fade">
+<!-- <div class="slideshow-container fade">
 
   <!-- Full images with numbers and message Info -->
   <div class="Containers">
@@ -42,14 +42,14 @@ Testing2
   <a class="Back" onclick="plusSlides(-1)">&#10094;</a>
   <a class="forward" onclick="plusSlides(1)">&#10095;</a>
 </div>
-<br>
+<br> -->
 
 <!-- The circles/dots -->
-<div style="text-align:center">
+<!-- <div style="text-align:center">
   <span class="dots" onclick="currentSlide(1)"></span>
   <span class="dots" onclick="currentSlide(2)"></span>
   <span class="dots" onclick="currentSlide(3)"></span>
-</div>
+</div> -->
 
 
 ## News
