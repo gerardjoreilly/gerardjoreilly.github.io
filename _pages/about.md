@@ -44,6 +44,12 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
   <span class="dots" onclick="currentSlide(3)"></span>
 </div>
 
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<script src="slider.js"></script>
+
 
 ## News
 <ul>
