@@ -3,12 +3,12 @@ main:
   - title: "Bio"
     url: /bio/
 
-  - title: "Portfolio"
-    subfolderitems:
-      - page: Thing 1
-        url: /portfolio/
-      - page: Thing 2
-        url: /portfolio/
+  # - title: "Portfolio"
+  #   subfolderitems:
+  #     - page: Thing 1
+  #       url: /portfolio/
+  #     - page: Thing 2
+  #       url: /portfolio/
 
   # - title: "Research"
   #   url: /research/
@@ -16,8 +16,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Publications"
     url: /publications/
