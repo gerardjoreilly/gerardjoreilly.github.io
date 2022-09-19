@@ -5,6 +5,17 @@ permalink: /publications/journal/
 author_profile: true
 ---
 
+<html>
+<div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
+</html>
+
 ## Journal Publications
 1. Abarca, A., Monteiro, R., & **O’Reilly, G. J.** (2022). Exposure knowledge impact on regional seismic risk assessment of bridge portfolios. Bulletin of Earthquake Engineering. https://doi.org/10.1007/s10518-022-01491-z [[PDF](http://gerardjoreilly.github.io/files/Journal/74f14ec3-b71c-47fe-9979-b566247ad542.pdf)][[Link](https://doi.org/10.1007/s10518-022-01491-z)]
 1. Gallo WWC, Clemett N, Gabbianelli G, **O’Reilly GJ**, Monteiro R. Influence of Parameter Uncertainty in Multi-Criteria Decision-Making When Identifying Optimal Retrofitting Strategies for RC Buildings. Journal of Earthquake Engineering 2022: 1–26. DOI: 10.1080/13632469.2022.2087794. [[PDF](http://gerardjoreilly.github.io/files/Journal/J34.pdf)][[Link](https://www.tandfonline.com/doi/full/10.1080/13632469.2022.2087794)]
