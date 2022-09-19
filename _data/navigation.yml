@@ -13,10 +13,7 @@ main:
     url: /projects/
 
   - title: "Publications"
-    url: /publications/journal/
-
-  - title: "Publications"
-    url: /publications/conference/
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/
