@@ -33,7 +33,7 @@ author_profile: true
   The research activities associated with Line 3 envisaged a complete review of available seismic design and assessment methods currently employed. It focussed on issues related to problems with current code-based approaches and aimed to incorporate avant-garde approaches such as risk-based and loss-driven approaches in order to promote and more optimal use of available resources in the future with the overall goal of reducing seismic risk.
 
 ***Project:	INFRA-NAT – Increased Resilience of Critical Infrastructure under Natural and Human-induced Hazards***\
-**Webpage:** http://www.infra-nat.eu/\
+**Webpage:** [www.infra-nat.eu](http://www.infra-nat.eu/)\
 **Period:** Jan 2018 – Dec 2019\
 **Role:**	Deputy Coordinator and Research Collaborator\
 **Budget:**	€762,839.05\
@@ -47,43 +47,43 @@ author_profile: true
 **Period:** Jan 2020 – Jan 2022\
 **Role:**	Research Collaborator\
 **Budget:**	€75,000\
-**Funding:**	Italian Civil Protection Department\
+**Funding:**	Italian Civil Protection Department
 
 ***Project:	Progetto DPC/ReLUIS 2019-2021: WP5.4: Rapid, low impact and integrated retrofitting schemes for bridges***\
 **Period:** Jan 2019 -  Jan 2022\
 **Role:**	Task Coordinator and Collaborator\
 **Budget:**	€75,000\
-**Funding:**	Italian Civil Protection Department\
+**Funding:**	Italian Civil Protection Department
 
 ***Project: Investigation of Seismic Deformation Demand, Capacity and Control in a Novel Self-Centring Steel Braced Frame***\
 **Period:** Jan 2019 – Jun 2021\
 **Role:**	Research Collaborator\
-**Funding:**	SERA:  Seismology and Earthquake Engineering Research Infrastructure Alliance for Europe (EU Horizon 2020)\
+**Funding:**	SERA:  Seismology and Earthquake Engineering Research Infrastructure Alliance for Europe (EU Horizon 2020)
 
 ***Project:	Joint Research:  Comparison in Performance of Base-Isolated Structures between Japan and Italy @ Kobori Research Complexn***\
 **Period:** Nov 2019 – Dec 2019\
 **Role:**	Lead Researcher\
 **Budget:**	€6,850 (822,000 JPY)\
-**Funding:**	Kobori Research Complex, Tokyo, Japan \
+**Funding:**	Kobori Research Complex, Tokyo, Japan
 
 ***Project:	ReLUIS/DPC Line 7: Displacement-based seismic loss assessment***\
 **Period:** May 2016 – Dec 2018\
 **Role:**	Researcher Collaborator\
 **Budget:**	€475,250.00\
-**Funding:**	Italian Civil Protection Department\
+**Funding:**	Italian Civil Protection Department
 
 ***Project:	Progetto Scuole***\
 **Period:** May 2015 – Dec 2016\
 **Role:**	Researcher Collaborator\
 **Budget:**	€1,500,000\
-**Funding:**	Centro Geomorfologia Integrata Per L'Area Del Mediterraneo\
+**Funding:**	Centro Geomorfologia Integrata Per L'Area Del Mediterraneo
 
 ***Project:	DiSTEEL: Displacement-Based Seismic Design of Steel Moment Resisting Frame Structures***\
 **Period:** Feb 2014 – May 2014\
 **Role:**	Researcher Collaborator\
-**Funding:**	European Commission Research Fund of Coal and Steel\
+**Funding:**	European Commission Research Fund of Coal and Steel
 
 ***Project:	BRACED: Improved European design and assessment methods for concentrically-braced frames***\
 **Period:** Sep 2012 - Aug 2013\
 **Role:**	Researcher Collaborator\
-**Funding:**	SERIES: Seismic Engineering Research Infrastructures for European Synergies (European Commission FP7)\
+**Funding:**	SERIES: Seismic Engineering Research Infrastructures for European Synergies (European Commission FP7)
