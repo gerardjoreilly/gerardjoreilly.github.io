@@ -26,6 +26,7 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
   <li> <b>8/6/2022</b> - The ERIES project was kicked off in Pavia, Italy [<a href="https://eries.eu/eries-kick-off-meeting-8th-june-2022/">See more</a>] </li>
 </ul>
 
+
 <details><summary>Older news</summary>
 <ul>
 <li> <b>13/9/2021</b> - Gerard gave a presentation on "Seismic Risk Classification of Non-Structural Elements" at the 17th World Conference on Earthquake Engineering, Sendai, Japan [<a href="http://gerardjoreilly.github.io/files/Conference/C19-2020.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/17WCEE_Presentation_NonStrRisk.pdf">Presentation</a>][<a href="https://youtu.be/DXka-0tk8XU">Video</a>] </li>
