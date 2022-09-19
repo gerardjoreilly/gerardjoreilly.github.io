@@ -10,7 +10,6 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 
 ## News
-<ul>
 
 <li> <b>14/9/2022</b> - Gerard gave a presentation on "Simplified tools for the risk assessment and classification of existing buildings" at ANIDIS - Associazione Nazionale Italiana di Ingegneria Sismica 2022, Turin, Italy [<a href="http://gerardjoreilly.github.io/files/Conference/OReilly_etal_ANIDIS_2022_v3.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ANIDIS-2022-presentation.pdf">Presentation</a>]
 
@@ -25,8 +24,6 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 <li> <b>9/6/2022</b> - After a 2 year hiatus, the International Nigel Priestley Seminar is back in Pavia, Italy! </li>
 
 <li> <b>8/6/2022</b> - The ERIES project was kicked off in Pavia, Italy [<a href="https://eries.eu/eries-kick-off-meeting-8th-june-2022/">See more</a>] </li>
-
-</ul>
 
 <details><summary>Older news</summary>
 <ul>
