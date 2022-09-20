@@ -19,7 +19,7 @@ Please visit [here](https://github.com/gerardjoreilly/Matlab-Figure-Plotting).
 When building OpenSees models in the .tcl language, it is useful to be able to see what the code is actually building graphically. This Matlab-based tool allows modellers to view a 3D interactive model of their OpenSees model. It is not a GUI, but rather a simple tool that allows the user to plot and examine the model being developed with a single command from Matlab. It works for models developed in 3D only. It is capable of plotting mode shapes also that are generated using the “modalAnalysis.tcl” procedure provided. It can also calculate and report the modal participation factors for specified modes of vibration of the structure.
 
 For the latest version of the tool, please visit the Github page [here](https://github.com/gerardjoreilly/OpenSees-Model-Plotter-Matlab).
-<img src="/images/matlab-plotter.png">
+<img src="/images/matlab-plotter.png"  width="400px">
 
 ## PBEE Tools
 This is a repository of useful codes for earthquake engineering and seismic risk. The code included here are generic and should be of use to everyone. Hence, they are functions with clear input and output arguments, not singular scripts. For individual example of how to do something in particular, there is an Examples folder for more simple demonstrations. The rest of the repository has been divided with folders and subfolders to better organise the code depending on the topic. This way it is easy for anyone to check for existing tools. Codes in Python, Matlab or Tcl are uploaded since these are the most common coding languages for most people.
