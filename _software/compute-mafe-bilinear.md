@@ -8,7 +8,7 @@ When computing the mean annual frequency of exceedance (MAFE) of a structure lim
 
 However, for other structures with non-ductile behaviour (e.g. infilled RC frames) or strength-related demands (e.g. peak floor acceleration), this demand-intensity model is no longer linear, but rather bilinear. Examples are shown below for the storey drift in an infilled RC frame (below left) and for the peak floor acceleration in a ductile RC frame (below right).
 
-<img src="/images/mafe-bilinear.png" style="width:48px;height:48px;">
+<img src="/images/mafe-bilinear.jpg">
 
 For structures with such a bilinear demand-intensity model, the computation of MAFE requires a reformulation of the mathematical derivation. This has been conducted and implemented into software tools: one a MS Excel sheet and the other a Matlab function. They both perform the same operations to compute the MAFE using the proposed extension described in the references below.
 
