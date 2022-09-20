@@ -1,5 +1,5 @@
 ---
-title: "Non-ductile building database"
+title: "Non-Ductile Building Model Database"
 excerpt: "Archetype database for non-ductile infilled RC buildings designed to different standards"
 collection: software
 ---
@@ -26,7 +26,7 @@ Numerical models of the archetypes were developed in [OpenSees](https://opensees
 
 For beam-column joints, the empirical relationships derived by De Risi et al. [REF](https://onlinelibrary.wiley.com/doi/10.1002/eqe.2835) and O’Reilly & Sullivan [REF](https://www.tandfonline.com/doi/full/10.1080/13632469.2017.1360224) were considered respectively for exterior and interior joints in non-ductile structures, with both approaches adopting a lumped scissors-type modelling approach. Joints with poor detailing and smooth reinforcing bars with end-hooks were modelled using zero-length elements using the Hysteretic material model in OpenSees to account for flexural and axial behaviours. Rigid offsets were accounted for adequately in the geometric dimensions of beam-column members.
 
-Furthermore, the in-plane behaviour of masonry infill panels was modelled using the equivalent strut approach [REF](https://bulletin.nzsee.org.nz/index.php/bnzsee/article/view/503). The option of single and double struts is available in the models. The difference in infill strength (weak, medium and strong) used herein were considered following the characterization performed in Hak et al. [REF](https://www.tandfonline.com/doi/full/10.1080/13632469.2012.670575). Weak infills were used as internal partition elements within a single dwelling, whereas medium and strong infills were used for facades and partitioning of dwelling-to-dwelling and dwelling-to-stairway, as previously described. 
+Furthermore, the in-plane behaviour of masonry infill panels was modelled using the equivalent strut approach [REF](https://bulletin.nzsee.org.nz/index.php/bnzsee/article/view/503). The option of single and double struts is available in the models. The difference in infill strength (weak, medium and strong) used herein were considered following the characterization performed in Hak et al. [REF](https://www.tandfonline.com/doi/full/10.1080/13632469.2012.670575). Weak infills were used as internal partition elements within a single dwelling, whereas medium and strong infills were used for facades and partitioning of dwelling-to-dwelling and dwelling-to-stairway, as previously described.
 
 These models have been fully implemented and are available at the aforementioned GitHub repository [here](https://github.com/gerardjoreilly/Infilled-RC-Building-Database) along with several other useful documents and material regarding their structural behaviour and properties.
 
