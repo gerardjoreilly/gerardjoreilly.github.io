@@ -26,7 +26,7 @@ A simplified Response Estimation Tool (RET) is proposed based on empirical relat
 
 <img src="/images/ret_spo.png" style="width:500px">
 
-<img src="/images/ret_ff.png" style="width:500px">
+<img src="/images/ret_fff.png" style="width:500px">
 
 For the latest version of the tool, please visit the Github page [here](https://github.com/gerardjoreilly/Infilled-RC-Building-Response-Estimation).
 
