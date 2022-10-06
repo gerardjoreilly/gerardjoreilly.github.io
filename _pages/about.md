@@ -8,6 +8,41 @@ redirect_from:
 ---
 Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUSS Pavia](https://www.iusspavia.it/en). His primary research interests include the seismic design and assessment of structures to incorporate innovative aspects of performance-based earthquake engineering; the seismic vulnerability of existing structures and ways that different retrofitting measures (both structural and non-structural) may improve their seismic performance. He has been involved in several EU-funded projects and is the coordinator of the Horizon Europe funded [ERIES project](https://www.eries.eu).
 
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 3</div>
+    <img src="img1.jpg" style="width:100%">
+    <div class="text">Caption Text</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 3</div>
+    <img src="img2.jpg" style="width:100%">
+    <div class="text">Caption Two</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 3</div>
+    <img src="img3.jpg" style="width:100%">
+    <div class="text">Caption Three</div>
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+</div>
+
 
 ## News
 <ul>
