@@ -61,13 +61,15 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+    <li> <b>14/9/2022</b> - Al Mouayed Bellah Nafeh gave a seminar on "Simplified Approaches for the Risk Assessment of Non-Ductile Infilled RC Structures" at the ROSE Centre's seminar series [<a href="https://www.youtube.com/watch?v=mjh_JaIeZgw">Video</a>] </li>
+  
   <li> <b>14/9/2022</b> - Gerard gave a presentation on "Simplified tools for the risk assessment and classification of existing buildings" at ANIDIS - Associazione Nazionale Italiana di Ingegneria Sismica 2022, Turin, Italy [<a href="http://gerardjoreilly.github.io/files/Conference/OReilly_etal_ANIDIS_2022_v3.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ANIDIS-2022-presentation.pdf">Presentation</a>] </li>
 
   <li> <b>9/9/2022</b> - Davit Shahnazaryan gave a presentation on "Integrating multiple risks to aid the navigation of industrial plant workers during seismic events" which forms part of the ROSSINI project at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C29-Shahnazaryan.pdf">Paper</a>] </li>
 
   <li> <b>9/9/2022</b> - Davit Shahnazaryan gave a presentation on "Current and contemporary seismic design methods: a comparative review" at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C32-Design-Methods-final.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/3ECEES-Design-Methods-presentation.pdf">Presentation</a>] </li>
 
-  <li> <b>5/9/2022</b> - Al Mouayad Bellah Nafeh gave a presentation on "Simplified Seismic Risk Assessment of Non-Ductile Infilled RC Frame Buildings" as part of his PhD thesis work at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C31-Nafeh_OReilly_InfilledRC_SimplifiedRisk_v3.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/3ECEES-IM-bias-presentation.pdf">Presentation</a>] </li>
+  <li> <b>5/9/2022</b> - Al Mouayed Bellah Nafeh gave a presentation on "Simplified Seismic Risk Assessment of Non-Ductile Infilled RC Frame Buildings" as part of his PhD thesis work at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C31-Nafeh_OReilly_InfilledRC_SimplifiedRisk_v3.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/3ECEES-IM-bias-presentation.pdf">Presentation</a>] </li>
 
   <li> <b>5/9/2022</b> - Gerard gave a presentation on "Towards improved response quantification of existing infilled RC frames" at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C33-IM-bias-paper.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/3ECEES-IM-bias-presentation.pdf">Presentation</a>] </li>
 
@@ -77,15 +79,17 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
   <li> <b>6/7/2022</b> - Gerard gave a presentation on "Risk and loss mitigation in seismic design: a review of current methods and future direction" at ICONHIC 2022 - 3rd International Conference on Natural Hazards & Infrastructure, 22 – 24 June 2021, Athens, Greece. [<a href="http://gerardjoreilly.github.io/files/Conference/C27-ICONHIC2021_paper_OReilly_v2.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ICONHIC-2022-OReilly.pdf">Presentation</a>] </li>
 
-  <li> <b>9/6/2022</b> - After a 2 year hiatus, the International Nigel Priestley Seminar is back in Pavia, Italy! </li>
-
-  <li> <b>8/6/2022</b> - The ERIES project was kicked off in Pavia, Italy [<a href="https://eries.eu/eries-kick-off-meeting-8th-june-2022/">See more</a>] </li>
+</li>
 </ul>
 
 
 <details><summary>Older news</summary>
 <ul>
-<li> <b>13/9/2021</b> - Gerard gave a presentation on "Seismic Risk Classification of Non-Structural Elements" at the 17th World Conference on Earthquake Engineering, Sendai, Japan [<a href="http://gerardjoreilly.github.io/files/Conference/C19-2020.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/17WCEE_Presentation_NonStrRisk.pdf">Presentation</a>][<a href="https://youtu.be/DXka-0tk8XU">Video</a>] </li>
+  <li> <b>9/6/2022</b> - After a 2 year hiatus, the International Nigel Priestley Seminar is back in Pavia, Italy! </li>
+
+  <li> <b>8/6/2022</b> - The ERIES project was kicked off in Pavia, Italy [<a href="https://eries.eu/eries-kick-off-meeting-8th-june-2022/">See more</a>] 
+
+  <li> <b>13/9/2021</b> - Gerard gave a presentation on "Seismic Risk Classification of Non-Structural Elements" at the 17th World Conference on Earthquake Engineering, Sendai, Japan [<a href="http://gerardjoreilly.github.io/files/Conference/C19-2020.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/17WCEE_Presentation_NonStrRisk.pdf">Presentation</a>][<a href="https://youtu.be/DXka-0tk8XU">Video</a>] </li>
 
 <li> <b>13/12/2019</b> - Gerard gave a presentation on the Joint Research carried out at the Kobori Research Complex in Tokyo, Japan [<a href="http://gerardjoreilly.github.io/files/Presentations/OReilly-Gerard-KRC-Final-Presentation.pdf">Presentation</a>] </li>
 
