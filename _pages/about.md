@@ -61,7 +61,7 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
-  <li> <b>19/10/2022</b> - New paper by Nic Clemett and other from the Reluis 2019-2021 working group in Pavia published in the ASCE Journal of Structural Engineering on the topic of "Optimal Combined Seismic and Energy Efficiency Retrofitting for Existing Buildings in Italy" [<a href="http://gerardjoreilly.github.io/files/Journal/Clemett-et-al2023OptimalcombinedseismicandenergyefficiencyretrofittingforexistingbuildingsinItaly.pdf">Paper</a>][<a href="https://ascelibrary.org/doi/10.1061/%28ASCE%29ST.1943-541X.0003500">Link</a>] </li>
+  <li> <b>19/10/2022</b> - New paper by Nic Clemett and others from the Reluis 2019-2021 working group in Pavia published in the ASCE Journal of Structural Engineering on the topic of "Optimal Combined Seismic and Energy Efficiency Retrofitting for Existing Buildings in Italy" [<a href="http://gerardjoreilly.github.io/files/Journal/Clemett-et-al2023OptimalcombinedseismicandenergyefficiencyretrofittingforexistingbuildingsinItaly.pdf">Paper</a>][<a href="https://ascelibrary.org/doi/10.1061/%28ASCE%29ST.1943-541X.0003500">Link</a>] </li>
   
   <li> <b>12/10/2022</b> - Al Mouayed Bellah Nafeh gave a seminar on "Simplified Approaches for the Risk Assessment of Non-Ductile Infilled RC Structures" at the ROSE Centre's seminar series in Pavia, Italy [<a href="https://www.youtube.com/watch?v=mjh_JaIeZgw">Video</a>] </li>
 
