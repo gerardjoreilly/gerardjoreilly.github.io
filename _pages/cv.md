@@ -60,10 +60,11 @@ Peer Review & Service
   * Structural Engineering and Mechanics, An International Journal
   * Earthquakes and Structures
 
-Editorial Roles
+Editorial Roles & Membership
 ======
-* Member of the Editorial Board of Earthquake Engineering for the journal Frontiers in Built Environment (2020 – present)
+* Member of the [Earthquake Engineering Research Institute](https://www.eeri.org/) (2022 – present)
 * Member of the Editorial Board of Geohazards and Georisks for the journal Frontiers in Earth Science (2021 – present)
+* Member of the Editorial Board of Earthquake Engineering for the journal Frontiers in Built Environment (2020 – present)
 
 Other Qualifications
 ======
