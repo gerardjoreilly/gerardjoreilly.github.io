@@ -40,22 +40,23 @@ Peer Review & Service
 * Expert reviewer for the Swiss National Science Foundation for the 2021 call for general projects (2022)
 * Expert reviewer for the Italian Ministry of Universities and Research as part of the funding programme PRIN2020: Research Projects of Significant National Interest (2021)
 * Peer reviewer for the following international journal publications:
-  * Earthquake Engineering and Structural Dynamics;
-  * Bulletin of Earthquake Engineering;
-  * Journal of Earthquake Engineering;
-  * ASCE Journal of Structural Engineering;
-  * Engineering Structures;
-  * Earthquake Spectra;
+  * Earthquake Engineering and Structural Dynamics
+  * Bulletin of Earthquake Engineering
+  * Journal of Earthquake Engineering
+  * ASCE Journal of Structural Engineering
+  * Engineering Structures
+  * Earthquake Spectra
   * Soil Dynamic and Earthquake Engineering
-  * Earthquake Engineering and Engineering Vibrations;
-  * Journal of Building Engineering;
-  * Structures;
-  * International Journal of Disaster Risk Reduction;
-  * The Structural Design of Tall and Special Buildings;
-  * Journal of Performance of Constructed Facilities;
-  * Journal of Structural Integrity and Maintenance;
-  * Advances in Structural Engineering;
-  * Steel and Composites;
+  * Earthquake Engineering and Engineering Vibrations
+  * Journal of Building Engineering
+  * Sustainable Cities and Society
+  * Structures
+  * International Journal of Disaster Risk Reduction
+  * The Structural Design of Tall and Special Buildings
+  * Journal of Performance of Constructed Facilities
+  * Journal of Structural Integrity and Maintenance
+  * Advances in Structural Engineering
+  * Steel and Composites
   * Journal of Structural Integrity and Maintenance
   * Structural Engineering and Mechanics, An International Journal
   * Earthquakes and Structures
