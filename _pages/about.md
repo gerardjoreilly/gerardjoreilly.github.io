@@ -61,7 +61,9 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
-<li> <b>02/12/2022</b> - Gerard is the 2022 recipient of the Shah Family Innovation Prize by the Earthquake Engineering Research Institute [<a href="https://eeri.org/about-eeri/news/13895-2022-shah-family-innovation-prize-awarded-to-gerard-o-reilly">Link</a>]</li>
+  <li> <b>12/12/2022</b> - New paper with Matt Fox from the University of Pavia published in Earthquake Engineering and Structural Dynamics on the topic of "Exploring the site dependency of fragility functions in risk-targeted design" [<a href="http://gerardjoreilly.github.io/files/Journal/Fox-OReilly-EESD-2022.pdf">Paper</a>][<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.3783?campaign=wolearlyview">Link</a>] </li>
+
+  <li> <b>02/12/2022</b> - Gerard is the 2022 recipient of the Shah Family Innovation Prize by the Earthquake Engineering Research Institute [<a href="https://eeri.org/about-eeri/news/13895-2022-shah-family-innovation-prize-awarded-to-gerard-o-reilly">Link</a>]</li>
 
   <li> <b>16/11/2022</b> - Gerard gave a webinar to the Italian Association for Wind Engineering Young (ANIV - Associazione Nazionale per Ingegneria del Vento - Giovani) on the topic of "ERIES research infrastructure network: how to apply for transnational access grants" [<a href="http://gerardjoreilly.github.io/files/Presentations/Locandina_ANIVGLT_ERIES_vLRGP.pdf">Flyer</a>] [<a href="https://www.aniv-iawe.org/eries-research-infrastructure-network-how-to-apply-for-transnational-access-grants/">Link</a>]</li>
 
@@ -71,26 +73,26 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
   <li> <b>14/9/2022</b> - Gerard gave a presentation on "Simplified tools for the risk assessment and classification of existing buildings" at ANIDIS - Associazione Nazionale Italiana di Ingegneria Sismica 2022, Turin, Italy [<a href="http://gerardjoreilly.github.io/files/Conference/OReilly_etal_ANIDIS_2022_v3.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ANIDIS-2022-presentation.pdf">Presentation</a>] </li>
 
-  <li> <b>9/9/2022</b> - Davit Shahnazaryan gave a presentation on "Integrating multiple risks to aid the navigation of industrial plant workers during seismic events" which forms part of the ROSSINI project at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C29-Shahnazaryan.pdf">Paper</a>] </li>
-
-  <li> <b>9/9/2022</b> - Davit Shahnazaryan gave a presentation on "Current and contemporary seismic design methods: a comparative review" at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C32-Design-Methods-final.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/3ECEES-Design-Methods-presentation.pdf">Presentation</a>] </li>
-
-  <li> <b>5/9/2022</b> - Al Mouayed Bellah Nafeh gave a presentation on "Simplified Seismic Risk Assessment of Non-Ductile Infilled RC Frame Buildings" as part of his PhD thesis work at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C31-Nafeh_OReilly_InfilledRC_SimplifiedRisk_v3.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/3ECEES-IM-bias-presentation.pdf">Presentation</a>] </li>
-
-  <li> <b>5/9/2022</b> - Gerard gave a presentation on "Towards improved response quantification of existing infilled RC frames" at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C33-IM-bias-paper.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/3ECEES-IM-bias-presentation.pdf">Presentation</a>] </li>
-
-  <li> <b>5/9/2022</b> - Savvinos Aristeidou gave a presentation on "Ground motion directionality effects on inelastic spectral displacements" as part of his PhD thesis work at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C30-Contribution_3ECEES_Savvinos_Aristeidou_final.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/Savvinos-3ECEES.pdf">Presentation</a>] </li>
-
-  <li> <b>18/7/2022</b> - Gerard gave a presentation on "Integrating multiple risks to aid the navigation of industrial plant workers during seismic events" at the ASME 2022 Pressure Vessels & Piping Conference, Las Vegas, USA [<a href="http://gerardjoreilly.github.io/files/Conference/C28-PVP2022-84014_final.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/pvp2022_.pdf">Presentation</a>][<a href="https://youtu.be/h0L81oRVhV8">Video</a>] </li>
-
-  <li> <b>6/7/2022</b> - Gerard gave a presentation on "Risk and loss mitigation in seismic design: a review of current methods and future direction" at ICONHIC 2022 - 3rd International Conference on Natural Hazards & Infrastructure, 22 – 24 June 2021, Athens, Greece. [<a href="http://gerardjoreilly.github.io/files/Conference/C27-ICONHIC2021_paper_OReilly_v2.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ICONHIC-2022-OReilly.pdf">Presentation</a>] </li>
-
 </li>
 </ul>
 
 
 <details><summary>Older news</summary>
 <ul>
+<li> <b>9/9/2022</b> - Davit Shahnazaryan gave a presentation on "Integrating multiple risks to aid the navigation of industrial plant workers during seismic events" which forms part of the ROSSINI project at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C29-Shahnazaryan.pdf">Paper</a>] </li>
+
+<li> <b>9/9/2022</b> - Davit Shahnazaryan gave a presentation on "Current and contemporary seismic design methods: a comparative review" at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C32-Design-Methods-final.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/3ECEES-Design-Methods-presentation.pdf">Presentation</a>] </li>
+
+<li> <b>5/9/2022</b> - Al Mouayed Bellah Nafeh gave a presentation on "Simplified Seismic Risk Assessment of Non-Ductile Infilled RC Frame Buildings" as part of his PhD thesis work at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C31-Nafeh_OReilly_InfilledRC_SimplifiedRisk_v3.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/3ECEES-IM-bias-presentation.pdf">Presentation</a>] </li>
+
+<li> <b>5/9/2022</b> - Gerard gave a presentation on "Towards improved response quantification of existing infilled RC frames" at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C33-IM-bias-paper.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/3ECEES-IM-bias-presentation.pdf">Presentation</a>] </li>
+
+<li> <b>5/9/2022</b> - Savvinos Aristeidou gave a presentation on "Ground motion directionality effects on inelastic spectral displacements" as part of his PhD thesis work at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C30-Contribution_3ECEES_Savvinos_Aristeidou_final.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/Savvinos-3ECEES.pdf">Presentation</a>] </li>
+
+<li> <b>18/7/2022</b> - Gerard gave a presentation on "Integrating multiple risks to aid the navigation of industrial plant workers during seismic events" at the ASME 2022 Pressure Vessels & Piping Conference, Las Vegas, USA [<a href="http://gerardjoreilly.github.io/files/Conference/C28-PVP2022-84014_final.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/pvp2022_.pdf">Presentation</a>][<a href="https://youtu.be/h0L81oRVhV8">Video</a>] </li>
+
+<li> <b>6/7/2022</b> - Gerard gave a presentation on "Risk and loss mitigation in seismic design: a review of current methods and future direction" at ICONHIC 2022 - 3rd International Conference on Natural Hazards & Infrastructure, 22 – 24 June 2021, Athens, Greece. [<a href="http://gerardjoreilly.github.io/files/Conference/C27-ICONHIC2021_paper_OReilly_v2.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ICONHIC-2022-OReilly.pdf">Presentation</a>] </li>
+
 <li> <b>9/6/2022</b> - After a 2 year hiatus, the International Nigel Priestley Seminar is back in Pavia, Italy! </li>
 
 <li> <b>8/6/2022</b> - The ERIES project was kicked off in Pavia, Italy [<a href="https://eries.eu/eries-kick-off-meeting-8th-june-2022/">See more</a>]
