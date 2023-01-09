@@ -8,59 +8,10 @@ redirect_from:
 ---
 Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUSS Pavia](https://www.iusspavia.it/en). His primary research interests include the seismic design and assessment of structures to incorporate innovative aspects of performance-based earthquake engineering; the seismic vulnerability of existing structures and ways that different retrofitting measures (both structural and non-structural) may improve their seismic performance. He has been involved in several EU-funded projects and is the coordinator of the Horizon Europe funded [ERIES project](https://www.eries.eu).
 
-<!-- Slideshow container -->
-<div class="slideshow-container">
-
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 5</div>
-    <img src="../files/Photos/3ecees.jpeg" style="width:100%">
-    <div class="text">Presenting at the 3ECEES in Bucharest, Romania</div>
-  </div>
-
-
-
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 5</div>
-    <img src="../files/Photos/rose.jpeg" style="width:100%">
-    <div class="text">ROSE reunion at the 3ECEES in Bucharest, Romania</div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 5</div>
-    <img src="../files/Photos/anidis.jpeg" style="width:100%">
-    <div class="text">Presenting at ANIDIS in Turin, Italy</div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">4 / 5</div>
-    <img src="../files/Photos/eries.jpg" style="width:100%">
-    <div class="text">Kicking off the ERIES project in Pavia, Italy</div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">5 / 5</div>
-    <img src="../files/Photos/krc1.jpg" style="width:100%">
-    <div class="text">Saying goodbye following a 1-month visit to my colleagues at KRC in Tokyo, Japan</div>
-  </div>
-
-
-  <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<br>
-
-<!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-</div>
-
-
 ## News
 <ul>
+  <li> <b>09/01/2023</b> - New paper by Al Mouayed Bellah Nafeh published in the Bulletin of Earthquake Engineering on "Simplified pushover-based seismic risk assessment methodology for existing infilled frame structures" [<a href="http://gerardjoreilly.github.io/files/Journal/Nafeh-OReilly-2023.pdf">Paper</a>][<a href="https://link.springer.com/article/10.1007/s10518-022-01600-y">Link</a>] </li>
+
   <li> <b>12/12/2022</b> - New paper with Matt Fox from the University of Pavia published in Earthquake Engineering and Structural Dynamics on the topic of "Exploring the site dependency of fragility functions in risk-targeted design" [<a href="http://gerardjoreilly.github.io/files/Journal/Fox-OReilly-EESD-2022.pdf">Paper</a>][<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.3783?campaign=wolearlyview">Link</a>] </li>
 
   <li> <b>02/12/2022</b> - Gerard is the 2022 recipient of the Shah Family Innovation Prize by the Earthquake Engineering Research Institute [<a href="https://eeri.org/about-eeri/news/13895-2022-shah-family-innovation-prize-awarded-to-gerard-o-reilly">Link</a>]</li>
