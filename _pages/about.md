@@ -10,6 +10,8 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+  <li> <b>10/02/2023</b> - New paper published in Procedia Structural Integrity on "Simplified pushover-based seismic risk assessment methodology for existing infilled frame structures" [<a href="http://gerardjoreilly.github.io/files/Conference/anidis-2022.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S2452321623002329?via%3Dihub">Link</a>] </li>
+
   <li> <b>09/01/2023</b> - New paper by Al Mouayed Bellah Nafeh published in the Bulletin of Earthquake Engineering on "Simplified pushover-based seismic risk assessment methodology for existing infilled frame structures" [<a href="http://gerardjoreilly.github.io/files/Journal/Nafeh-OReilly-2023.pdf">Paper</a>][<a href="https://link.springer.com/article/10.1007/s10518-022-01600-y">Link</a>] </li>
 
   <li> <b>12/12/2022</b> - New paper with Matt Fox from the University of Pavia published in Earthquake Engineering and Structural Dynamics on the topic of "Exploring the site dependency of fragility functions in risk-targeted design" [<a href="http://gerardjoreilly.github.io/files/Journal/Fox-OReilly-EESD-2022.pdf">Paper</a>][<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.3783?campaign=wolearlyview">Link</a>] </li>
@@ -22,12 +24,12 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
   <li> <b>12/10/2022</b> - Al Mouayed Bellah Nafeh gave a seminar on "Simplified Approaches for the Risk Assessment of Non-Ductile Infilled RC Structures" at the ROSE Centre's seminar series in Pavia, Italy [<a href="https://www.youtube.com/watch?v=mjh_JaIeZgw">Video</a>] </li>
 
-  <li> <b>14/9/2022</b> - Gerard gave a presentation on "Simplified tools for the risk assessment and classification of existing buildings" at ANIDIS - Associazione Nazionale Italiana di Ingegneria Sismica 2022, Turin, Italy [<a href="http://gerardjoreilly.github.io/files/Conference/OReilly_etal_ANIDIS_2022_v3.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ANIDIS-2022-presentation.pdf">Presentation</a>] </li>
-
 </ul>
 
 <details><summary>Older news</summary>
 <ul>
+  <li> <b>14/9/2022</b> - Gerard gave a presentation on "Simplified tools for the risk assessment and classification of existing buildings" at ANIDIS - Associazione Nazionale Italiana di Ingegneria Sismica 2022, Turin, Italy [<a href="http://gerardjoreilly.github.io/files/Conference/OReilly_etal_ANIDIS_2022_v3.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ANIDIS-2022-presentation.pdf">Presentation</a>] </li>
+  
 <li> <b>9/9/2022</b> - Davit Shahnazaryan gave a presentation on "Integrating multiple risks to aid the navigation of industrial plant workers during seismic events" which forms part of the ROSSINI project at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C29-Shahnazaryan.pdf">Paper</a>] </li>
 
 <li> <b>9/9/2022</b> - Davit Shahnazaryan gave a presentation on "Current and contemporary seismic design methods: a comparative review" at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C32-Design-Methods-final.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/3ECEES-Design-Methods-presentation.pdf">Presentation</a>] </li>
