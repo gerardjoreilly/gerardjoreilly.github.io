@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Academic Year 2022/2023
-***Course:	Performance-Based Earthquake Engineering***\
+***Course:	Performance-Based Earthquake Engineering*** - [[Syllabus](https://github.com/gerardjoreilly/gerardjoreilly.github.io/tree/master/files/Photos/PBEE-Course-Syllabus-v4.pdf)] [[Photo](https://github.com/gerardjoreilly/gerardjoreilly.github.io/tree/master/files/Photos/pbee-2023-1.jpg)] [[Photo](https://github.com/gerardjoreilly/gerardjoreilly.github.io/tree/master/files/Photos/pbee-2023-2.jpg)]\
 **Role:**	Lecturer\
 **Programme:** Doctoral Programme Course in Understanding and Managing Extremes\
 **Institute:** IUSS Pavia, Italy
