@@ -10,6 +10,8 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+  <li> <b>03/03/2023</b> - New paper published in the International Journal of Disaster Risk Reduction on "Risk-aware navigation in industrial plants at risk of NaTech accidents" [<a href="http://gerardjoreilly.github.io/files/Journal/rossini_ijdrr.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S2212420923001000?via%3Dihub">Link</a>] </li>
+
   <li> <b>10/02/2023</b> - New paper published in Procedia Structural Integrity on "Simplified tools for the risk assessment and classification of existing buildings" [<a href="http://gerardjoreilly.github.io/files/Conference/anidis-2022.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S2452321623002329?via%3Dihub">Link</a>] </li>
 
   <li> <b>09/01/2023</b> - New paper by Al Mouayed Bellah Nafeh published in the Bulletin of Earthquake Engineering on "Simplified pushover-based seismic risk assessment methodology for existing infilled frame structures" [<a href="http://gerardjoreilly.github.io/files/Journal/Nafeh-OReilly-2023.pdf">Paper</a>][<a href="https://link.springer.com/article/10.1007/s10518-022-01600-y">Link</a>] </li>
