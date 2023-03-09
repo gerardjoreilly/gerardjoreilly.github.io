@@ -10,6 +10,8 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+  <li> <b>09/03/2023</b> - New paper published in Structure and Infrastructure Engineering on "Seismic risk prioritisation schemes for reinforced concrete bridge portfolios" [<a href="http://gerardjoreilly.github.io/files/Journal/sie_prioritisation.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S2212420923001000?via%3Dihub">Link</a>] </li>
+
   <li> <b>03/03/2023</b> - New paper published in the International Journal of Disaster Risk Reduction on "Risk-aware navigation in industrial plants at risk of NaTech accidents" [<a href="http://gerardjoreilly.github.io/files/Journal/rossini_ijdrr.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S2212420923001000?via%3Dihub">Link</a>] </li>
 
   <li> <b>10/02/2023</b> - New paper published in Procedia Structural Integrity on "Simplified tools for the risk assessment and classification of existing buildings" [<a href="http://gerardjoreilly.github.io/files/Conference/anidis-2022.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S2452321623002329?via%3Dihub">Link</a>] </li>
@@ -22,15 +24,15 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
   <li> <b>16/11/2022</b> - Gerard gave a webinar to the Italian Association for Wind Engineering Young (ANIV - Associazione Nazionale per Ingegneria del Vento - Giovani) on the topic of "ERIES research infrastructure network: how to apply for transnational access grants" [<a href="http://gerardjoreilly.github.io/files/Presentations/Locandina_ANIVGLT_ERIES_vLRGP.pdf">Flyer</a>] [<a href="https://www.aniv-iawe.org/eries-research-infrastructure-network-how-to-apply-for-transnational-access-grants/">Link</a>]</li>
 
-  <li> <b>19/10/2022</b> - New paper by Nic Clemett and others from the Reluis 2019-2021 working group in Pavia published in the ASCE Journal of Structural Engineering on the topic of "Optimal Combined Seismic and Energy Efficiency Retrofitting for Existing Buildings in Italy" [<a href="http://gerardjoreilly.github.io/files/Journal/Clemett-et-al2023OptimalcombinedseismicandenergyefficiencyretrofittingforexistingbuildingsinItaly.pdf">Paper</a>][<a href="https://ascelibrary.org/doi/10.1061/%28ASCE%29ST.1943-541X.0003500">Link</a>] </li>
-
-  <li> <b>12/10/2022</b> - Al Mouayed Bellah Nafeh gave a seminar on "Simplified Approaches for the Risk Assessment of Non-Ductile Infilled RC Structures" at the ROSE Centre's seminar series in Pavia, Italy [<a href="https://www.youtube.com/watch?v=mjh_JaIeZgw">Video</a>] </li>
-
 </ul>
 
 <details><summary>Older news</summary>
 <ul>
-  <li> <b>14/9/2022</b> - Gerard gave a presentation on "Simplified tools for the risk assessment and classification of existing buildings" at ANIDIS - Associazione Nazionale Italiana di Ingegneria Sismica 2022, Turin, Italy [<a href="http://gerardjoreilly.github.io/files/Conference/OReilly_etal_ANIDIS_2022_v3.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ANIDIS-2022-presentation.pdf">Presentation</a>] </li>
+<li> <b>19/10/2022</b> - New paper by Nic Clemett and others from the Reluis 2019-2021 working group in Pavia published in the ASCE Journal of Structural Engineering on the topic of "Optimal Combined Seismic and Energy Efficiency Retrofitting for Existing Buildings in Italy" [<a href="http://gerardjoreilly.github.io/files/Journal/Clemett-et-al2023OptimalcombinedseismicandenergyefficiencyretrofittingforexistingbuildingsinItaly.pdf">Paper</a>][<a href="https://ascelibrary.org/doi/10.1061/%28ASCE%29ST.1943-541X.0003500">Link</a>] </li>
+
+<li> <b>12/10/2022</b> - Al Mouayed Bellah Nafeh gave a seminar on "Simplified Approaches for the Risk Assessment of Non-Ductile Infilled RC Structures" at the ROSE Centre's seminar series in Pavia, Italy [<a href="https://www.youtube.com/watch?v=mjh_JaIeZgw">Video</a>] </li>
+
+<li> <b>14/9/2022</b> - Gerard gave a presentation on "Simplified tools for the risk assessment and classification of existing buildings" at ANIDIS - Associazione Nazionale Italiana di Ingegneria Sismica 2022, Turin, Italy [<a href="http://gerardjoreilly.github.io/files/Conference/OReilly_etal_ANIDIS_2022_v3.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/ANIDIS-2022-presentation.pdf">Presentation</a>] </li>
   
 <li> <b>9/9/2022</b> - Davit Shahnazaryan gave a presentation on "Integrating multiple risks to aid the navigation of industrial plant workers during seismic events" which forms part of the ROSSINI project at the 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania [<a href="http://gerardjoreilly.github.io/files/Conference/C29-Shahnazaryan.pdf">Paper</a>] </li>
 
