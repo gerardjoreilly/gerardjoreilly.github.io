@@ -10,7 +10,7 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
-  <li> <b>20/04/2023</b> - Gerard has been announced as a keynote speaker at the [<a href="http://mase.gf.ukim.edu.mk/">20th International Symposium of the Macedonian Association of Structural Engineers</a>] from 28-29 September 2023 in Skopje, North Macedonia. He will give a talk on "European Research Synergies Towards Loss and Risk-Driven Mitigation Approaches" </li>
+  <li> <b>20/04/2023</b> - Gerard has been announced as a keynote speaker at the <a href="http://mase.gf.ukim.edu.mk/">20th International Symposium of the Macedonian Association of Structural Engineers</a> from 28-29 September 2023 in Skopje, North Macedonia. He will give a talk on "European Research Synergies Towards Loss and Risk-Driven Mitigation Approaches" </li>
 
   <li> <b>13/04/2023</b> - Gerard was presented with the 2022 Shah Family Innovation Prize from the Earthquake Engineering Research Institute at the Annual Meeting in San Francisco, California 
   [<a href="https://twitter.com/EERI_tweets/status/1646310442799882240">Twitter</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_1.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_2.jpg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_3.jpg">Photo 3</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_4.jpg">Photo 4</a>] </li>
