@@ -10,6 +10,11 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+  <li> <b>20/04/2023</b> - Gerard has been announced as a keynote speaker at the <a href="http://mase.gf.ukim.edu.mk/">20th International Symposium of the Macedonian Association of Structural Engineers</a> from 28-29 September 2023 in Skopje, North Macedonia. He will give a talk on "European Research Synergies Towards Loss and Risk-Driven Mitigation Approaches" </li>
+
+  <li> <b>13/04/2023</b> - Gerard was presented with the 2022 Shah Family Innovation Prize from the Earthquake Engineering Research Institute at the Annual Meeting in San Francisco, California 
+  [<a href="https://twitter.com/EERI_tweets/status/1646310442799882240">Twitter</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_1.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_2.jpg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_3.jpg">Photo 3</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_4.jpg">Photo 4</a>] </li>
+
   <li> <b>09/03/2023</b> - New paper published in Structure and Infrastructure Engineering on "Seismic risk prioritisation schemes for reinforced concrete bridge portfolios" [<a href="http://gerardjoreilly.github.io/files/Journal/sie_prioritisation.pdf">Paper</a>][<a href="https://www.tandfonline.com/eprint/AB6MK6P6AVDWT4D9N4WK/full?target=10.1080/15732479.2023.2187424">Link</a>] </li>
 
   <li> <b>03/03/2023</b> - New paper published in the International Journal of Disaster Risk Reduction on "Risk-aware navigation in industrial plants at risk of NaTech accidents" [<a href="http://gerardjoreilly.github.io/files/Journal/rossini_ijdrr.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S2212420923001000?via%3Dihub">Link</a>] </li>
@@ -20,14 +25,15 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
   <li> <b>12/12/2022</b> - New paper with Matt Fox from the University of Pavia published in Earthquake Engineering and Structural Dynamics on the topic of "Exploring the site dependency of fragility functions in risk-targeted design" [<a href="http://gerardjoreilly.github.io/files/Journal/Fox-OReilly-EESD-2022.pdf">Paper</a>][<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.3783?campaign=wolearlyview">Link</a>] </li>
 
-  <li> <b>02/12/2022</b> - Gerard is the 2022 recipient of the Shah Family Innovation Prize by the Earthquake Engineering Research Institute [<a href="https://eeri.org/about-eeri/news/13895-2022-shah-family-innovation-prize-awarded-to-gerard-o-reilly">Link</a>]</li>
-
-  <li> <b>16/11/2022</b> - Gerard gave a webinar to the Italian Association for Wind Engineering Young (ANIV - Associazione Nazionale per Ingegneria del Vento - Giovani) on the topic of "ERIES research infrastructure network: how to apply for transnational access grants" [<a href="http://gerardjoreilly.github.io/files/Presentations/Locandina_ANIVGLT_ERIES_vLRGP.pdf">Flyer</a>] [<a href="https://www.aniv-iawe.org/eries-research-infrastructure-network-how-to-apply-for-transnational-access-grants/">Link</a>]</li>
-
 </ul>
 
 <details><summary>Older news</summary>
 <ul>
+
+<li> <b>02/12/2022</b> - Gerard is the 2022 recipient of the Shah Family Innovation Prize by the Earthquake Engineering Research Institute [<a href="https://eeri.org/about-eeri/news/13895-2022-shah-family-innovation-prize-awarded-to-gerard-o-reilly">Link</a>]</li>
+
+<li> <b>16/11/2022</b> - Gerard gave a webinar to the Italian Association for Wind Engineering Young (ANIV - Associazione Nazionale per Ingegneria del Vento - Giovani) on the topic of "ERIES research infrastructure network: how to apply for transnational access grants" [<a href="http://gerardjoreilly.github.io/files/Presentations/Locandina_ANIVGLT_ERIES_vLRGP.pdf">Flyer</a>] [<a href="https://www.aniv-iawe.org/eries-research-infrastructure-network-how-to-apply-for-transnational-access-grants/">Link</a>]</li>
+
 <li> <b>19/10/2022</b> - New paper by Nic Clemett and others from the Reluis 2019-2021 working group in Pavia published in the ASCE Journal of Structural Engineering on the topic of "Optimal Combined Seismic and Energy Efficiency Retrofitting for Existing Buildings in Italy" [<a href="http://gerardjoreilly.github.io/files/Journal/Clemett-et-al2023OptimalcombinedseismicandenergyefficiencyretrofittingforexistingbuildingsinItaly.pdf">Paper</a>][<a href="https://ascelibrary.org/doi/10.1061/%28ASCE%29ST.1943-541X.0003500">Link</a>] </li>
 
 <li> <b>12/10/2022</b> - Al Mouayed Bellah Nafeh gave a seminar on "Simplified Approaches for the Risk Assessment of Non-Ductile Infilled RC Structures" at the ROSE Centre's seminar series in Pavia, Italy [<a href="https://www.youtube.com/watch?v=mjh_JaIeZgw">Video</a>] </li>
