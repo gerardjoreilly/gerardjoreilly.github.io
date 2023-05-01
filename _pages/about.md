@@ -10,6 +10,8 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+  <li> <b>27/04/2023</b> - Gerard gave a webinar to the 2nd RICH Europe Webinar on Transnational and Virtual Access Opportunities on the topic of "ERIES – Engineering Research Infrastructures for European Synergies" [<a href="http://gerardjoreilly.github.io/files/Presentations/2023_04_27_RICH_Webinar_agenda.pdf">Flyer</a>] [<a href="https://rich-europe.eu/transnational-and-virtual-access-webinar-2-save-the-date/">Link</a>]</li>
+
   <li> <b>09/03/2023</b> - New paper published in Structure and Infrastructure Engineering on "Seismic risk prioritisation schemes for reinforced concrete bridge portfolios" [<a href="http://gerardjoreilly.github.io/files/Journal/sie_prioritisation.pdf">Paper</a>][<a href="https://www.tandfonline.com/eprint/AB6MK6P6AVDWT4D9N4WK/full?target=10.1080/15732479.2023.2187424">Link</a>] </li>
 
   <li> <b>03/03/2023</b> - New paper published in the International Journal of Disaster Risk Reduction on "Risk-aware navigation in industrial plants at risk of NaTech accidents" [<a href="http://gerardjoreilly.github.io/files/Journal/rossini_ijdrr.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S2212420923001000?via%3Dihub">Link</a>] </li>
