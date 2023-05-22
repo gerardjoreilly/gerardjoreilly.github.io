@@ -10,6 +10,8 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+  <li> <b>22/05/2023</b> - Gerard gave a presentation at the seminar on "Valutazione e gestione del rischio NaTech negli stabilimenti PIR" organised by INAIL in Rome, Italy on the topic of "La ricerca nel campo della gestione del rischio NaTech da sisma" [<a href="http://gerardjoreilly.github.io/files/Presentations/progr-dit-evento.pdf">Flyer</a>] [<a href="http://gerardjoreilly.github.io/files/Presentations/OReilly_Gerard_INAIL_2023.pdf">Presentation</a>]</li>
+
   <li> <b>27/04/2023</b> - Gerard gave a webinar to the 2nd RICH Europe Webinar on Transnational and Virtual Access Opportunities on the topic of "ERIES – Engineering Research Infrastructures for European Synergies" [<a href="http://gerardjoreilly.github.io/files/Presentations/2023_04_27_RICH_Webinar_agenda.pdf">Flyer</a>] [<a href="https://rich-europe.eu/transnational-and-virtual-access-webinar-2-save-the-date/">Link</a>]</li>
   
   <li> <b>20/04/2023</b> - Gerard has been announced as a keynote speaker at the <a href="http://mase.gf.ukim.edu.mk/">20th International Symposium of the Macedonian Association of Structural Engineers</a> from 28-29 September 2023 in Skopje, North Macedonia. He will give a talk on "European Research Synergies Towards Loss and Risk-Driven Mitigation Approaches" </li>
