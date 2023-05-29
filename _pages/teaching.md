@@ -17,11 +17,10 @@ author_profile: true
 **Institute:** IUSS Pavia, Italy
 
 ## Academic Year 2022/2023
-***Course:	Performance-Based Earthquake Engineering*** - [[Syllabus](https://github.com/gerardjoreilly/gerardjoreilly.github.io/tree/master/files/Photos/PBEE-Course-Syllabus-v4.pdf)] [[Photo](https://github.com/gerardjoreilly/gerardjoreilly.github.io/tree/master/files/Photos/pbee-2023-1.jpg)] [[Photo](https://github.com/gerardjoreilly/gerardjoreilly.github.io/tree/master/files/Photos/pbee-2023-2.jpg)]\
+***Course:	Performance-Based Earthquake Engineering*** - [[Syllabus](https://gerardjoreilly.github.io/files/Photos/PBEE-Course-Syllabus-v4.pdf)] [[Photo](https://gerardjoreilly.github.io/files/Photos/pbee-2023-1.jpg)] [[Photo](https://gerardjoreilly.github.io/files/Photos/pbee-2023-2.jpg)]\
 **Role:**	Lecturer\
 **Programme:** Doctoral Programme Course in Understanding and Managing Extremes\
 **Institute:** IUSS Pavia, Italy
-
 
 ## Academic Year 2020/2021
 ***Course:	Laboratorio di Tecnica delle Costruzioni***\
