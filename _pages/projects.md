@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 ## Research Project Coordination
+***Project:	Progetto Dipartimenti di Eccellenza 2023-2027***\
+**Period:** Jan 2023 – Dec 2027\
+**Role:**	Deputy Coordinator (Line R1)\
+**Budget:**	€6,650,000\
+**Funding:**	Italian Ministry of University and Research (MUR)\
+**Description:**\
+  The development of a risk-based approach for the sustainable design of structures and infrastructures with particular regard to those of protection from natural disasters and the sustainable development of the nation.
+
 ***Project:	ERIES: Engineering Research Infrastructures for European Synergies***\
 **Webpage:** [www.eries.eu](https://www.eries.eu)\
 **Period:** Jun 2022 – May 2026\
@@ -24,11 +32,11 @@ author_profile: true
 **Description:**\
   ROSSINI places itself within the overall field of seismic risk-aware navigation systems. It describes the use of a sensor array for the integrated risk-aware navigation in industrial plants at risk of NaTech accidents, using an industrial plant facility in Italy as its pilot study. The integration of structural and environmental risks estimated and measured in different ways via a sensor array network is presented as part of an integrated risk identification and evaluation (RIE) module. This module is used to combine and map the possible risks spatially within an industrial plant’s layout and shown how this information can then be used to not only compute the safest path to safety for a worker located within such a plant but also how mobile communications can be used to aid and guide them in different scenarios.
 
-***Project:	Progetto Dipartimenti di Eccellenza***\
+***Project:	Progetto Dipartimenti di Eccellenza 2018-2022***\
 **Period:** Jan 2019 – Jun 2022\
 **Role:**	Deputy Coordinator (Line 3)\
 **Budget:**	€8,205,100\
-**Funding:**	Italian Ministry of Education and Research (MIUR)\
+**Funding:**	Italian Ministry of University and Research (MUR)\
 **Description:**\
   The research activities associated with Line 3 envisaged a complete review of available seismic design and assessment methods currently employed. It focussed on issues related to problems with current code-based approaches and aimed to incorporate avant-garde approaches such as risk-based and loss-driven approaches in order to promote and more optimal use of available resources in the future with the overall goal of reducing seismic risk.
 
