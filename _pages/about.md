@@ -10,7 +10,7 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
-  <li> <b>25/05/2023</b> - Gerard organised and chaired the 2023 General Assembly meeting of the ERIES project in Thessaloniki, Greece. For more information about the meeting and the project activities, see the [<a href="https://eries.eu/ga-meeting-2023/">project website</a>] and the [<a href="https://www.linkedin.com/company/eries-engineering-research-infrastructures-for-european-synergies/">LinkedIn page</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2023.JPEG">Photo</a>]</li>
+  <li> <b>25/05/2023</b> - Gerard organised and chaired the 2023 General Assembly meeting of the ERIES project in Thessaloniki, Greece. For more information about the meeting and the project activities, see the <a href="https://eries.eu/ga-meeting-2023/">project website</a> and the <a href="https://www.linkedin.com/company/eries-engineering-research-infrastructures-for-european-synergies/">LinkedIn page</a>[<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2023.JPEG">Photo</a>]</li>
 
   <li> <b>22/05/2023</b> - Gerard gave a presentation at the seminar on "Valutazione e gestione del rischio NaTech negli stabilimenti PIR" organised by INAIL in Rome, Italy on the topic of "La ricerca nel campo della gestione del rischio NaTech da sisma" [<a href="http://gerardjoreilly.github.io/files/Presentations/progr-dit-evento.pdf">Flyer</a>] [<a href="http://gerardjoreilly.github.io/files/Presentations/OReilly_Gerard_INAIL_2023.pdf">Presentation</a>]</li>
 
