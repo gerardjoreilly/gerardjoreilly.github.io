@@ -10,6 +10,8 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+<li> <b>15/06/2023</b> - New paper published in Earthquake Spectra on "A ground motion model for orientation-independent inelastic spectral displacements from shallow crustal earthquakes" [<a href="http://gerardjoreilly.github.io/files/Journal/aristeidou-et-al-2023-a-ground-motion-model-for-orientation-independent-inelastic-spectral-displacements-from-shallow.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930231180228">Link</a>] </li>
+
 <li> <b>12/6/2023</b> - Al Mouayed Bellah Nafeh gave a presentation on "Fragility function uncertainty quantification in infilled RC frame buildings" as part of his PhD thesis work at COMPDYN 2023 - 9th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Athens, Greece [<a href="http://gerardjoreilly.github.io/files/Conference/Nafeh_O'Reilly_UncertaintyQuantification.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/COMPDYN2023_Nafeh.pdf">Presentation</a>] </li>
 
 <li> <b>25/05/2023</b> - Gerard organised and chaired the 2023 General Assembly meeting of the ERIES project in Thessaloniki, Greece. For more information about the meeting and the project activities, see the <a href="https://eries.eu/ga-meeting-2023/">project website</a> and the <a href="https://www.linkedin.com/company/eries-engineering-research-infrastructures-for-european-synergies/">LinkedIn page</a>[<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2023.JPEG">Photo</a>]</li>
