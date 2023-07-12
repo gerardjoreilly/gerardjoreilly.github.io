@@ -10,11 +10,13 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
-<li> <b>16/6/2023</b> - Gerard gave a presentation on "Myths and fallacies in performance-based earthquake engineering: Ode to Nigel" at the 49th Risk, Hazard and Uncertainty Workshop in Hydra, Greece [<a href="http://gerardjoreilly.github.io/files/Presentations/OReilly_Gerard_Hydra_2023_public.pdf">Presentation</a>][<a href="http://gerardjoreilly.github.io/files/Photos/hydra-group.JPG">Photo 1</a>] [<a href="http://gerardjoreilly.github.io/files/Photos/hydra-2.JPG">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/hydra-3.JPG">Photo 3</a>]</li>
+<li> <b>09/07/2023</b> - Gerard and Savvinos Aristeidou gave several presentations at ICASP14 - 14th International Conference on Applications of Statistics and Probability in Civil Engineering in Dublin, Ireland. Check out the publications sections for the full papers and presentations.[<a href="http://gerardjoreilly.github.io/files/Photos/icasp-gerard-1.JPG">Photo 1</a>] [<a href="http://gerardjoreilly.github.io/files/Photos/icasp-gerard-2.JPG">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/icasp-gerard-4.JPG">Photo 3</a>] [<a href="http://gerardjoreilly.github.io/files/Photos/icasp-savvinos.jpg">Photo 4</a>]</li>
+
+<li> <b>16/06/2023</b> - Gerard gave a presentation on "Myths and fallacies in performance-based earthquake engineering: Ode to Nigel" at the 49th Risk, Hazard and Uncertainty Workshop in Hydra, Greece [<a href="http://gerardjoreilly.github.io/files/Presentations/OReilly_Gerard_Hydra_2023_public.pdf">Presentation</a>][<a href="http://gerardjoreilly.github.io/files/Photos/hydra-group.JPG">Photo 1</a>] [<a href="http://gerardjoreilly.github.io/files/Photos/hydra-2.JPG">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/hydra-3.JPG">Photo 3</a>]</li>
 
 <li> <b>15/06/2023</b> - New paper published in Earthquake Spectra on "A ground motion model for orientation-independent inelastic spectral displacements from shallow crustal earthquakes" [<a href="http://gerardjoreilly.github.io/files/Journal/aristeidou-et-al-2023-a-ground-motion-model-for-orientation-independent-inelastic-spectral-displacements-from-shallow.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930231180228">Link</a>] </li>
 
-<li> <b>12/6/2023</b> - Al Mouayed Bellah Nafeh gave a presentation on "Fragility function uncertainty quantification in infilled RC frame buildings" as part of his PhD thesis work at COMPDYN 2023 - 9th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Athens, Greece [<a href="http://gerardjoreilly.github.io/files/Conference/Nafeh_O'Reilly_UncertaintyQuantification.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/COMPDYN2023_Nafeh.pdf">Presentation</a>] </li>
+<li> <b>12/06/2023</b> - Al Mouayed Bellah Nafeh gave a presentation on "Fragility function uncertainty quantification in infilled RC frame buildings" as part of his PhD thesis work at COMPDYN 2023 - 9th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Athens, Greece [<a href="http://gerardjoreilly.github.io/files/Conference/Nafeh_O'Reilly_UncertaintyQuantification.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/COMPDYN2023_Nafeh.pdf">Presentation</a>] </li>
 
 <li> <b>25/05/2023</b> - Gerard organised and chaired the 2023 General Assembly meeting of the ERIES project in Thessaloniki, Greece. For more information about the meeting and the project activities, see the <a href="https://eries.eu/ga-meeting-2023/">project website</a> and the <a href="https://www.linkedin.com/company/eries-engineering-research-infrastructures-for-european-synergies/">LinkedIn page</a> [<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2023.JPEG">Photo</a>]</li>
 
@@ -23,6 +25,10 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 <li> <b>27/04/2023</b> - Gerard gave a webinar to the 2nd RICH Europe Webinar on Transnational and Virtual Access Opportunities on the topic of "ERIES – Engineering Research Infrastructures for European Synergies" [<a href="http://gerardjoreilly.github.io/files/Presentations/2023_04_27_RICH_Webinar_agenda.pdf">Flyer</a>] [<a href="https://rich-europe.eu/transnational-and-virtual-access-webinar-2-save-the-date/">Link</a>]</li>
 
 <li> <b>20/04/2023</b> - Gerard has been announced as a keynote speaker at the <a href="http://mase.gf.ukim.edu.mk/">20th International Symposium of the Macedonian Association of Structural Engineers</a> from 28-29 September 2023 in Skopje, North Macedonia. He will give a talk on "European Research Synergies Towards Loss and Risk-Driven Mitigation Approaches" </li>
+</ul>
+
+<details><summary>Older news</summary>
+<ul>
 
 <li> <b>13/04/2023</b> - Gerard was presented with the 2022 Shah Family Innovation Prize from the Earthquake Engineering Research Institute at the Annual Meeting in San Francisco, California 
 [<a href="https://twitter.com/EERI_tweets/status/1646310442799882240">Twitter</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_1.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_2.jpg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_3.jpg">Photo 3</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_4.jpg">Photo 4</a>] </li>
@@ -30,12 +36,6 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 <li> <b>09/03/2023</b> - New paper published in Structure and Infrastructure Engineering on "Seismic risk prioritisation schemes for reinforced concrete bridge portfolios" [<a href="http://gerardjoreilly.github.io/files/Journal/sie_prioritisation.pdf">Paper</a>][<a href="https://www.tandfonline.com/eprint/AB6MK6P6AVDWT4D9N4WK/full?target=10.1080/15732479.2023.2187424">Link</a>] </li>
 
 <li> <b>03/03/2023</b> - New paper published in the International Journal of Disaster Risk Reduction on "Risk-aware navigation in industrial plants at risk of NaTech accidents" [<a href="http://gerardjoreilly.github.io/files/Journal/rossini_ijdrr.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S2212420923001000?via%3Dihub">Link</a>] </li>
-
-
-</ul>
-
-<details><summary>Older news</summary>
-<ul>
 
 <li> <b>10/02/2023</b> - New paper published in Procedia Structural Integrity on "Simplified tools for the risk assessment and classification of existing buildings" [<a href="http://gerardjoreilly.github.io/files/Conference/anidis-2022.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S2452321623002329?via%3Dihub">Link</a>] </li>
 
