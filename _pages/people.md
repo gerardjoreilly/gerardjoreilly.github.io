@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## PhD Students
+***Student: Serkan Hasanoglu***\
+**Topic:** Development of tools and services for the advanced assessment of existing construction typologies in Europe\
+**Period:** Oct 2022 - Oct 2026 (expected)\
+**Role:** Principal advisor
+
 ***Student: Jose Poveda***\
 **Topic:** Development of PBEE-based design, assessment and risk classification methods, with possible experimental testing of innovative and sustainable solutions for existing structures in South America\
 **Period:** Oct 2022 - Oct 2026 (expected)\

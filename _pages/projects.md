@@ -51,6 +51,20 @@ author_profile: true
 
 
 ## Research Project Collaboration
+***Project:	ERIES-ENFRAG: ENhancing state-dependent FRAGility through experimentally validated Energy-Based Approaches***\
+**Period:** May 2023 – Jul 2024\
+**Role:**	Research Collaborator\
+**Funding:**	ERIES Transnational Access Joint Research Funding Mechanism
+**Description:**\
+  ERIES-ENFRAG advances state-dependent earthquake fragility assessment methodologies. The project focuses on masonry infill walls experiencing cumulative states of damage due to combinations of in- plane (IP) and out-of-plane (OOP) actions, commonly quantified through two different peak-based engineering demand parameters (EDPs). ERIES-ENFRAG explores the experimental validation of hysteretic energy-based fragility assessment approaches, which are: 1) currently based only on analytical and/or numerical validations; 2) only considering one type of action/damage mechanism. ERIES-ENFRAG will pave the way for similar cumulative-damage tests for different structures/structural components while providing experimental data on the IP and OOP response of masonry infills. ERIES-ENFRAG aims at a robust consideration of damage-accumulation, particularly relevant in mainshock-aftershock conditions, and will also shed further light on the appropriateness of IP and OOP loading protocols used in experimental testing.
+
+***Project:	ERIES-RESTORING: REtrofitting of STOne masonRy using INnovative Grid- based composites***\
+**Period:** May 2023 – Jul 2024\
+**Role:**	Research Collaborator\
+**Funding:**	ERIES Transnational Access Joint Research Funding Mechanism
+**Description:**\
+The seismic retrofitting of existing masonry buildings has become a priority in seismically prone countries with significant cultural heritage. The proposed project aims to research the effectiveness of Composite Reinforced Mortars (CRM) in strengthening rubble stone masonry buildings. Full-scale tests will be conducted on piers with CRM applied to assess their behavior compared to non-retrofitted piers. The project will also investigate different aspect ratios and load rates. The data collected will contribute to future design guidelines for CRM as a strengthening solution, reducing vulnerability and losses after earthquakes.
+
 ***Project:	Progetto DPC/ReLUIS 2019-2021: WP5.1: Assessment of integrated seismic retrofitting schemes for buildings***\
 **Period:** Jan 2020 – Jan 2022\
 **Role:**	Research Collaborator\
@@ -68,7 +82,7 @@ author_profile: true
 **Role:**	Research Collaborator\
 **Funding:**	SERA:  Seismology and Earthquake Engineering Research Infrastructure Alliance for Europe (EU Horizon 2020)
 
-***Project:	Joint Research:  Comparison in Performance of Base-Isolated Structures between Japan and Italy @ Kobori Research Complexn***\
+***Project:	Joint Research:  Comparison in Performance of Base-Isolated Structures between Japan and Italy @ Kobori Research Complex***\
 **Period:** Nov 2019 – Dec 2019\
 **Role:**	Lead Researcher\
 **Budget:**	€6,850 (822,000 JPY)\

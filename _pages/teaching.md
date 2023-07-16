@@ -32,7 +32,6 @@ author_profile: true
 ## Academic Year 2019/2020
 ***Course:	Fundamentals of Seismic Design***\
 **Role:**	Guest Lecturer\
-**Lecturer:**	Prof. Ricardo Monteiro\
 **Programme:** Master Degree in Civil Engineering for Mitigation of Risk from Natural Hazards\
 **Institutes:**	Università di Pavia and IUSS Pavia, Italy
 
@@ -40,7 +39,6 @@ author_profile: true
 ## Academic Year 2018/2019
 ***Course:	Fundamentals of Seismic Design***\
 **Role:**	Guest Lecturer\
-**Lecturer:**	Prof. Ricardo Monteiro\
 **Programme:** Master Degree in Civil Engineering for Mitigation of Risk from Natural Hazards\
 **Institutes:**	Università di Pavia and IUSS Pavia, Italy
 
@@ -53,25 +51,19 @@ author_profile: true
 ## Academic Year 2017/2018
 ***Course:	Fundamentals of Seismic Design (ROSE/MEEES MSc Programme)***\
 **Role:**	Invited Lecturer\
-**Lecturer:**	Prof. Ricardo Monteiro\
+**Lecturer:**	Ricardo Monteiro\
 **Institutes:**	Università di Pavia and IUSS Pavia, Italy
-
-***Course:	Earthquake Engineering and Engineering Seismology***\
-**Role:**	Teaching Assistant\
-**Lecturer:**	Prof. Gian Michele Calvi\
-**Programme:** Corsi Ordinari\
-**Institute:** IUSS Pavia, Italy
 
 
 ## Academic Year 2016/2017
 ***Course:	Seismic Design of Building Structures (MSc Programme in Civil Engineering)***\
 **Role:**	Teaching Assistant\
-**Lecturer:**	Prof. Ricardo Monteiro\
+**Lecturer:**	Ricardo Monteiro\
 **Institute:**	University of Stellenbosch, South Africa
 
 
 ## Academic Year 2013/2014
 ***Course:	Seismic Design of Steel Structures (ROSE/MEEES MSc Programme)***\
 **Role:**	Teaching Assistant\
-**Lecturer:**	Prof. Roberto Leon\
+**Lecturer:**	Roberto Leon\
 **Institute:** Università di Pavia and IUSS Pavia, Italy

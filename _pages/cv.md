@@ -58,7 +58,6 @@ Peer Review & Service
   * Journal of Structural Integrity and Maintenance
   * Advances in Structural Engineering
   * Steel and Composites
-  * Journal of Structural Integrity and Maintenance
   * Structural Engineering and Mechanics, An International Journal
   * Earthquakes and Structures
 
