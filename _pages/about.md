@@ -10,6 +10,8 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+<li> <b>14/09/2023</b> - Savvinos Aristeidou presented his work at the Society for Earthquake and Civil Engineering Dynamics (SECED) 2023 Conference in Cambridge, UK. Check out the paper and poster here: [<a href="http://gerardjoreilly.github.io/files/Conference/SECED_Aristeidou_paper.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Conference/SECED_Aristeidou_poster.pdf">Poster</a>]</li>
+
 <li> <b>09/07/2023</b> - Gerard and Savvinos Aristeidou gave several presentations at ICASP14 - 14th International Conference on Applications of Statistics and Probability in Civil Engineering in Dublin, Ireland. Check out the publications sections for the full papers and presentations.[<a href="http://gerardjoreilly.github.io/files/Photos/icasp-gerard-1.JPG">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/icasp-gerard-2.JPG">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/icasp-gerard-4.JPG">Photo 3</a>][<a href="http://gerardjoreilly.github.io/files/Photos/icasp-savvinos.jpg">Photo 4</a>]</li>
 
 <li> <b>16/06/2023</b> - Gerard gave a presentation on "Myths and fallacies in performance-based earthquake engineering: Ode to Nigel" at the 49th Risk, Hazard and Uncertainty Workshop in Hydra, Greece [<a href="http://gerardjoreilly.github.io/files/Presentations/OReilly_Gerard_Hydra_2023_public.pdf">Presentation</a>][<a href="http://gerardjoreilly.github.io/files/Photos/hydra-group.JPG">Photo 1</a>] [<a href="http://gerardjoreilly.github.io/files/Photos/hydra-2.JPG">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/hydra-3.JPG">Photo 3</a>]</li>
@@ -22,13 +24,14 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 <li> <b>22/05/2023</b> - Gerard gave a presentation at the seminar on "Valutazione e gestione del rischio NaTech negli stabilimenti PIR" organised by INAIL in Rome, Italy on the topic of "La ricerca nel campo della gestione del rischio NaTech da sisma" [<a href="http://gerardjoreilly.github.io/files/Presentations/progr-dit-evento.pdf">Flyer</a>] [<a href="http://gerardjoreilly.github.io/files/Presentations/OReilly_Gerard_INAIL_2023.pdf">Presentation</a>]</li>
 
+
+<details><summary>Older news</summary>
+<ul>
+
 <li> <b>27/04/2023</b> - Gerard gave a webinar to the 2nd RICH Europe Webinar on Transnational and Virtual Access Opportunities on the topic of "ERIES – Engineering Research Infrastructures for European Synergies" [<a href="http://gerardjoreilly.github.io/files/Presentations/2023_04_27_RICH_Webinar_agenda.pdf">Flyer</a>] [<a href="https://rich-europe.eu/transnational-and-virtual-access-webinar-2-save-the-date/">Link</a>]</li>
 
 <li> <b>20/04/2023</b> - Gerard has been announced as a keynote speaker at the <a href="http://mase.gf.ukim.edu.mk/">20th International Symposium of the Macedonian Association of Structural Engineers</a> from 28-29 September 2023 in Skopje, North Macedonia. He will give a talk on "European Research Synergies Towards Loss and Risk-Driven Mitigation Approaches" </li>
 </ul>
-
-<details><summary>Older news</summary>
-<ul>
 
 <li> <b>13/04/2023</b> - Gerard was presented with the 2022 Shah Family Innovation Prize from the Earthquake Engineering Research Institute at the Annual Meeting in San Francisco, California 
 [<a href="https://twitter.com/EERI_tweets/status/1646310442799882240">Twitter</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_1.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_2.jpg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_3.jpg">Photo 3</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eeri_annual_meeting_4.jpg">Photo 4</a>] </li>
