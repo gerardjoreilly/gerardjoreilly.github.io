@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 ## Academic Year 2023/2024
-***Course:	Dynamics of Structures***\
-**Role:**	Lecturer\
-**Programme:** Master Degree in Civil Engineering for Mitigation of Risk from Natural Hazards\
-**Institutes:**	Università di Pavia and IUSS Pavia, Italy
-
-***Course:	Performance-Based Earthquake Engineering*** \
+***Course:	Performance-Based Earthquake Engineering***  - [[Syllabus](https://gerardjoreilly.github.io/files/Photos/PBEE-Course-Syllabus-v7.pdf)]\
 **Role:**	Lecturer\
 **Programme:** Doctoral Programme Course in Understanding and Managing Extremes\
 **Institute:** IUSS Pavia, Italy
+
+***Course:	Dynamics of Structures***  - [[Syllabus](https://gerardjoreilly.github.io/files/Photos/Syllabus_CivRisk_2023_v3.pdf)]\
+**Role:**	Lecturer\
+**Programme:** Master Degree in Civil Engineering for Mitigation of Risk from Natural Hazards\
+**Institutes:**	Università di Pavia and IUSS Pavia, Italy
 
 ## Academic Year 2022/2023
 ***Course:	Performance-Based Earthquake Engineering*** - [[Syllabus](https://gerardjoreilly.github.io/files/Photos/PBEE-Course-Syllabus-v4.pdf)] [[Photo](https://gerardjoreilly.github.io/files/Photos/pbee-2023-1.jpg)] [[Photo](https://gerardjoreilly.github.io/files/Photos/pbee-2023-2.jpg)]\
