@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Academic Year 2023/2024
-***Course:	Performance-Based Earthquake Engineering***  - [[Syllabus](https://gerardjoreilly.github.io/files/Photos/PBEE-Course-Syllabus-v7.pdf)]\
+***Course:	Performance-Based Earthquake Engineering***  - [[Syllabus](https://gerardjoreilly.github.io/files/Photos/PBEE-Course-Syllabus-v8.pdf)]\
 **Role:**	Lecturer\
 **Programme:** Doctoral Programme Course in Understanding and Managing Extremes\
 **Institute:** IUSS Pavia, Italy
