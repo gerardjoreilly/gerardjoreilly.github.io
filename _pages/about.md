@@ -10,6 +10,8 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+<li> <b>02/11/2023</b> - New paper published in Bulletin of Earthquake Engineering on "Simplified pushover-based seismic loss assessment for existing infilled frame structuress" [<a href="http://gerardjoreilly.github.io/files/Journal/s10518-023-01792-x.pdf">Paper</a>][<a href="https://link.springer.com/article/10.1007/s10518-023-01792-x">Link</a>] </li>
+
 <li> <b>29/09/2023</b> - Gerard gave a keynote lecture on "European Research Synergies Towards Loss and Risk-Driven Mitigation Approaches" at the <a href="http://mase.gf.ukim.edu.mk/">20th International Symposium of the Macedonian Association of Structural Engineers</a> in Skopje, North Macedonia [<a href="http://gerardjoreilly.github.io/files/Presentations/MASE20_Presentation_OReilly.pdf">Presentation</a>] [<a href="http://gerardjoreilly.github.io/files/Photos/mase-1.JPG">Photo 1</a>] [<a href="http://gerardjoreilly.github.io/files/Photos/mase-2.JPG">Photo 2</a>]</li>
 
 <li> <b>14/09/2023</b> - Savvinos Aristeidou presented his work at the Society for Earthquake and Civil Engineering Dynamics (SECED) 2023 Conference in Cambridge, UK. Check out the paper and poster here: [<a href="http://gerardjoreilly.github.io/files/Conference/SECED_Aristeidou_paper.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Conference/SECED_Aristeidou_poster.pdf">Poster</a>]</li>
