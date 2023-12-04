@@ -10,6 +10,11 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+
+<li> <b>10/11/2023</b> - Gerard finalised the second edition of the course on "Performance-based Earthquake Engineering" as part of the ROSE PhD programme at IUSS Pavia. [<a href="https://gerardjoreilly.github.io/files/Photos/PBEE-Course-Syllabus-v8.pdf">Syllabus</a>][<a href="https://gerardjoreilly.github.io/files/Photos/pbee-2023bis-1.JPG">Photo 1</a>][<a href="https://gerardjoreilly.github.io/files/Photos/pbee-2023bis-2.JPG">Photo 2</a>]</li>
+
+<li> <b>07/11/2023</b> - Al Mouayed Bellah Nafeh gave a presentation on "Fragility functions for regional assessment of infilled RC buildings: analytical derivation and empirical validation" as part of the ROSE Online Seminars organised at IUSS Pavia.[<a href="http://gerardjoreilly.github.io/files/Photos/rose-nafeh-2023.jpg">Photo 1</a>][<a href="https://www.youtube.com/watch?v=nAomrS9QdA4">Video</a>]</li>
+
 <li> <b>02/11/2023</b> - New paper published in Bulletin of Earthquake Engineering on "Simplified pushover-based seismic loss assessment for existing infilled frame structuress" [<a href="http://gerardjoreilly.github.io/files/Journal/s10518-023-01792-x.pdf">Paper</a>][<a href="https://link.springer.com/article/10.1007/s10518-023-01792-x">Link</a>] </li>
 
 <li> <b>29/09/2023</b> - Gerard gave a keynote lecture on "European Research Synergies Towards Loss and Risk-Driven Mitigation Approaches" at the <a href="http://mase.gf.ukim.edu.mk/">20th International Symposium of the Macedonian Association of Structural Engineers</a> in Skopje, North Macedonia [<a href="http://gerardjoreilly.github.io/files/Presentations/MASE20_Presentation_OReilly.pdf">Presentation</a>] [<a href="http://gerardjoreilly.github.io/files/Photos/mase-1.JPG">Photo 1</a>] [<a href="http://gerardjoreilly.github.io/files/Photos/mase-2.JPG">Photo 2</a>]</li>
@@ -24,16 +29,17 @@ Gerard J. O’Reilly is an Assistant Professor of Structural Engineering at [IUS
 
 <li> <b>12/06/2023</b> - Al Mouayed Bellah Nafeh gave a presentation on "Fragility function uncertainty quantification in infilled RC frame buildings" as part of his PhD thesis work at COMPDYN 2023 - 9th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Athens, Greece [<a href="http://gerardjoreilly.github.io/files/Conference/Nafeh_O'Reilly_UncertaintyQuantification.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/COMPDYN2023_Nafeh.pdf">Presentation</a>] </li>
 
-<li> <b>25/05/2023</b> - Gerard organised and chaired the 2023 General Assembly meeting of the ERIES project in Thessaloniki, Greece. For more information about the meeting and the project activities, see the <a href="https://eries.eu/ga-meeting-2023/">project website</a> and the <a href="https://www.linkedin.com/company/eries-engineering-research-infrastructures-for-european-synergies/">LinkedIn page</a> [<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2023.JPEG">Photo</a>]</li>
-
-<li> <b>22/05/2023</b> - Gerard gave a presentation at the seminar on "Valutazione e gestione del rischio NaTech negli stabilimenti PIR" organised by INAIL in Rome, Italy on the topic of "La ricerca nel campo della gestione del rischio NaTech da sisma" [<a href="http://gerardjoreilly.github.io/files/Presentations/progr-dit-evento.pdf">Flyer</a>] [<a href="http://gerardjoreilly.github.io/files/Presentations/OReilly_Gerard_INAIL_2023.pdf">Presentation</a>]</li>
 
 
 <details><summary>Older news</summary>
 <ul>
 </ul>
 
-i> <b>27/04/2023</b> - Gerard gave a webinar to the 2nd RICH Europe Webinar on Transnational and Virtual Access Opportunities on the topic of "ERIES – Engineering Research Infrastructures for European Synergies" [<a href="http://gerardjoreilly.github.io/files/Presentations/2023_04_27_RICH_Webinar_agenda.pdf">Flyer</a>] [<a href="https://rich-europe.eu/transnational-and-virtual-access-webinar-2-save-the-date/">Link</a>]</li>
+<li> <b>25/05/2023</b> - Gerard organised and chaired the 2023 General Assembly meeting of the ERIES project in Thessaloniki, Greece. For more information about the meeting and the project activities, see the <a href="https://eries.eu/ga-meeting-2023/">project website</a> and the <a href="https://www.linkedin.com/company/eries-engineering-research-infrastructures-for-european-synergies/">LinkedIn page</a> [<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2023.JPEG">Photo</a>]</li>
+
+<li> <b>22/05/2023</b> - Gerard gave a presentation at the seminar on "Valutazione e gestione del rischio NaTech negli stabilimenti PIR" organised by INAIL in Rome, Italy on the topic of "La ricerca nel campo della gestione del rischio NaTech da sisma" [<a href="http://gerardjoreilly.github.io/files/Presentations/progr-dit-evento.pdf">Flyer</a>] [<a href="http://gerardjoreilly.github.io/files/Presentations/OReilly_Gerard_INAIL_2023.pdf">Presentation</a>]</li>
+
+<li> <b>27/04/2023</b> - Gerard gave a webinar to the 2nd RICH Europe Webinar on Transnational and Virtual Access Opportunities on the topic of "ERIES – Engineering Research Infrastructures for European Synergies" [<a href="http://gerardjoreilly.github.io/files/Presentations/2023_04_27_RICH_Webinar_agenda.pdf">Flyer</a>] [<a href="https://rich-europe.eu/transnational-and-virtual-access-webinar-2-save-the-date/">Link</a>]</li>
 
 <li> <b>20/04/2023</b> - Gerard has been announced as a keynote speaker at the <a href="http://mase.gf.ukim.edu.mk/">20th International Symposium of the Macedonian Association of Structural Engineers</a> from 28-29 September 2023 in Skopje, North Macedonia. He will give a talk on "European Research Synergies Towards Loss and Risk-Driven Mitigation Approaches" </li>
 
