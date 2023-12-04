@@ -11,11 +11,12 @@ redirect_from:
 
 Current Appointments
 ======
-* Assistant Professor of Structural Engineering @ Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre), [IUSS Pavia, Italy](https://www.iusspavia.it/it) (May 2019  - present)
+* Associate Professor of Structural Engineering @ Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre), [IUSS Pavia, Italy](https://www.iusspavia.it/it) (Dec 2023  - present)
 * Affiliated Researcher @ [EUCENTRE Foundation](https://www.eucentre.it/?lang), Italy (Jan 2014 – present)
 
 Past Appointments
 ======
+* Assistant Professor of Structural Engineering @ Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre), [IUSS Pavia, Italy](https://www.iusspavia.it/it) (May 2019  - Nov 2023)
 * Visiting Researcher @ [Kobori Research Complex](http://www.kobori-takken.co.jp/index.html), Tokyo, Japan (Nov 2019 – Dec 2019)
 * Post-doctoral Researcher @ Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre), [IUSS Pavia, Italy](https://www.iusspavia.it/it) (Mar 2017 –  Apr 2019)
 * Visiting Researcher @ [University of California, Berkeley](https://www.berkeley.edu/), USA (Sept 2011 – Aug 2012)
