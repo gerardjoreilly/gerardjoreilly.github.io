@@ -23,7 +23,7 @@ author_profile: true
 
 ***Student: Al Mouayad Bellah Nafeh***\
 **Topic:** Performance assessment and classification of existing RC frame structures\
-**Period:** Oct 2019 - Oct 2023 (expected)\
+**Period:** Oct 2019 - Nov 2023\
 **Role:**	Principal advisor
 
 ***Student: Andres Abarca Jimenez***\
