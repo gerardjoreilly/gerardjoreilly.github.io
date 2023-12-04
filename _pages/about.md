@@ -11,9 +11,11 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+<li> <b>01/12/2023</b> - Gerard has been promoted to the rank of Associate Professor of Structural Engineering at IUSS Pavia, Italy</li>
+
 <li> <b>10/11/2023</b> - Gerard finalised the second edition of the course on "Performance-based Earthquake Engineering" as part of the ROSE PhD programme at IUSS Pavia. [<a href="https://gerardjoreilly.github.io/files/Photos/PBEE-Course-Syllabus-v8.pdf">Syllabus</a>][<a href="https://gerardjoreilly.github.io/files/Photos/pbee-2023bis-1.JPG">Photo 1</a>][<a href="https://gerardjoreilly.github.io/files/Photos/pbee-2023bis-2.JPG">Photo 2</a>]</li>
 
-<li> <b>07/11/2023</b> - Al Mouayed Bellah Nafeh gave a presentation on "Fragility functions for regional assessment of infilled RC buildings: analytical derivation and empirical validation" as part of the ROSE Online Seminars organised at IUSS Pavia.[<a href="http://gerardjoreilly.github.io/files/Photos/rose-nafeh-2023.jpg">Photo 1</a>][<a href="https://www.youtube.com/watch?v=nAomrS9QdA4">Video</a>]</li>
+<li> <b>07/11/2023</b> - Al Mouayed Bellah Nafeh gave a presentation on "Fragility functions for regional assessment of infilled RC buildings: analytical derivation and empirical validation" as part of the ROSE Online Seminars organised at IUSS Pavia. [<a href="http://gerardjoreilly.github.io/files/Photos/rose-nafeh-2023.jpg">Photo 1</a>][<a href="https://www.youtube.com/watch?v=nAomrS9QdA4">Video</a>]</li>
 
 <li> <b>02/11/2023</b> - New paper published in Bulletin of Earthquake Engineering on "Simplified pushover-based seismic loss assessment for existing infilled frame structuress" [<a href="http://gerardjoreilly.github.io/files/Journal/s10518-023-01792-x.pdf">Paper</a>][<a href="https://link.springer.com/article/10.1007/s10518-023-01792-x">Link</a>] </li>
 
