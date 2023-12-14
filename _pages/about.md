@@ -10,6 +10,7 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+<li> <b>14/12/2023</b> - New paper published in Earthquake Engineering and Structural Dynamics on "On the fragility of non‐structural elements in loss and recovery: Field observations from Japan" [<a href="http://gerardjoreilly.github.io/files/Journal/Earthq Engng Struct Dyn - 2023 - O'Reilly - On the fragility of non‐structural elements in loss and recovery  Field.pdf">Paper</a>][<a href="https://onlinelibrary.wiley.com/doi/10.1002/eqe.4066">Link</a>] </li>
 
 <li> <b>01/12/2023</b> - Gerard has been promoted to the rank of Associate Professor of Structural Engineering at IUSS Pavia, Italy</li>
 
