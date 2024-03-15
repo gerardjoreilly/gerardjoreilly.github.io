@@ -13,7 +13,7 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 <li> <b>15/03/2024</b> - New paper published in Engineering Structures on "Next-generation non-linear and collapse prediction models for short- to long-period systems via machine learning methods" [<a href="http://gerardjoreilly.github.io/files/Journal/2024-rho-mu-t.pdf">Paper</a>][<a href="https://linkinghub.elsevier.com/retrieve/pii/S0141029624003638">Link</a>] [<a href="https://pypi.org/project/xgb-rhomut/">PyPI</a>] [<a href="https://github.com/davitshahnazaryan3/XGB-rhomut">GitHub</a>]</li>
 
-
+<li> <b>12/03/2024</b> - Gerard attended the EPOS Days Workshop 2024 in Rome, Italy to take part in presenting the new EUCENTRE-led initiative on proposing a [<a href="https://builtenvdata.eu/">Built Environment Data</a>] Thematic Core Service to be included in EPOS</li>
 
 <li> <b>12/02/2024</b> - New paper published in Journal of Earthquake Engineering on "Appraising the Risk Assessment of Non-Structural Components via Simplified and Machine-Learning-Based Approaches" [<a href="http://gerardjoreilly.github.io/files/Journal/Shahnazaryan-JEE-NSE.pdf">Paper</a>][<a href="https://www.tandfonline.com/doi/full/10.1080/13632469.2024.2314169">Link</a>] </li>
 
