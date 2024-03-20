@@ -8,7 +8,7 @@ author_profile: true
 ## Research Project Coordination
 ***Project:	Progetto Dipartimenti di Eccellenza 2023-2027***\
 **Period:** Jan 2023 – Dec 2027\
-**Role:**	Deputy Coordinator (Line R1)\
+**Role:**	Coordinator (Line R1)\
 **Budget:**	€6,650,000\
 **Funding:**	Italian Ministry of University and Research (MUR)\
 **Description:**\
