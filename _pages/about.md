@@ -10,6 +10,10 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+<li> <b>22/04/2024</b> - New paper published in Journal of Earthquake Engineering on "Exploring the Use of Orientation-Independent Inelastic Spectral Displacements in the Seismic Assessment of Bridges" [<a href="http://gerardjoreilly.github.io/files/Journal/aristeidou-2024-jee.pdf">Paper</a>][<a href="https://www.tandfonline.com/doi/full/10.1080/13632469.2024.2343067">Link</a>] </li>
+
+<li> <b>09/04/2024</b> - Gerard attended the [<a href="https://2024am.eeri-events.org/">2024 EERI Annual Meeting</a>] in Seattle, USA </li>
+
 <li> <b>12/03/2024</b> - Gerard attended the EPOS Days Workshop 2024 in Rome, Italy to take part in presenting the new EUCENTRE-led initiative on proposing a <a href="https://builtenvdata.eu/">Built Environment Data</a> Thematic Core Service to be included in EPOS [<a href="https://gerardjoreilly.github.io/files/Photos/epos-days-2024.jpeg">Photo</a>] </li>
 
 <li> <b>15/03/2024</b> - New paper published in Engineering Structures on "Next-generation non-linear and collapse prediction models for short- to long-period systems via machine learning methods" [<a href="http://gerardjoreilly.github.io/files/Journal/2024-rho-mu-t.pdf">Paper</a>][<a href="https://linkinghub.elsevier.com/retrieve/pii/S0141029624003638">Link</a>] [<a href="https://pypi.org/project/xgb-rhomut/">PyPI</a>] [<a href="https://github.com/davitshahnazaryan3/XGB-rhomut">GitHub</a>]</li>
