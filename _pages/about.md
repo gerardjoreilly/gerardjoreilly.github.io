@@ -10,6 +10,8 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+<li> <b>29/04/2024</b> - New paper published in Earthquake Spectra on "On the utility of story loss functions for regional seismic vulnerability modeling and risk assessment" [<a href="http://gerardjoreilly.github.io/files/Journal/2024-oreilly-shahnazaryan-eqs.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241245940">Link</a>] </li>
+
 <li> <b>22/04/2024</b> - New paper published in Journal of Earthquake Engineering on "Exploring the Use of Orientation-Independent Inelastic Spectral Displacements in the Seismic Assessment of Bridges" [<a href="http://gerardjoreilly.github.io/files/Journal/aristeidou-2024-jee.pdf">Paper</a>][<a href="https://www.tandfonline.com/doi/full/10.1080/13632469.2024.2343067">Link</a>] </li>
 
 <li> <b>09/04/2024</b> - Gerard attended the <a href="https://2024am.eeri-events.org/">2024 EERI Annual Meeting</a> in Seattle, USA </li>
