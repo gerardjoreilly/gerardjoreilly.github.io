@@ -11,7 +11,7 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
-<li> <b>29/05/2024</b> - Gerard organised and chaired the 2024 General Assembly meeting of the ERIES project in Thessaloniki, Greece. For more information about the meeting and the project activities, see the <a href="https://www.linkedin.com/company/eries-engineering-research-infrastructures-for-european-synergies/">LinkedIn page</a> [<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2024-1.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2024-2.jpg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2024-3.jpg">Photo 3</a>]</li>
+<li> <b>29/05/2024</b> - Gerard organised and chaired the 2024 General Assembly meeting of the ERIES project in Eindhoven, Netherlands. For more information about the meeting and the project activities, see the <a href="https://www.linkedin.com/company/eries-engineering-research-infrastructures-for-european-synergies/">LinkedIn page</a> [<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2024-1.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2024-2.jpg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2024-3.jpg">Photo 3</a>]</li>
 
 
 <li> <b>29/04/2024</b> - New paper published in Earthquake Spectra on "On the utility of story loss functions for regional seismic vulnerability modeling and risk assessment" [<a href="http://gerardjoreilly.github.io/files/Journal/2024-oreilly-shahnazaryan-eqs.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241245940">Link</a>] </li>
