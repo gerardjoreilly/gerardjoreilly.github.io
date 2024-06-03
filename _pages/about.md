@@ -10,6 +10,10 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+
+<li> <b>29/05/2024</b> - Gerard organised and chaired the 2024 General Assembly meeting of the ERIES project in Thessaloniki, Greece. For more information about the meeting and the project activities, see the <a href="https://www.linkedin.com/company/eries-engineering-research-infrastructures-for-european-synergies/">LinkedIn page</a> [<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2024-1.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2024-2.jpg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2024-3.jpg">Photo 3</a>]</li>
+
+
 <li> <b>29/04/2024</b> - New paper published in Earthquake Spectra on "On the utility of story loss functions for regional seismic vulnerability modeling and risk assessment" [<a href="http://gerardjoreilly.github.io/files/Journal/2024-oreilly-shahnazaryan-eqs.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241245940">Link</a>] </li>
 
 <li> <b>22/04/2024</b> - New paper published in Journal of Earthquake Engineering on "Exploring the Use of Orientation-Independent Inelastic Spectral Displacements in the Seismic Assessment of Bridges" [<a href="http://gerardjoreilly.github.io/files/Journal/aristeidou-2024-jee.pdf">Paper</a>][<a href="https://www.tandfonline.com/doi/full/10.1080/13632469.2024.2343067">Link</a>] </li>
@@ -28,6 +32,11 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 <li> <b>10/11/2023</b> - Gerard finalised the second edition of the course on "Performance-based Earthquake Engineering" as part of the ROSE PhD programme at IUSS Pavia. [<a href="https://gerardjoreilly.github.io/files/Photos/PBEE-Course-Syllabus-v8.pdf">Syllabus</a>][<a href="https://gerardjoreilly.github.io/files/Photos/pbee-2023bis-1.JPG">Photo 1</a>][<a href="https://gerardjoreilly.github.io/files/Photos/pbee-2023bis-2.JPG">Photo 2</a>]</li>
 
+
+<details><summary>Older news</summary>
+<ul>
+</ul>
+
 <li> <b>07/11/2023</b> - Al Mouayed Bellah Nafeh gave a presentation on "Fragility functions for regional assessment of infilled RC buildings: analytical derivation and empirical validation" as part of the ROSE Online Seminars organised at IUSS Pavia. [<a href="http://gerardjoreilly.github.io/files/Photos/rose-nafeh-2023.jpg">Photo 1</a>][<a href="https://www.youtube.com/watch?v=nAomrS9QdA4">Video</a>]</li>
 
 <li> <b>02/11/2023</b> - New paper published in Bulletin of Earthquake Engineering on "Simplified pushover-based seismic loss assessment for existing infilled frame structuress" [<a href="http://gerardjoreilly.github.io/files/Journal/s10518-023-01792-x.pdf">Paper</a>][<a href="https://link.springer.com/article/10.1007/s10518-023-01792-x">Link</a>] </li>
@@ -43,12 +52,6 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 <li> <b>15/06/2023</b> - New paper published in Earthquake Spectra on "A ground motion model for orientation-independent inelastic spectral displacements from shallow crustal earthquakes" [<a href="http://gerardjoreilly.github.io/files/Journal/aristeidou-et-al-2023-a-ground-motion-model-for-orientation-independent-inelastic-spectral-displacements-from-shallow.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930231180228">Link</a>] </li>
 
 <li> <b>12/06/2023</b> - Al Mouayed Bellah Nafeh gave a presentation on "Fragility function uncertainty quantification in infilled RC frame buildings" as part of his PhD thesis work at COMPDYN 2023 - 9th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Athens, Greece [<a href="http://gerardjoreilly.github.io/files/Conference/Nafeh_O'Reilly_UncertaintyQuantification.pdf">Paper</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/COMPDYN2023_Nafeh.pdf">Presentation</a>] </li>
-
-
-
-<details><summary>Older news</summary>
-<ul>
-</ul>
 
 <li> <b>25/05/2023</b> - Gerard organised and chaired the 2023 General Assembly meeting of the ERIES project in Thessaloniki, Greece. For more information about the meeting and the project activities, see the <a href="https://eries.eu/ga-meeting-2023/">project website</a> and the <a href="https://www.linkedin.com/company/eries-engineering-research-infrastructures-for-european-synergies/">LinkedIn page</a> [<a href="http://gerardjoreilly.github.io/files/Photos/eries-ga-2023.JPEG">Photo</a>]</li>
 
