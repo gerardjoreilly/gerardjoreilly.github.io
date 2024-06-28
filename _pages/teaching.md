@@ -81,8 +81,12 @@ author_profile: true
 **Institute:**	University of Stellenbosch, South Africa
 
 
-## Academic Year 2013/2014
+<details><summary>## Academic Year 2013/2014</summary>
+<ul>
+</ul>
 ***Course:	Seismic Design of Steel Structures (ROSE/MEEES MSc Programme)***\
 **Role:**	Teaching Assistant\
 **Lecturer:**	Roberto Leon\
 **Institute:** Università di Pavia and IUSS Pavia, Italy
+
+</details>
