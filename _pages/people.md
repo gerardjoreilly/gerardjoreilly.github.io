@@ -22,7 +22,7 @@ author_profile: true
 **Role:** Principal advisor (Co-advisor: Karim Tarbali)
 
 ***Student: Al Mouayad Bellah Nafeh***\
-**Topic:** Performance assessment and classification of existing RC frame structures\
+**Topic:** Advancements in Risk- and Loss-Based Methodologies for Large-Scale Assessment of Non-Ductile Infilled Reinforced Concrete Buildings [[Presentation](http://gerardjoreilly.github.io/files/Presentations/PhD_Nafeh-2024.pdf)]\
 **Period:** Oct 2019 - Nov 2023\
 **Role:**	Principal advisor
 
@@ -42,6 +42,16 @@ author_profile: true
 **Advisor:**	Timothy J. Sullivan
 
 ## MSc Students
+***Student: Eyal Shalev***\
+**Title:** Investigating the impacts of the new Eurocode 8's design provisions on the seismic performance of steel frame structures\
+**Period:** Feb 2024 – Oct 2024\
+**Role:** Principal advisor
+
+***Student: Tomas Mejia***\
+**Title:** Quantifying the impacts of structure-to-structure damage correlation on regional seismic risk assessment\
+**Period:** Feb 2024 – Oct 2024\
+**Role:** Principal advisor
+
 ***Student: Letizia Palamara***\
 **Title:** Italian guidelines for the risk classification and management of existing bridges: a case study implementation and evaluation [[PDF](http://gerardjoreilly.github.io/files/Theses/2020-Palamara.pdf)]\
 **Period:** Feb 2021 – Oct 2021\
