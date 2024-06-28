@@ -36,7 +36,7 @@ author_profile: true
 **Period:** Sept 2017 - Nov 2021\
 **Role:**	Principal advisor (Co-advisor: Ricardo Monteiro)
 
-***Student:	Gerard J. O'Reilly***\
+***Student:	[[Gerard J. O'Reilly](https://www.linkedin.com/in/gerard-o-reilly-19601732/)]***\
 **Title:**	Performance-Based Seismic Assessment and Retrofit of Existing RC Frame Buildings in Italy [[PDF](http://gerardjoreilly.github.io/files/Theses/2016_O'Reilly.pdf)]\
 **Period:** Sept 2013 - Dec 2016\
 **Advisor:**	Timothy J. Sullivan
