@@ -11,6 +11,9 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+
+<li> <b>28/06/2024</b> - It was a great pleasure to welcome Prof. Pedro Rojas from Escuela Superior Politecnica del Litoral (ESPL) in Guayaquil, Ecuador to the Eucentre experimental testing facilities in the build-up to the WCEE in Milan. [<a href="http://gerardjoreilly.github.io/files/Photos/pedro_rojas/revisittothelaboratoryoftheeuropeancentrefortrain/20240628_111231.jpg">Photo</a>]</li>
+
 <li> <b>22/06/2024</b> - New paper published in the Bulletin of Earthquake Engineering on "Fragility functions for non-ductile infilled reinforced concrete buildings using next-generation intensity measures based on analytical models and empirical data from past earthquakes" [<a href="http://gerardjoreilly.github.io/files/Journal/nafeh-oreilly-2024-regional-ffs.pdf">Paper</a>][<a href="https://link.springer.com/article/10.1007/s10518-024-01955-4">Link</a>] </li>
 
 <li> <b>11/06/2024</b> - Gerard served as part of the PhD evaluation committee for Borjan Petreski, who defended his PhD work entitled "Towards implementation of codified design methodology for self-centering concentrically braced frames" at the Institute of Earthquake Engineering and Engineering Seismology - IZIIS in Skopje, North Macedonia. Well done and congratulation Dr. Petreski! [<a href="http://gerardjoreilly.github.io/files/Photos/iziis-petreski-phd.jpeg">Photo</a>]</li>
