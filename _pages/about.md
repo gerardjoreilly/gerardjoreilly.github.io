@@ -11,6 +11,9 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+<li> <b>02/07/2024</b> - Gerard presented an overview of the <a href="https://builtenvdata.eu/">Built Environment Data</a> candidate service that will be soon presented as a candidate to <a href="https://www.epos-eu.org/">EPOS</a> during a side meeting at the WCEE. It is an important step for our research community to organise and consulate its data and knowledge within this framework and it is a privilege to be part of the coordinating team at the Eucentre Foundation. [<a href="http://gerardjoreilly.github.io/files/Photos/wcee-epos-gerard.jpeg">Photo</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/OReilly-BED-Side-Meeting-WCEE.pdf">Presentation</a>]</li>
+
+<li> <b>01/07/2024</b> - Together with and present students Davit, Jose, and Volkan, we have created Djura! It is a new company specialising in transforming ideas into reality with cutting-edge digital tools and engineering services. Our ongoing development and academic collaborations bring the latest advancements into practical solutions. With expert consulting, we cater to diverse industry needs, empowering clients to navigate complex risk landscapes and build a safer, better-informed society. Check us out at <a href="www.djura.it">www.djura.it</a>! </li>
 
 <li> <b>28/06/2024</b> - It was a great pleasure to welcome Prof. Pedro Rojas from Escuela Superior Politecnica del Litoral (ESPL) in Guayaquil, Ecuador to the Eucentre experimental testing facilities in the build-up to the WCEE in Milan. [<a href="http://gerardjoreilly.github.io/files/Photos/pedro_rojas/revisittothelaboratoryoftheeuropeancentrefortrain/20240628_111231.jpg">Photo</a>]</li>
 
