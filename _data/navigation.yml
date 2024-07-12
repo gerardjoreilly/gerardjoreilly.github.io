@@ -24,7 +24,7 @@ main:
   - title: "People"
     url: /people/
 
-  # - title: "Djura"
-  #   url: "https://djura.it/"
+  - title: "Djura"
+    url: "https://djura.it/"
 
     
