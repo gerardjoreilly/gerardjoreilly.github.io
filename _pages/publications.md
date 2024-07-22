@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## Journal Publications
+1. Aristeidou, S., Shahnazaryan, D., & O’Reilly, G. J. (2024). Artificial neural network-based ground motion model for next-generation seismic intensity measures. Soil Dynamics and Earthquake Engineering, 184, 108851. https://doi.org/10.1016/j.soildyn.2024.108851 [[PDF](http://gerardjoreilly.github.io/files/Journal/1-s2.0-S0267726124004032-main.pdf)][[Link](https://www.sciencedirect.com/science/article/abs/pii/S0267726124004032?via%3Dihub)]
+
+1. O’Reilly, G. J., & Goggins, J. (2024). Validation of a Numerical Model for Novel Self-Centring Concentrically Braced Steel Frames. Infrastructures, 9(7), 112. https://doi.org/10.3390/infrastructures9070112 [[PDF](http://gerardjoreilly.github.io/files/Journal/infrastructures-09-00112-v2.pdf)][[Link](https://www.mdpi.com/2412-3811/9/7/112)]
+
+
 1. Nafeh, A. M. B., & **O’Reilly, G. J.** (2024). Fragility functions for non-ductile infilled reinforced concrete buildings using next-generation intensity measures based on analytical models and empirical data from past earthquakes. Bulletin of Earthquake Engineering. https://doi.org/10.1007/s10518-024-01955-4 [[PDF](http://gerardjoreilly.github.io/files/Journal/nafeh-oreilly-2024-regional-ffs.pdf)][[Link](https://link.springer.com/article/10.1007/s10518-024-01955-4)]
 
 1. **O’Reilly, G. J.**, & Shahnazaryan, D. (2024). On the utility of story loss functions for regional seismic vulnerability modeling and risk assessment. Earthquake Spectra. https://doi.org/10.1177/87552930241245940 [[PDF](http://gerardjoreilly.github.io/files/Journal/2024-oreilly-shahnazaryan-eqs.pdf)][[Link](https://journals.sagepub.com/doi/10.1177/87552930241245940)]

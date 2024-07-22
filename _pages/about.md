@@ -11,6 +11,8 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+<li> <b>22/07/2024</b> - New paper published in Soil Dynamics and Earthquake Engineering on "Artificial neural network-based ground motion model for next-generation seismic intensity measures" [<a href="http://gerardjoreilly.github.io/files/Journal/1-s2.0-S0267726124004032-main.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/abs/pii/S0267726124004032?via%3Dihub">Link</a>] </li>
+
 <li> <b>05/07/2024</b> - Gerard and his research team presented several research papers during the World Conference on Earthquake Engineering in Milan Italy. With a total of 10 papers spanning 5 sessions, in addition to chairing 8 sessions, it was a busy and fascinating week! Check out the papers <a href="https://gerardjoreilly.github.io/publications/">here</a> and here are some photos. [<a href="http://gerardjoreilly.github.io/files/Photos/wcee-2024-group.JPG">Photo</a>]</li>
 
 <li> <b>03/07/2024</b> - Gerard organised and chaired a technical session dedicated to the <a href="http://www.eries.eu/">ERIES</a> project funded by the EU. It was great to host representatives from the European Commission and hear the progress of the different transnational access projects conducting experimental research. Furthermore, synergies with Geo-INQUIRE and EFEHR were underway at our shared booth at the conference.  [<a href="http://gerardjoreilly.github.io/files/Photos/wcee/wcee-eries-gerard.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/wcee/wcee-eries-michele.jpg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Presentations/WCEE-OReilly-ERIES-v1.pdf">Presentation</a>]</li>
