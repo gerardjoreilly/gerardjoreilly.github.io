@@ -10,8 +10,9 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
-
 <li> <b>22/07/2024</b> - New paper published in Soil Dynamics and Earthquake Engineering on "Artificial neural network-based ground motion model for next-generation seismic intensity measures" [<a href="http://gerardjoreilly.github.io/files/Journal/1-s2.0-S0267726124004032-main.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/abs/pii/S0267726124004032?via%3Dihub">Link</a>] </li>
+
+<li> <b>18/07/2024</b> - Gerard and Davit Shahnazaryan have been recognised with the Engineering Structures Editor's Featured Paper Award for their paper on "Next-generation non-linear and collapse prediction models for short to long period systems via machine learning methods" [<a href="http://gerardjoreilly.github.io/files/Journal/eng-str-award.pdf">Award</a>][<a href="http://gerardjoreilly.github.io/files/Journal/2024-rho-mu-t.pdf">Paper</a>][<a href="https://linkinghub.elsevier.com/retrieve/pii/S0141029624003638">Link</a>] [<a href="https://pypi.org/project/xgb-rhomut/">PyPI</a>] [<a href="https://github.com/davitshahnazaryan3/XGB-rhomut">GitHub</a>] </li>
 
 <li> <b>05/07/2024</b> - Gerard and his research team presented several research papers during the World Conference on Earthquake Engineering in Milan Italy. With a total of 10 papers spanning 5 sessions, in addition to chairing 8 sessions, it was a busy and fascinating week! Check out the papers <a href="https://gerardjoreilly.github.io/publications/">here</a> and here are some photos. [<a href="http://gerardjoreilly.github.io/files/Photos/wcee-2024-group.JPG">Photo</a>]</li>
 
@@ -33,6 +34,11 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 <li> <b>29/04/2024</b> - New paper published in Earthquake Spectra on "On the utility of story loss functions for regional seismic vulnerability modeling and risk assessment" [<a href="http://gerardjoreilly.github.io/files/Journal/2024-oreilly-shahnazaryan-eqs.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241245940">Link</a>] </li>
 
+
+<details><summary>Older news</summary>
+<ul>
+</ul>
+
 <li> <b>22/04/2024</b> - New paper published in Journal of Earthquake Engineering on "Exploring the Use of Orientation-Independent Inelastic Spectral Displacements in the Seismic Assessment of Bridges" [<a href="http://gerardjoreilly.github.io/files/Journal/aristeidou-2024-jee.pdf">Paper</a>][<a href="https://www.tandfonline.com/doi/full/10.1080/13632469.2024.2343067">Link</a>] </li>
 
 <li> <b>09/04/2024</b> - Gerard attended the <a href="https://2024am.eeri-events.org/">2024 EERI Annual Meeting</a> in Seattle, USA </li>
@@ -48,11 +54,6 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 <li> <b>01/12/2023</b> - Gerard has been promoted to the rank of Associate Professor of Structural Engineering at IUSS Pavia, Italy</li>
 
 <li> <b>10/11/2023</b> - Gerard finalised the second edition of the course on "Performance-based Earthquake Engineering" as part of the ROSE PhD programme at IUSS Pavia. [<a href="https://gerardjoreilly.github.io/files/Photos/PBEE-Course-Syllabus-v8.pdf">Syllabus</a>][<a href="https://gerardjoreilly.github.io/files/Photos/pbee-2023bis-1.JPG">Photo 1</a>][<a href="https://gerardjoreilly.github.io/files/Photos/pbee-2023bis-2.JPG">Photo 2</a>]</li>
-
-
-<details><summary>Older news</summary>
-<ul>
-</ul>
 
 <li> <b>07/11/2023</b> - Al Mouayed Bellah Nafeh gave a presentation on "Fragility functions for regional assessment of infilled RC buildings: analytical derivation and empirical validation" as part of the ROSE Online Seminars organised at IUSS Pavia. [<a href="http://gerardjoreilly.github.io/files/Photos/rose-nafeh-2023.jpg">Photo 1</a>][<a href="https://www.youtube.com/watch?v=nAomrS9QdA4">Video</a>]</li>
 
