@@ -43,6 +43,8 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 <li> <b>09/04/2024</b> - Gerard attended the <a href="https://2024am.eeri-events.org/">2024 EERI Annual Meeting</a> in Seattle, USA </li>
 
+<li> <b>14/03/2024</b> - Gerard gave a presentation on the research on risks (<i>Ricerca sul rischio</i>) carried out at IUSS Pavia during the visit of Alessandro Fermi, <i>Assessore Regionale con delega a Università, Ricerca e Innovazione della Regione Lombardia</i>, in Pavia, Italy [<a href="http://gerardjoreilly.github.io/files/Presentations/Slide O'Reilly_2024 Fermi Regione Lombardia - O'Reilly-v2.pdf">Presentation</a>]</li>
+
 <li> <b>12/03/2024</b> - Gerard attended the EPOS Days Workshop 2024 in Rome, Italy to take part in presenting the new EUCENTRE-led initiative on proposing a <a href="https://builtenvdata.eu/">Built Environment Data</a> Thematic Core Service to be included in EPOS [<a href="https://gerardjoreilly.github.io/files/Photos/epos-days-2024.jpeg">Photo</a>] </li>
 
 <li> <b>15/03/2024</b> - New paper published in Engineering Structures on "Next-generation non-linear and collapse prediction models for short- to long-period systems via machine learning methods" [<a href="http://gerardjoreilly.github.io/files/Journal/2024-rho-mu-t.pdf">Paper</a>][<a href="https://linkinghub.elsevier.com/retrieve/pii/S0141029624003638">Link</a>] [<a href="https://pypi.org/project/xgb-rhomut/">PyPI</a>] [<a href="https://github.com/davitshahnazaryan3/XGB-rhomut">GitHub</a>]</li>
