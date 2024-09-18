@@ -10,6 +10,8 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+<li> <b>18/09/2024</b> - New paper published in Earthquake Engineering and Structural Dynamics on "The Built Environment Data platform for experimental test data in earthquake engineering" [<a href="http://gerardjoreilly.github.io/files/Journal/bed-paper.pdf">Paper</a>][<a href="https://onlinelibrary.wiley.com/doi/10.1002/eqe.4231">Link</a>] </li>
+
 <li> <b>22/07/2024</b> - New paper published in Soil Dynamics and Earthquake Engineering on "Artificial neural network-based ground motion model for next-generation seismic intensity measures" [<a href="http://gerardjoreilly.github.io/files/Journal/1-s2.0-S0267726124004032-main.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/abs/pii/S0267726124004032?via%3Dihub">Link</a>] </li>
 
 <li> <b>18/07/2024</b> - Gerard and Davit Shahnazaryan have been recognised with the Engineering Structures Editor's Featured Paper Award for their paper on "Next-generation non-linear and collapse prediction models for short to long period systems via machine learning methods" [<a href="http://gerardjoreilly.github.io/files/Journal/eng-str-award.pdf">Award</a>][<a href="http://gerardjoreilly.github.io/files/Journal/2024-rho-mu-t.pdf">Paper</a>][<a href="https://linkinghub.elsevier.com/retrieve/pii/S0141029624003638">Link</a>] [<a href="https://pypi.org/project/xgb-rhomut/">PyPI</a>] [<a href="https://github.com/davitshahnazaryan3/XGB-rhomut">GitHub</a>] </li>
