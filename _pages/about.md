@@ -10,7 +10,7 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
-<li> <b>18/09/2024</b> - New paper published in Earthquake Engineering and Structural Dynamics on "The Built Environment Data platform for experimental test data in earthquake engineering" [<a href="http://gerardjoreilly.github.io/files/Journal/bed-paper.pdf">Paper</a>][<a href="https://onlinelibrary.wiley.com/doi/10.1002/eqe.4231">Link</a>] </li>
+<li> <b>18/09/2024</b> - New paper published in Earthquake Engineering and Structural Dynamics on "The Built Environment Data platform for experimental test data in earthquake engineering" [<a href="http://gerardjoreilly.github.io/files/Journal/bed-paper.pdf">Paper</a>][<a href="https://onlinelibrary.wiley.com/doi/10.1002/eqe.4231">Link</a>]. This paper is part of an initative that I am coordinating at the <a href="https://www.eucentre.it/?lang">Eucentre Foundation</a> related to the built environment that contributes to our mission to integrate with the <a href="https://www.epos-eu.org/">EPOS</a> sphere of European research. Find out more about this iniative <a href="https://builtenvdata.eu/">here</a>! </li>
 
 <li> <b>22/07/2024</b> - New paper published in Soil Dynamics and Earthquake Engineering on "Artificial neural network-based ground motion model for next-generation seismic intensity measures" [<a href="http://gerardjoreilly.github.io/files/Journal/1-s2.0-S0267726124004032-main.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/abs/pii/S0267726124004032?via%3Dihub">Link</a>] </li>
 
