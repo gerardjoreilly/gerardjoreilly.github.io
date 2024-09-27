@@ -36,7 +36,7 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.djura %}
-        <li><a href=author.djura><i class="fab fa-fw fa-hand-o-right" aria-hidden="true"></i> Djura | Risk - Data - Engineering</a></li>
+        <li><a href="{{author.djura}}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Djura | Risk - Data - Engineering</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
