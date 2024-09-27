@@ -83,6 +83,7 @@ author:
   name             : "Gerard J. O'Reilly"
   avatar           : "OReilly_Gerard_BW_cropped.png"
   bio              : "Associate Professor at the Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre) @ IUSS Pavia, Italy"
+  consulting       : "Co-Founder of Djura | Risk - Data - Engineering"
   location         : "Pavia, Italy"
   employer         :
   pubmed           :
@@ -115,6 +116,7 @@ author:
   xing             :
   youtube          : "channel/UCi2ZwodiddRkWUZJliIYI8w/about"
   wikipedia        :
+  djura            : "https://djura.it/"
 
 
 # Reading Files

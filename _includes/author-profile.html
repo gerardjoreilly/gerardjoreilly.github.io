@@ -17,6 +17,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.consulting %}<p class="author__consulting">{{ author.consulting }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -33,6 +34,9 @@
       {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+      {% endif %}
+      {% if author.djura %}
+        <li><a href=author.djura><i class="fab fa-fw fa-hand-o-right" aria-hidden="true"></i> Djura | Risk - Data - Engineering</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
