@@ -5,7 +5,24 @@ permalink: /people/
 author_profile: true
 ---
 
+## Postdoctoral Researchers
+***Student:	[Volkan Özsaraç](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/)***\
+**Period:** May 2024 - present\
+
+***Student:	[Davit Shahnazaryan](https://www.linkedin.com/in/davitshahnazaryan/)***\
+**Period:** Dec 2021 - present\
+
 ## PhD Students
+***Student: [Vitor Monteiro](https://www.linkedin.com/in/v%C3%ADtor-monteiro-structuralengineering/)***\
+<!-- **Topic:** Development of tools and services for the advanced assessment of existing construction typologies in Europe\ -->
+**Period:** Oct 2024 - Oct 2027 (expected)\
+**Role:** Principal advisor
+
+***Student: Tomas Mejia***\
+<!-- **Topic:** Development of tools and services for the advanced assessment of existing construction typologies in Europe\ -->
+**Period:** Oct 2024 - Oct 2027 (expected)\
+**Role:** Principal advisor
+
 ***Student: [Serkan Hasanoglu](https://www.linkedin.com/in/serkan-hasano%C4%9Flu-810a12b9/)***\
 **Topic:** Development of tools and services for the advanced assessment of existing construction typologies in Europe\
 **Period:** Oct 2022 - Oct 2026 (expected)\
@@ -49,7 +66,7 @@ author_profile: true
 
 ***Student: Tomas Mejia***\
 **Title:** Quantifying the impacts of structure-to-structure damage correlation on regional seismic risk assessment\
-**Period:** Feb 2024 – Oct 2024\
+**Period:** Feb 2024 – Sept 2024\
 **Role:** Principal advisor
 
 ***Student: [Letizia Palamara](https://www.linkedin.com/in/letizia-palamara-371062227/)***\
@@ -86,3 +103,31 @@ author_profile: true
 **Title:** Seismic Assessment and Retrofit of an Existing Reinforced Concrete School Building in Italy [[PDF](http://gerardjoreilly.github.io/files/Theses/2018_Carofilis.pdf)]\
 **Period:** Sept 2017 – Feb 2018\
 **Role:** Principal advisor (Co-advisors: Andre Filiatrault, Daniele Perrone, [Ricardo Monteiro](https://www.linkedin.com/in/ricardo-monteiro-09306a58/))
+
+
+## Visiting Students
+***Student: Amir Taherian***\
+**Title:** Advancing Earthquake Loss Assessment through Digital Twin Technology and Machine Learning\
+**Period:** Nov 2024 – Mar 2025\
+**Principal Advisor:** Prof. [Vitor Silva](https://www.linkedin.com/in/vitor-silva-28a260253/)
+**Visiting From:** University of Aveiro, Portugal
+
+***Student: Brian Cagua***\
+**Title:** A Framework for Assessing the Seismic Vulnerability of Structures Subjected to Multiple Earthquakes\
+**Period:** Oct 2024 – Spet 2025\
+**Principal Advisor:** Prof. [Rodrigo Astroza](https://www.linkedin.com/in/rodrigoastroza/)
+**Visiting From:** Universidad de los Andes, Chile
+
+***Student: Carlos Pecapedra Souza***\
+**Title:** Developing and extending a simulated design framework for non-ductile RC wall structures\
+**Period:** Sept 2024\
+**Principal Advisor:** Prof. [Xavier Romao](https://www.linkedin.com/in/xavier-rom%C3%A3o-b952616/)
+**Visiting From:** University of Porto, Portugal
+
+***Student: Zhile Yang***\
+**Title:** Seismic resilience and design methods for RC bridges with additional dampers\
+**Period:** Apr 2024 – Mar 2025\
+**Principal Advisor:** Prof. Xiuli Du
+**Visiting From:** Beijing University of Technology, China
+
+2024 - 
