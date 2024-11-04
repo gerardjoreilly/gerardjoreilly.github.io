@@ -6,6 +6,28 @@ author_profile: true
 ---
 
 ## Research Project Coordination
+***Project:	Progetto DPC/ReLUIS 2024-2026: WP5.4: Rapid, low impact and integrated retrofitting schemes for bridges***\
+**Period:** Apr 2024 – present\
+**Role:**	Task Coordinator\
+**Budget:**	€75,000\
+**Funding:**	Italian Civil Protection Department (DPC)\
+**Description:**\
+  The investigation of damage mechanisms in existing bridge structures commonly found throughout Italy and comparison with past damage observations. The objective is to investigate the level of inter- and intra-structure correlation between these typologies to facilitate the more refined regional assessment and prioritisation of required interventions.
+
+***Project:	[EFEHR - European Facilities for Earthquake Hazard and Risk](http://www.efehr.org/start/)***\
+**Period:** Jul 2024 – present\
+**Role:**	Local Coordinator\
+**Funding:**	European Plate Observing System - European Research Infrastructure Consortium (EPOS-ERIC)\
+**Description:**\
+  This project facilitates the EUCENTRE's involvement in advancing earthquake hazard and risk assessment in the European-Mediterranean area as part of the EFEHR consortium's overall efforts.
+
+***Project:	[Built Environment Data Thematic Core Service](https://builtenvdata.eu/)***\
+**Period:** Oct 2022 – present\
+**Role:** Coordinator\
+**Funding:**	Italian Ministry of University and Research (MUR)\
+**Description:**\
+  The development of a new candidate thematic core service as part of EPOS (European Plate Observing System) related to the built environment. This comprises the development of databases and computational tools that facilitate the collaboration and sharing of data and knowledge according to the FAIR (Findable, Accessible, Interoperable, and Reusable) principles related to buildings and urban infrastructure.
+
 ***Project:	Progetto Dipartimenti di Eccellenza 2023-2027***\
 **Period:** Jan 2023 – Dec 2027\
 **Role:**	Coordinator (Line R1)\
