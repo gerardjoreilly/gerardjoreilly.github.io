@@ -29,6 +29,7 @@ Education
 
 Honours and Awards
 ======
+* Awarded Editor's Featured Paper Award by Engineering Structures for paper on "Next-generation non-linear and collapse prediction models for short to long period systems via machine learning methods"
 * 2022 recipient of the Shah Family Innovation Prize by the Earthquake Engineering Research Institute [[Link](https://eeri.org/about-eeri/news/13895-2022-shah-family-innovation-prize-awarded-to-gerard-o-reilly)]
 * Selected by editor as “Top Reviewer” for the journal Bulletin of Earthquake Engineering in 2020
 * Won the “2020 Outstanding Paper Award” by the International Association for Bridge and Structural Engineering for the research article “ Once upon a Time in Italy: The Tale of the Morandi Bridge” [[PDF](http://gerardjoreilly.github.io/files/Journal/J6-2019_Calvi et al._Once upon a Time in Italy The Tale of the Morandi Bridge.pdf)][[Link](https://www.tandfonline.com/doi/full/10.1080/10168664.2018.1558033)]
@@ -42,25 +43,29 @@ Peer Review & Service
 * Expert reviewer for the Swiss National Science Foundation for the 2021 call for general projects (2022)
 * Expert reviewer for the Italian Ministry of Universities and Research as part of the funding programme PRIN2020: Research Projects of Significant National Interest (2021)
 * Peer reviewer for the following international journal publications:
-  * Earthquake Engineering and Structural Dynamics
-  * Bulletin of Earthquake Engineering
-  * Journal of Earthquake Engineering
-  * ASCE Journal of Structural Engineering
-  * Engineering Structures
-  * Earthquake Spectra
-  * Soil Dynamic and Earthquake Engineering
-  * Earthquake Engineering and Engineering Vibrations
-  * Journal of Building Engineering
-  * Sustainable Cities and Society
-  * Structures
-  * International Journal of Disaster Risk Reduction
-  * The Structural Design of Tall and Special Buildings
-  * Journal of Performance of Constructed Facilities
-  * Journal of Structural Integrity and Maintenance
   * Advances in Structural Engineering
-  * Steel and Composites
-  * Structural Engineering and Mechanics, An International Journal
-  * Earthquakes and Structures
+  * ASCE Journal of Performance of Constructed Facilities
+  * ASCE Journal of Structural Engineering
+  * Bulletin of Earthquake Engineering
+  * Computers and Structures
+  * Earthquake Engineering & Engineering Vibrations
+  * Earthquake Engineering & Structural Dynamics
+  * Earthquake Spectra
+  * Earthquakes & Structures
+  * Engineering Structures
+  * International Journal of Disaster Risk Reduction
+  * Journal of Building Engineering
+  * Journal of Earthquake Engineering
+  * Journal of Structural Integrity & Maintenance
+  * Nature Communications
+  * Reliability Engineering & System Safety
+  * Resilient Cities and Structures
+  * Soil Dynamics & Earthquake Engineering
+  * Sustainable Cities & Society
+  * Steel & Composites
+  * Structural Engineering & Mechanics, An International Journal
+  * Structures
+  * The Structural Design of Tall & Special Buildings
 
 Editorial Roles & Membership
 ======
