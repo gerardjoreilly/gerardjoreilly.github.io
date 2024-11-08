@@ -18,7 +18,7 @@ author_profile: true
 **Period:** Oct 2024 - Oct 2027 (expected)\
 **Role:** Principal advisor
 
-***Student: Tomas Mejia***\
+***Student: [Tomas Mejia](https://www.linkedin.com/in/tom%C3%A1s-mej%C3%ADa-03516112a/)***\
 <!-- **Topic:** Development of tools and services for the advanced assessment of existing construction typologies in Europe\ -->
 **Period:** Oct 2024 - Oct 2027 (expected)\
 **Role:** Principal advisor
@@ -61,10 +61,10 @@ author_profile: true
 ## MSc Students
 ***Student: Eyal Shalev***\
 **Title:** Investigating the impacts of the new Eurocode 8's design provisions on the seismic performance of steel frame structures\
-**Period:** Feb 2024 – Oct 2024\
+**Period:** Feb 2024 – present\
 **Role:** Principal advisor
 
-***Student: Tomas Mejia***\
+***Student: [Tomas Mejia](https://www.linkedin.com/in/tom%C3%A1s-mej%C3%ADa-03516112a/)***\
 **Title:** Quantifying the impacts of structure-to-structure damage correlation on regional seismic risk assessment\
 **Period:** Feb 2024 – Sept 2024\
 **Role:** Principal advisor
