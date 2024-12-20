@@ -11,6 +11,10 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+<li> <b>20/12/2024</b> - New paper published in Earthquake Spectra on "Three benefits of “Caution (Yellow Tag)” in SHM-driven condition assessment of buildings: Eight years experience with market-based SHM" [<a href="http://gerardjoreilly.github.io/files/Journal/fukutomi-et-al-2024-three-benefits-of-caution-(yellow-tag)-in-shm-driven-condition-assessment-of-buildings-eight-years.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241296377">Link</a>] </li>
+
+<li> <b>20/12/2024</b> - New Engineering Practice Paper published in Earthquake Spectra on "Seismic loss assessment of existing hotel building in Ecuador" [<a href="http://gerardjoreilly.github.io/files/Journal/poveda-o-reilly-2024-seismic-loss-assessment-of-existing-hotel-building-in-ecuador.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241299356">Link</a>] </li>
+
 <li> <b>27/11/2024</b> - Gerard gave a presentation on "Built environment data for multi-hazard vulnerability models within EPOS" at the EFEHR Scientific Session 2024 organised as part of the 102nd Journées Luxembourgeoises de Géodynamique (JLG) in Luxembourg [<a href="http://gerardjoreilly.github.io/files/Presentations/BED-Design-Luxembourg-Nov-2024.pdf">Presentation</a>][<a href="http://gerardjoreilly.github.io/files/Photos/efehr-lux-2024-gerard.jpeg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/efehr-lux-2024.jpeg">Photo 2</a>] </li>
 
 <li> <b>01/11/2024</b> - New paper published in Earthquake Spectra on "Correlation models for next-generation amplitude and cumulative intensity measures using artificial neural networks" [<a href="http://gerardjoreilly.github.io/files/Journal/aristeidou-2024-correlations.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241270563">Link</a>] </li>
