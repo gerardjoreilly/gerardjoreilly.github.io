@@ -11,7 +11,7 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
-<li> <b>01/01/2025</b> - Gerard has joined the [<a href="https://journals.sagepub.com/editorial-board/EQS">Editorial Board of Earthquake Spectra</a>] as an Associate Editor! </li>
+<li> <b>01/01/2025</b> - Gerard has joined the <a href="https://journals.sagepub.com/editorial-board/EQS">Editorial Board of Earthquake Spectra</a> as an Associate Editor! </li>
 
 <li> <b>20/12/2024</b> - New paper published in Earthquake Spectra on "Three benefits of “Caution (Yellow Tag)” in SHM-driven condition assessment of buildings: Eight years experience with market-based SHM" [<a href="http://gerardjoreilly.github.io/files/Journal/fukutomi-et-al-2024-three-benefits-of-caution-(yellow-tag)-in-shm-driven-condition-assessment-of-buildings-eight-years.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241296377">Link</a>] </li>
 
