@@ -10,7 +10,7 @@ author_profile: true
 1. Poveda, J., & O’Reilly, G. J. (2024). Seismic loss assessment of existing hotel building in Ecuador. Earthquake Spectra. https://doi.org/10.1177/87552930241299356 [[PDF](http://gerardjoreilly.github.io/files/Journal/poveda-o-reilly-2024-seismic-loss-assessment-of-existing-hotel-building-in-ecuador.pdf)][[Link](https://journals.sagepub.com/doi/10.1177/87552930241299356)]
 
 
-[[Damageable Inventory Try](http://gerardjoreilly.github.io/files/Data/EQS-Hotel-Quito/Damageable-Inventory.xlsx "download")]
+[[Damageable Inventory](https://github.com/gerardjoreilly/gerardjoreilly.github.io/blob/master/files/Data/EQS-Hotel-Quito/Damageable-Inventory.xlsx)]
 [[SLF Data](http://gerardjoreilly.github.io/files/Data/EQS-Hotel-Quito/CSV-SLF-GSLF.zip)]
 [[Ground Motion Records](http://gerardjoreilly.github.io/files/Data/EQS-Hotel-Quito/EzGM_Outputs_AvgSA.rar)]
 
