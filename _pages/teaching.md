@@ -11,17 +11,17 @@ author_profile: true
 **Programme:** Master Degree in Civil Engineering for Mitigation of Risk from Natural Hazards\
 **Institutes:**	Università di Pavia and IUSS Pavia, Italy
 
-***Course:	Performance-Based Earthquake Engineering***\
+***Course:	Performance-Based Earthquake Engineering*** - [[Syllabus](https://gerardjoreilly.github.io/files/Photos/PBEE-Course-Syllabus-24-25-v5.pdf)] [[Photo](https://gerardjoreilly.github.io/files/Photos/pbee-2025.png)] \
 **Role:**	Lecturer (48 hours)\
 **Period:** February 2025\
 **Programme:** Doctoral Programme Course in Earthquake Engineering\
 **Institute:** IUSS Pavia, Italy
 
-***Course:	Risk, Reliability and Catastrophe Modelling***\
+<!-- ***Course:	Risk, Reliability and Catastrophe Modelling***\
 **Role:**	Lecturer (10 hours)\
 **Period:** April 2025\
 **Programme:** Advanced undergraduate course (Corsi Ordinari)\
-**Institute:** IUSS Pavia, Italy
+**Institute:** IUSS Pavia, Italy -->
 
 
 ## Academic Year 2023/2024
