@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Postdoctoral Researchers
+***Student: [Savvinos Aristeidou](https://www.linkedin.com/in/savvinos-aristeidou-419711230/)***\
+**Period:** Jan 2025 - present\
+
 ***Student:	[Volkan Özsaraç](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/)***\
 **Period:** May 2024 - present
 
@@ -34,8 +37,8 @@ author_profile: true
 **Role:** Principal advisor
 
 ***Student: [Savvinos Aristeidou](https://www.linkedin.com/in/savvinos-aristeidou-419711230/)***\
-**Topic:** Risk-based seismic assessment of bridge structures\
-**Period:** Oct 2020 - Oct 2024 (expected)\
+**Topic:** Advances in the practical application of next-generation intensity measures for efficient seismic risk assessment\
+**Period:** Oct 2020 - Dec 2024\
 **Role:** Principal advisor
 
 ***Student: [Al Mouayed Bellah Nafeh](https://www.linkedin.com/in/al-mouayed-bellah-nafeh/)***\
