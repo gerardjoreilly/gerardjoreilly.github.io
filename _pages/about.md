@@ -11,6 +11,8 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+<li> <b>18/03/2025</b> - Our research group (Gerard, Volkan, José, Davit and Tomas) gave several presentations at the 3rd Croatian Conference on Earthquake Engineering in Split, Croatia. Check out the papers at the [<a href="https://gerardjoreilly.github.io/publications/">Publications</a>] page [<a href="http://gerardjoreilly.github.io/files/Photos/crocee-conference-photo.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/crocee-research-group.jpeg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/crocee-gerard-1.jpg">Photo 3</a>][<a href="http://gerardjoreilly.github.io/files/Photos/crocee-gerard-2.jpg">Photo 4</a>] </li>
+
 <li> <b>06/03/2025</b> - Gerard gave a presentation on "The Built Environment Data Framework for Simulated Design and Vulnerability Modelling in Earthquake Engineering" at the 9th International Course on Seismic Analysis of Structures using OpenSees in Lausanne, Switzerland [<a href="http://gerardjoreilly.github.io/files/Presentations/BED-SimDesign-OpenSees-Lausanne-OReilly.pdf">Presentation</a>][<a href="http://gerardjoreilly.github.io/files/Photos/opensees-epfl.jpeg">Photo</a>] </li>
 
 <li> <b>01/01/2025</b> - Gerard has joined the <a href="https://journals.sagepub.com/editorial-board/EQS">Editorial Board of Earthquake Spectra</a> as an Associate Editor! </li>
