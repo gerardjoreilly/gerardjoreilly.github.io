@@ -10,7 +10,7 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
-<li> <b>22/03/2025</b> - Gerard gave a presentation on "Recent developments in the risk-targeted assessment of existing structures" at the 3rd Croatian Conference on Earthquake Engineering in Split, Croatia to illustrate how recent research developments can be integrated to develop a more accurate but yet highly practical seismic risk classification rating scheme [<a href="http://gerardjoreilly.github.io/files/Presentations/CroCEE-Presentation-OReilly.pdf">Presentation</a>]/li>
+<li> <b>22/03/2025</b> - Gerard gave a presentation on "Recent developments in the risk-targeted assessment of existing structures" at the 3rd Croatian Conference on Earthquake Engineering in Split, Croatia to illustrate how recent research developments can be integrated to develop a more accurate but yet highly practical seismic risk classification rating scheme [<a href="http://gerardjoreilly.github.io/files/Presentations/CroCEE-Presentation-OReilly.pdf">Presentation</a>]</li>
 
 <li> <b>18/03/2025</b> - Our research group (Gerard, Volkan, José, Davit and Tomás) gave several presentations at the 3rd Croatian Conference on Earthquake Engineering in Split, Croatia. Check out the papers at the <a href="https://gerardjoreilly.github.io/publications/">Publications</a> page [<a href="http://gerardjoreilly.github.io/files/Photos/crocee-conference-photo.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/crocee-research-group.jpeg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/crocee-gerard-1.jpg">Photo 3</a>][<a href="http://gerardjoreilly.github.io/files/Photos/crocee-gerard-2.jpg">Photo 4</a>] </li>
 
