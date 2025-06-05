@@ -29,7 +29,8 @@ Education
 
 Honours and Awards
 ======
-* Awarded 2024 Engineering Structures Best Paper of the Year (Artificial Intelligence in Structural Engineering) for paper on "Next-generation non-linear and collapse prediction models for short to long period systems via machine learning methods"
+* Awarded €1.3M Starting Grant by the Fondo Italiano per la Scienza (FIS) on the topic of "Sensor-driven statistical tools to evaluate risks and manage safety in the built environment"
+ Awarded 2024 Engineering Structures Best Paper of the Year (Artificial Intelligence in Structural Engineering) for paper on "Next-generation non-linear and collapse prediction models for short to long period systems via machine learning methods"
 * Awarded Editor's Featured Paper Award by Engineering Structures for paper on "Next-generation non-linear and collapse prediction models for short to long period systems via machine learning methods"
 * 2022 recipient of the Shah Family Innovation Prize by the Earthquake Engineering Research Institute [[Link](https://eeri.org/about-eeri/news/13895-2022-shah-family-innovation-prize-awarded-to-gerard-o-reilly)]
 * Selected by editor as “Top Reviewer” for the journal Bulletin of Earthquake Engineering in 2020

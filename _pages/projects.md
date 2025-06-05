@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 ## Research Project Coordination
+***Project:	SONATA: Sensor-driven statistical tools to evaluate risks and manage safety in the built environment ***\
+**Period:** Oct 2025 – present\
+**Role:**	Coordinator\
+**Budget:**	€1,321,705.00 \
+**Funding:**	Starting Grant - Fondo Italiano per la Scienza (FIS)\
+**Description:**\
+  The SONATA project aims to improve earthquake safety in Italy’s built environment, with a special focus on non-structural elements that significantly impact economic losses and recovery. Using innovative tools like the 9DLAB shaking table, sensors, AI, and image recognition, SONATA will develop advanced methods to assess seismic damage and create accurate fragility functions. These tools will be integrated into a prototype system and tested through a real-world case study to support effective risk management and decision-making.
+
+
 ***Project:	Progetto DPC/ReLUIS 2024-2026: WP5.4: Rapid, low impact and integrated retrofitting schemes for bridges***\
 **Period:** Apr 2024 – present\
 **Role:**	Task Coordinator\
