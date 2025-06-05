@@ -37,7 +37,7 @@ author_profile: true
 **Role:** Principal advisor
 
 ***Student: [Savvinos Aristeidou](https://www.linkedin.com/in/savvinos-aristeidou-419711230/)***\
-**Topic:** Advances in the practical application of next-generation intensity measures for efficient seismic risk assessment\
+**Topic:** Advances in the practical application of next-generation intensity measures for efficient seismic risk assessment [[PDF](http://gerardjoreilly.github.io/files/Theses/2025-Aristeidou-PhD.pdf)]\
 **Period:** Oct 2020 - Dec 2024\
 **Role:** Principal advisor
 
