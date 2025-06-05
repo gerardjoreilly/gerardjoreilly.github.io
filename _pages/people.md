@@ -7,7 +7,7 @@ author_profile: true
 
 ## Postdoctoral Researchers
 ***Student: [Savvinos Aristeidou](https://www.linkedin.com/in/savvinos-aristeidou-419711230/)***\
-**Period:** Jan 2025 - present\
+**Period:** Jan 2025 - present
 
 ***Student:	[Volkan Özsaraç](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/)***\
 **Period:** May 2024 - present
