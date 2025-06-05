@@ -10,6 +10,19 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+
+<li> <b>29/05/2025</b> - Savvinos Aristeidou defended his PhD thesis entitled "Advances in the practical application of next-generation intensity measures for efficient seismic risk assessment" as part of the 9th International Nigel Priestley Seminar in Pavia, Italy. Congratulations Dr. Aristeidou! [<a href="http://gerardjoreilly.github.io/files/Photos/savvinos-phd-1.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/savvinos-phd-2.jpg">Photo 2</a>]</li>
+
+<li> <b>28/05/2025</b> - Gerard attended a dinner organised by the Society for Earthquake and Civil Engineering Dynamics (SECED) at the Institute of Civil Engineers (ICE) headquarters in London, UK in honour of Prof. Gian Michele Calvi's 19th Mallet Milne lecture on "Risk management and rehousing of people displaced by earthquake disasters" [<a href="http://gerardjoreilly.github.io/files/Photos/ice-seced.jpeg">Photo</a>]</li>
+
+<li> <b>28/05/2025</b> - Gerard visited the experimental facilities at the University of Bristol in the UK and gave a seminar entitled "The role of non-structural element vulnerability and sensor-driven risk assessment in post-earthquake recovery and decision-making: lessons from Japanese field data" [<a href="http://gerardjoreilly.github.io/files/Photos/bristol.jpeg">Photo</a>]</li>
+
+<li> <b>26/05/2025</b> - Gerard has been awarded a €1.3M Starting Grant by the Fondo Italiano per la Scienza (FIS) for a project on the topic of "Sensor-driven statistical tools to evaluate risks and manage safety in the built environment". Read more about the project in <a href="https://www.eucentre.it/earthquake-safety-and-ai-prof-oreillys-sonata-project-funded-by-the-italian-science-fund/?lang=en">this interview</a></li>
+
+<li> <b>07/05/2025</b> - Gerard, along with Davit and Volkan and others organised the 2025 International Workshop in Engineering Research Infrastructures for European Synergies (ERIES-IW2025) in Lisbon on 7-9th May 2025, hosted by the Laboratório Nacional de Engenharia Civil (LNEC). Over 100 participants attended the event to discuss the exciting progress of their ERIES transnational access user projects to date and proposed activities for the upcoming months. For more information, see the <a href="https://eries.eu/iw2025-summary-highlights/">project webpage</a> [<a href="http://gerardjoreilly.github.io/files/Photos/eries-iw2025.jpeg">Photo</a>]</li>
+
+<li> <b>28/04/2025</b> - Gerard gave a presentation on the topic of "ERIES: Advancing frontier knowledge in earthquake, geotechnical and wind engineering through experimental research" as part of the special session “Advancing Environmental Science through Integrated Research Infrastructures” organised by the EU’s Research Executive Agency during the EGU General Assembly Meeting 2025 in Vienna, Austria </li>
+
 <li> <b>22/03/2025</b> - Gerard gave a presentation on "Recent developments in the risk-targeted assessment of existing structures" at the 3rd Croatian Conference on Earthquake Engineering in Split, Croatia to illustrate how recent research developments can be integrated to develop a more accurate but yet highly practical seismic risk classification rating scheme [<a href="http://gerardjoreilly.github.io/files/Presentations/CroCEE-Presentation-OReilly.pdf">Presentation</a>]</li>
 
 <li> <b>18/03/2025</b> - Our research group (Gerard, Volkan, José, Davit and Tomás) gave several presentations at the 3rd Croatian Conference on Earthquake Engineering in Split, Croatia. Check out the papers at the <a href="https://gerardjoreilly.github.io/publications/">Publications</a> page [<a href="http://gerardjoreilly.github.io/files/Photos/crocee-conference-photo.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/crocee-research-group.jpeg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/crocee-gerard-1.jpg">Photo 3</a>][<a href="http://gerardjoreilly.github.io/files/Photos/crocee-gerard-2.jpg">Photo 4</a>] </li>
@@ -27,6 +40,11 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 <li> <b>27/11/2024</b> - Gerard gave a presentation on "Built environment data for multi-hazard vulnerability models within EPOS" at the EFEHR Scientific Session 2024 organised as part of the 102nd Journées Luxembourgeoises de Géodynamique (JLG) in Luxembourg [<a href="http://gerardjoreilly.github.io/files/Presentations/BED-Design-Luxembourg-Nov-2024.pdf">Presentation</a>][<a href="http://gerardjoreilly.github.io/files/Photos/efehr-lux-2024-gerard.jpeg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/efehr-lux-2024.jpeg">Photo 2</a>] </li>
 
 <li> <b>01/11/2024</b> - New paper published in Earthquake Spectra on "Correlation models for next-generation amplitude and cumulative intensity measures using artificial neural networks" [<a href="http://gerardjoreilly.github.io/files/Journal/aristeidou-2024-correlations.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241270563">Link</a>] </li>
+
+
+<details><summary>Older news</summary>
+<ul>
+</ul>
 
 <li> <b>25/09/2024</b> - Gerard gave a presentation on "Advancing Seismic Risk Analysis through an Integrated Web Service for Ground Motion Record Selection and Scaling" in the special session organised by <a href="http://www.efehr.org/start//">EFEHR</a> at the 39th General Assembly of the European Seismological Commission in Corfu, Greece [<a href="http://gerardjoreilly.github.io/files/Presentations/ESC2024-OReilly-v1.pdf">Presentation</a>][<a href="http://gerardjoreilly.github.io/files/Photos/esc2024.jpg">Photo</a>]. It introducted the Djura Record Selector and how it advances but yet simpifies the process of ground motion record selection according to building codes, conditional spectra and more. Check it out at: <a href="https://djura.it/">Djura | Risk - Data - Engineering</a>! </li>
 
@@ -57,11 +75,6 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 <li> <b>23/05/2024</b> - Al Mouayed Bellah Nafeh successfully defended his PhD thesis on "Advancements in Risk- and Loss-Based Methodologies for Large-Scale Assessment of Non-Ductile Infilled Reinforced Concrete Buildings" at the Eighth International Nigel Priestley Seminar in Pavia. Well done and congratulation Dr. Nafeh! [<a href="http://gerardjoreilly.github.io/files/Photos/nafeh-phd-defence.jpeg">Photo</a>]</li>
 
 <li> <b>29/04/2024</b> - New paper published in Earthquake Spectra on "On the utility of story loss functions for regional seismic vulnerability modeling and risk assessment" [<a href="http://gerardjoreilly.github.io/files/Journal/2024-oreilly-shahnazaryan-eqs.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241245940">Link</a>] </li>
-
-
-<details><summary>Older news</summary>
-<ul>
-</ul>
 
 <li> <b>22/04/2024</b> - New paper published in Journal of Earthquake Engineering on "Exploring the Use of Orientation-Independent Inelastic Spectral Displacements in the Seismic Assessment of Bridges" [<a href="http://gerardjoreilly.github.io/files/Journal/aristeidou-2024-jee.pdf">Paper</a>][<a href="https://www.tandfonline.com/doi/full/10.1080/13632469.2024.2343067">Link</a>] </li>
 
