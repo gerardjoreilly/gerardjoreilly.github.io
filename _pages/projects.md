@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Research Project Coordination
-***Project:	SONATA: Sensor-driven statistical tools to evaluate risks and manage safety in the built environment ***\
+***Project:	SONATA: Sensor-driven statistical tools to evaluate risks and manage safety in the built environment***\
 **Period:** Oct 2025 – present\
 **Role:**	Coordinator\
 **Budget:**	€1,321,705.00 \
