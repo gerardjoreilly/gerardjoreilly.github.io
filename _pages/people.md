@@ -127,8 +127,3 @@ author_profile: true
 **Principal Advisor:** Prof. [Xavier Romao](https://www.linkedin.com/in/xavier-rom%C3%A3o-b952616/)\
 **Visiting From:** University of Porto, Portugal
 
-***Student: Zhile Yang***\
-**Title:** Seismic resilience and design methods for RC bridges with additional dampers\
-**Period:** Apr 2024 – Mar 2025\
-**Principal Advisor:** Prof. Xiuli Du\
-**Visiting From:** Beijing University of Technology, China
