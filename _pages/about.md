@@ -11,6 +11,10 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+<li> <b>20/06/2025</b> - Gerard attended the "EFEHR Stakeholder Workshop: Connecting with Insurance and Cat-modelling professionals" hosted at Uuniversity College London, UK</li>
+
+<li> <b>15/06/2025</b> - Our extended research group (Gerard, Volkan, Savvinos, Davit, Tomas, José) and other collaborators gave several presentations and organised different minisymposia related to tools for seismic risk assessment and experimental research at the COMPDYN2025 conference in Rhodes, Greece. Check out these contributions at the  <a href="https://2025.compdyn.org/proceedings/">proceedings webpage</a></li>
+
 <li> <b>06/06/2025</b> - Gerard gave an invited talk on "A consistent framework for seismic risk assessment, classification and decision making for existing buildings" at the 1st NORISK Workshop "The role of structural safety in the design and assessment of constructions and infrastructures" in Venice, Italy [<a href="http://gerardjoreilly.github.io/files/Photos/norisk-venezia.jpeg">Photo</a>]</li>
 
 <li> <b>29/05/2025</b> - Savvinos Aristeidou defended his PhD thesis entitled "Advances in the practical application of next-generation intensity measures for efficient seismic risk assessment" as part of the 9th International Nigel Priestley Seminar in Pavia, Italy. Congratulations Dr. Aristeidou! [<a href="http://gerardjoreilly.github.io/files/Photos/savvinos-phd-1.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/savvinos-phd-2.jpg">Photo 2</a>]</li>
