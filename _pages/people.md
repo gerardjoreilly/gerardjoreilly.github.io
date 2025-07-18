@@ -7,7 +7,7 @@ author_profile: true
 
 ## Postdoctoral Researchers
 ***Student: [Savvinos Aristeidou](https://www.linkedin.com/in/savvinos-aristeidou-419711230/)***\
-**Period:** Jan 2025 - present
+**Period:** Jan 2025 - Jun 2025
 
 ***Student:	[Volkan Özsaraç](https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/)***\
 **Period:** May 2024 - present
@@ -117,7 +117,7 @@ author_profile: true
 
 ***Student: Brian Cagua***\
 **Title:** A Framework for Assessing the Seismic Vulnerability of Structures Subjected to Multiple Earthquakes\
-**Period:** Oct 2024 – Spet 2025\
+**Period:** Oct 2024 – Sept 2025\
 **Principal Advisor:** Prof. [Rodrigo Astroza](https://www.linkedin.com/in/rodrigoastroza/)\
 **Visiting From:** Universidad de los Andes, Chile
 
