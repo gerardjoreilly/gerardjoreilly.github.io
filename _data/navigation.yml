@@ -15,6 +15,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "PubsTest"
+    url: /publications/
+    children:
+      - title: "Project A"
+        url: /publications/journal-papers/
+      - title: "Project B"
+        url: /publications/conference-papers/
+
   - title: "Teaching"
     url: /teaching/
 
