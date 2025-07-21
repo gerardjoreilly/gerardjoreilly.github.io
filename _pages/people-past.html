@@ -1,0 +1,84 @@
+---
+layout: archive
+title: ""
+permalink: /people-past/
+author_profile: true
+---
+<!-- Past Members Section -->
+<div class="team-container past-members-container">
+  <h1 class="team-title">Past Members</h1>
+  <div class="past-members-grid">
+    {% for student in site.data.team.past_members %}
+      <div class="past-member-card">
+        <h3 class="team-name">{{ student.name }}</h3>
+
+        <!-- LinkedIn (only if it exists) -->
+        {% if student.linkedin %}
+          <div class="team-links">
+            <a href="{{ student.linkedin }}" target="_blank">LinkedIn</a>
+          </div>
+        {% endif %}
+
+        <!-- Multiple Roles -->
+        {% for role in student.roles %}
+          <div class="student-role-block">
+            <p class="student-category"><em>{{ role.category }}</em></p>
+            {% if role.co_supervisor %}
+              <p class="student-co">Co-supervisor: {{ role.co_supervisor }}</p>
+            {% endif %}
+            <p class="student-period">{{ role.period }}</p>
+            {% if role.thesis_title %}
+              <p class="student-thesis">
+                <strong>Thesis:</strong> {{ role.thesis_title }}
+                {% if role.thesis_link %}
+                  <a href="{{ role.thesis_link }}" target="_blank">[PDF]</a>
+                {% endif %}
+              </p>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Visiting Members Section -->
+<div class="team-container visiting-members-container">
+  <h1 class="team-title">Visiting Members</h1>
+  <div class="visiting-members-grid">
+    {% for visitor in site.data.team.visiting_members %}
+      <div class="visiting-member-card">
+        <h3 class="team-name">{{ visitor.name }}</h3>
+
+        {% if visitor.linkedin %}
+          <div class="team-links">
+            <a href="{{ visitor.linkedin }}" target="_blank">LinkedIn</a>
+          </div>
+        {% endif %}
+
+        <p class="student-category"><em>{{ visitor.category }}</em></p>
+
+        {% if visitor.period %}
+          <p class="student-period">{{ visitor.period }}</p>
+        {% endif %}
+
+        {% if visitor.main_supervisor %}
+          <p class="student-co"><strong>Main Supervisor:</strong> {{ visitor.main_supervisor }}</p>
+        {% endif %}
+
+        {% if visitor.visiting_from %}
+          <p class="student-co"><strong>Visiting from:</strong> {{ visitor.visiting_from }}</p>
+        {% endif %}
+
+        {% if visitor.thesis_title %}
+          <p class="student-thesis">
+            <strong>Research:</strong> {{ visitor.thesis_title }}
+            {% if visitor.thesis_link %}
+              <a href="{{ visitor.thesis_link }}" target="_blank">[PDF]</a>
+            {% endif %}
+          </p>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+</div>

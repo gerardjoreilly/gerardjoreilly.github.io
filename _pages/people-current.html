@@ -1,0 +1,58 @@
+---
+layout: archive
+title: ""
+permalink: /people-current/
+author_profile: true
+---
+
+<!-- Current Team Section -->
+<div class="team-container current-team-container">
+  <h1 class="team-title">Current Team</h1>
+  <div class="current-team-grid">
+    {% for member in site.data.team.current_team %}
+      <div class="current-team-card">
+        <h2 class="team-name">{{ member.name }}</h2>
+
+        <!-- LinkedIn (only if it exists) -->
+        {% if member.linkedin %}
+          <div class="team-links">
+            <a href="{{ member.linkedin }}" target="_blank">LinkedIn</a>
+          </div>
+        {% endif %}
+
+        <!-- Email (only if it exists) -->
+        {% if member.email %}
+          <div class="team-links">
+            <a href="mailto:{{ member.email }}">Email</a>
+          </div>
+        {% endif %}
+
+        <!-- Bio (if any) -->
+        {% if member.bio %}
+          <p class="team-bio">{{ member.bio }}</p>
+        {% endif %}
+
+        <!-- Multiple Roles -->
+        {% for role in member.roles %}
+          <div class="student-role-block">
+            <p class="student-category"><em>{{ role.category }}</em></p>
+            {% if role.period %}
+              <p class="student-period">{{ role.period }}</p>
+            {% endif %}
+            {% if role.co_supervisor %}
+              <p class="student-co">Co-supervisor: {{ role.co_supervisor }}</p>
+            {% endif %}
+            {% if role.thesis_title %}
+              <p class="student-thesis">
+                <strong>Thesis:</strong> {{ role.thesis_title }}
+                {% if role.thesis_link %}
+                  <a href="{{ role.thesis_link }}" target="_blank">[PDF]</a>
+                {% endif %}
+              </p>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
