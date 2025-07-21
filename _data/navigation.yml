@@ -32,11 +32,17 @@ main:
         url: /teaching-past/
 
 
-  # - title: "Software"
-  #   url: /software/
+  # - title: "Testing"
+  #   url: /testing/
 
   - title: "People"
     url: /people/
+    sublinks:
+      - title: "Current Team"
+        url: /people-current/
+      - title: "Past Members"
+        url: /people-past/
+
 
   # - title: "Djura"
   #   url: "https://djura.it/"

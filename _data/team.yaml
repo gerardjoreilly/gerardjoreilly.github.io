@@ -1,0 +1,217 @@
+current_team:
+  - name: "Volkan Özsaraç"
+    bio: ""
+    email: "volkan.ozsarac@iusspavia.it"
+    linkedin: "https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/"
+    roles: 
+      - category: "Postdoctoral Researcher"
+        period: "May 2024 - present"
+    
+  - name: "Davit Shahnazaryan"
+    bio: ""
+    email: "davit.shahnazaryan@iusspavia.it"
+    linkedin: "https://www.linkedin.com/in/davitshahnazaryan/"
+    roles: 
+      - category: "Postdoctoral Researcher"
+        period: "Dec 2021 - present"
+      - category: "PhD Researcher"
+        co_supervisor:
+        period: "Sept 2017 - Nov 2021"
+        thesis_title: "Integrated Performance-Based Seismic Design: Traversing Affordances for Practical Implementation"
+        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2021-Shahnazaryan.pdf"
+    
+  - name: "Vitor A. Monteiro"
+    bio: ""
+    email: "vitor.azevedomonteiro@iusspavia.it"
+    linkedin: "https://www.linkedin.com/in/v%C3%ADtor-monteiro-structuralengineering/"
+    roles: 
+    - category: "PhD Researcher"
+      period: "Oct 2024 - Oct 2027 (expected)"
+
+  - name: "Tomas Mejia Saldarriaga"
+    bio: ""
+    email: "tomas.mejiasaldarriaga@iusspavia.it"
+    linkedin: "https://www.linkedin.com/in/tom%C3%A1s-mej%C3%ADa-03516112a/"
+    roles:
+    - category: "PhD Researcher"
+      period: "Oct 2024 - Oct 2027 (expected)"
+    - category: "MSc Student"
+      co_supervisor:
+      period: "Feb 2024 – Sept 2024"
+      thesis_title: "Quantifying the impacts of structure-to-structure damage correlation on regional seismic risk assessment"
+      thesis_link: ""
+
+  - name: "Serkan Hasanoğlu"
+    bio: #"Development of tools and services for the advanced assessment of existing construction typologies in Europe"
+    email: "serkan.hasanoglu@iusspavia.it"
+    linkedin: "https://www.linkedin.com/in/serkan-hasano%C4%9Flu-810a12b9/"
+    roles: 
+    - category: "PhD Researcher"
+      period: "Oct 2022 - Oct 2026 (expected)"
+
+  - name: "José Poveda"
+    bio: #"Development of PBEE-based design, assessment and risk classification methods, with possible experimental testing of innovative and sustainable solutions for existing structures in South America"
+    email: "jose.poveda@iusspavia.it"
+    linkedin: "https://www.linkedin.com/in/jose-poveda-7ab351a1/"
+    roles:
+    - category: "PhD Researcher"
+      period: "Oct 2022 - Oct 2026 (expected)"
+
+  - name: "Eyal Shalev"
+    bio: #"Development of PBEE-based design, assessment and risk classification methods, with possible experimental testing of innovative and sustainable solutions for existing structures in South America"
+    email: ""
+    linkedin: "https://www.linkedin.com/in/eyal-shalev-25a2a1334/"
+    roles:
+    - category: "MSc Student"
+      period: "Feb 2024 – present"
+      thesis_title: "Investigating the impacts of the new Eurocode 8's design provisions on the seismic performance of steel frame structures"
+
+
+
+past_members:
+  - name: "Savvinos Aristeidou"
+    linkedin: "https://www.linkedin.com/in/savvinos-aristeidou-419711230/"
+    roles:
+      - category: "Postdoctoral Researcher"
+        co_supervisor: 
+        period: "Jan 2025 – Jun 2025"
+        thesis_title: 
+        thesis_link: 
+      - category: "PhD Researcher"
+        co_supervisor: 
+        period: "Oct 2020 - Dec 2024"
+        thesis_title: "Advances in the practical application of next-generation intensity measures for efficient seismic risk assessment"
+        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2025-Aristeidou-PhD.pdf"
+      - category: "MSc Student"
+        co_supervisor: "Prof. Gian Michele Calvi"
+        period: "Feb 2020 – Sept 2020"
+        thesis_title: "A Performance-Based Assessment of a Case Study Bridge and Impact of Retrofitting Interventions"
+        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2020_Aristeidou.pdf"
+      
+  - name: "Al Mouayed Bellah Nafeh"
+    linkedin: "https://www.linkedin.com/in/al-mouayed-bellah-nafeh/"
+    roles:
+      - category: "PhD Researcher"
+        co_supervisor:
+        period: "Oct 2019 - Nov 2023"
+        thesis_title: "Advancements in Risk- and Loss-Based Methodologies for Large-Scale Assessment of Non-Ductile Infilled Reinforced Concrete Buildings"
+        thesis_link: http://gerardjoreilly.github.io/files/Presentations/PhD_Nafeh-2024.pdf
+
+  - name: "Andrés Abarca Jimenez"
+    linkedin: "https://www.linkedin.com/in/andres-abarca-jimenez/"
+    roles:
+      - category: "PhD Researcher"
+        co_supervisor: "Prof. Ricardo Monteiro"
+        period: "Sept 2017 - Apr 2022"
+        thesis_title: "Regional Seismic Risk Assessment for Integrated Loss–Based Prioritisation of Bridge Portfolios"
+        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2022-Abarca.pdf"
+  
+  - name: "Letizia Palamara"
+    linkedin: "https://www.linkedin.com/in/letizia-palamara-371062227/"
+    roles:
+      - category: "MSc Student"
+        co_supervisor: "Prof. Gian Michele Calvi"
+        period: "Feb 2021 - Oct 2021"
+        thesis_title: "Italian guidelines for the risk classification and management of existing bridges: a case study implementation and evaluation"
+        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2020-Palamara.pdf"
+
+  - name: "Federico Damiani"
+    linkedin: "https://www.linkedin.com/in/federico-damiani-5a5a2b1b3/"
+    roles:
+      - category: "MSc Student"
+        co_supervisor: "Prof. Ricardo Monteiro"
+        period: "Feb 2020 - Dec 2020"
+        thesis_title: "Seismic design and loss assessment of base-isolated structures using a PBEE framework"
+        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2020-Damiani.pdf"
+
+  - name: "Carlos Andres Mora Castrillo"
+    linkedin: ""
+    roles:
+      - category: "MSc Student"
+        co_supervisor: "Prof. Ricardo Monteiro"
+        period: "Sept 2018 - Feb 2019"
+        thesis_title: "Risk-Consistency of Force-Based and Displacement-Based Design of Reinforced Concrete Moment Frames"
+        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2019_Mora-Castrillo.pdf"
+
+  - name: "Onur Deniz Akan"
+    linkedin: "https://www.linkedin.com/in/odeniz-akan/"
+    roles:
+      - category: "MSc Student"
+        co_supervisor: "Prof. Ricardo Monteiro"
+        period: "Sept 2018 - Mar 2019"
+        thesis_title: "Displaced Shapes of Infilled RC Frames for Displacement-Based Design and Assessment"
+        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2019_Akan.pdf"
+
+  - name: "Jose Rafael Leone Villalba"
+    linkedin: "https://www.linkedin.com/in/jose-leone-villalba-9a7b34183/"
+    roles:
+      - category: "MSc Student"
+        co_supervisor: "Prof. Ricardo Monteiro"
+        period: "Sept 2018 - Feb 2019"
+        thesis_title: "Evaluation of Risk-Consistency of Force-Based and Displacement-Based Design of RC Wall Buildings"
+        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2019_Leone-Villalba.pdf"
+
+  - name: "Wilson Carofilis"
+    linkedin: "https://www.linkedin.com/in/wilson-wladimir-carofilis-gallo/"
+    roles:
+      - category: "MSc Student"
+        co_supervisor: "Profs. André Filiatrault, Daniele Perrone, Ricardo Monteiro"
+        period: "Sept 2017 - Feb 2018"
+        thesis_title: "Seismic Assessment and Retrofit of an Existing Reinforced Concrete School Building in Italy"
+        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2018_Carofilis.pdf"
+
+  - name: "Gerard J. O'Reilly"
+    linkedin: "https://www.linkedin.com/in/gerard-o-reilly-19601732/"
+    roles:
+      - category: "PhD Researcher"
+        co_supervisor: "Prof. Timothy J. Sullivan"
+        period: "Sept 2013 - Dec 2016"
+        thesis_title: "Performance-Based Seismic Assessment and Retrofit of Existing RC Frame Buildings in Italy"
+        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2016_O'Reilly.pdf"
+
+
+visiting_members:
+  - name: "Brian Cagua Gómez"
+    linkedin: "https://www.linkedin.com/in/brian-cagua-g%C3%B3mez-1a0a087a/"
+    category: "Visiting Researcher"
+    main_supervisor: "Prof. Rodrigo Astroza"
+    period: "Dec 2024 – Jul 2025"
+    thesis_title: "A Framework for Assessing the Seismic Vulnerability of Structures Subjected to Multiple Earthquakes"
+    thesis_link: ""
+    visiting_from: "Universidad de los Andes, Chile"
+
+  - name: "Julia Pilatasig Caizaguano"
+    linkedin: "https://www.linkedin.com/in/julia-pilatasig-caizaguano-280b73140/"
+    category: "Visiting Researcher"
+    main_supervisor: "Prof. Rodrigo Astroza"
+    period: "Dec 2024 – Jul 2025"
+    thesis_title: "Performance-Based Seismic-Wind Risk Assessment of Onshore Wind Turbines Considering Soil-Structure Interaction and Environmental and Operational Variability"
+    thesis_link: ""
+    visiting_from: "Universidad de los Andes, Chile"
+
+  - name: "Zhile Yang"
+    linkedin: 
+    category: "Visiting Researcher"
+    main_supervisor: "Prof. Xiuli Du"
+    period: "Apr 2024 – Mar 2025"
+    thesis_title: "Seismic resilience and design methods for RC bridges with additional dampers"
+    thesis_link: ""
+    visiting_from: "Beijing University of Technology, China"
+
+  - name: "Amir Taherian"
+    linkedin: "https://www.linkedin.com/in/amir-taherian-a6ab19153/"
+    category: "Visiting Researcher"
+    main_supervisor: "Prof. Vitor Silva"
+    period: "Nov 2024 – Mar 2025"
+    thesis_title: "Advancing Earthquake Loss Assessment through Digital Twin Technology and Machine Learning"
+    thesis_link: ""
+    visiting_from: "University of Aveiro, Portugal"
+
+  - name: "Carlos Pecapedra Souza"
+    linkedin: "https://www.linkedin.com/in/carlos-francisco-pecapedra-souza-783570112/"
+    category: "Visiting Researcher"
+    main_supervisor: "Prof. Xavier Romao"
+    period: "Sept 2024"
+    thesis_title: "Developing and extending a simulated design framework for non-ductile RC wall structures"
+    thesis_link: ""
+    visiting_from: "University of Porto, Portugal"

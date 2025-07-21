@@ -39,3 +39,187 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* General container */
+.team-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.team-title {
+  font-size: 2rem;
+  margin: 2rem 0 1rem;
+  text-align: center;
+}
+
+/* Current Team Styles */
+.current-team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.current-team-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.current-team-card:hover {
+  transform: translateY(-4px);
+}
+
+/* Past Members Styles */
+.past-members-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.past-member-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.past-member-card:hover {
+  transform: translateY(-4px);
+}
+
+/* Shared text styles */
+.team-name {
+  font-size: 1.3rem;
+  margin-bottom: 0.3rem;
+}
+
+.team-role {
+  font-size: 1rem;
+  color: #777;
+  margin-bottom: 0.5rem;
+}
+
+.team-bio {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 0.5rem;
+}
+
+.team-links a {
+  margin: 0 0.5rem;
+  color: #0073e6;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.team-links a:hover {
+  text-decoration: underline;
+}
+
+/* Past member role blocks */
+.student-role-block {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid #eee;
+}
+
+.student-category {
+  font-size: 0.95rem;
+  color: #777;
+  margin: 0.2rem 0;
+}
+
+.student-co,
+.student-period,
+.student-thesis {
+  margin: 0.3rem 0;
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.student-thesis a {
+  margin-left: 0.5rem;
+  font-size: 0.9rem;
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.student-thesis a:hover {
+  text-decoration: underline;
+}
+
+
+/* Visiting Members Grid Layout */
+.visiting-members-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+/* Visiting Member Card */
+.visiting-member-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.visiting-member-card:hover {
+  transform: translateY(-4px);
+}
+
+/* Shared content styling */
+.team-name {
+  font-size: 1.3rem;
+  margin-bottom: 0.3rem;
+}
+
+.student-category {
+  font-size: 0.95rem;
+  color: #777;
+  margin-bottom: 0.3rem;
+}
+
+.student-co,
+.student-period,
+.student-thesis {
+  font-size: 0.95rem;
+  color: #555;
+  margin: 0.2rem 0;
+}
+
+.team-links a {
+  color: #0073e6;
+  font-size: 0.9rem;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+
+.team-links a:hover {
+  text-decoration: underline;
+}
+
+.student-thesis a {
+  margin-left: 0.5rem;
+  font-size: 0.9rem;
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.student-thesis a:hover {
+  text-decoration: underline;
+}
