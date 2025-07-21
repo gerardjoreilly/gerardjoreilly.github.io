@@ -11,7 +11,7 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
-<li> <b>20/06/2025</b> - Gerard attended the "EFEHR Stakeholder Workshop: Connecting with Insurance and Cat-modelling professionals" hosted at Uuniversity College London, UK</li>
+<li> <b>20/06/2025</b> - Gerard attended the "EFEHR Stakeholder Workshop: Connecting with Insurance and Cat-modelling professionals" hosted at University College London, UK</li>
 
 <li> <b>15/06/2025</b> - Our extended research group (Gerard, Volkan, Savvinos, Davit, Tomas, José) and other collaborators gave several presentations and organised different minisymposia related to tools for seismic risk assessment and experimental research at the COMPDYN2025 conference in Rhodes, Greece. Check out these contributions at the  <a href="https://2025.compdyn.org/proceedings/">proceedings webpage</a></li>
 
