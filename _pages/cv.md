@@ -78,4 +78,6 @@ Editorial Roles & Membership
 
 Other Qualifications
 ======
-* Approved by the Italian Ministry of Universities and Research’s National Scientific Committee as qualified to hold the rank of Associate Professor in Structural and Geotechnical Engineering
+* Approved by the Italian Ministry of Universities and Research’s National Scientific Committee as qualified to hold the rank of Full Professor in Structural and Geotechnical Engineering (2025 - 2037)
+
+* Approved by the Italian Ministry of Universities and Research’s National Scientific Committee as qualified to hold the rank of Associate Professor in Structural and Geotechnical Engineering (2022 - 2031)
