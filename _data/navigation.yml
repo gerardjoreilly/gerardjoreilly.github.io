@@ -13,15 +13,24 @@ main:
     url: /projects/
 
   - title: "Publications"
-    url: /publications/
-    children:
-      - title: "Project A"
+    sublinks:
+      - title: "Journal Papers"
         url: /publications/journal-papers/
-      - title: "Project B"
+      - title: "Conference Papers"
         url: /publications/conference-papers/
+      - title: "Reports and Book Chapters"
+        url: /publications/reports-book-chapters/
 
   - title: "Teaching"
     url: /teaching/
+    sublinks:
+      - title: "Academic Year 2025/2026"
+        url: /teaching-next-ay/
+      - title: "Academic Year 2024/2025"
+        url: /teaching-current-ay/
+      - title: "Past Teaching"
+        url: /teaching-past/
+
 
   # - title: "Software"
   #   url: /software/
