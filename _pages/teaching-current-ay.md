@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Current Academic Year's Teaching"
 permalink: /teaching-current-ay/
 author_profile: true
 ---
