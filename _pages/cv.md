@@ -3,34 +3,41 @@ layout: archive
 title: ""
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
 
-Current Appointments
-======
-* Associate Professor of Structural Engineering @ Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre), [IUSS Pavia, Italy](https://www.iusspavia.it/it) (Dec 2023  - present)
+[Download full CV here](http://gerardjoreilly.github.io/files/Documents/CV_OReilly_Gerard.pdf)
+
+
+
+
+
+
+
+
+
+## Current Appointments
+* Associate Professor of Structural Engineering @ [IUSS Pavia](https://www.iusspavia.it/it), Italy (Dec 2023  - present)
 * Affiliated Researcher @ [EUCENTRE Foundation](https://www.eucentre.it/?lang), Italy (Jan 2014 – present)
+* Director of the Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre) @ [IUSS Pavia](https://www.iusspavia.it/it), Italy (2025  - present)
+* Member of the Doctoral Advisory Board (*Collegio dei docenti*) for the PhD programme in Earthquake Engineering (ROSE) at [IUSS Pavia](https://www.iusspavia.it/it), Italy (2024 – present)
+* Member of the Advisory Board (*Comitato di Coordinamento*) at [EUCENTRE Foundation](https://www.eucentre.it/?lang), Italy (2024–present)
 
-Past Appointments
-======
-* Assistant Professor of Structural Engineering @ Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre), [IUSS Pavia, Italy](https://www.iusspavia.it/it) (May 2019  - Nov 2023)
+
+## Past Appointments
+* Assistant Professor of Structural Engineering @ Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre), [IUSS Pavia](https://www.iusspavia.it/it), Italy (May 2019  - Nov 2023)
 * Visiting Researcher @ [Kobori Research Complex](http://www.kobori-takken.co.jp/index.html), Tokyo, Japan (Nov 2019 – Dec 2019)
 * Post-doctoral Researcher @ Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre), [IUSS Pavia, Italy](https://www.iusspavia.it/it) (Mar 2017 –  Apr 2019)
 * Visiting Researcher @ [University of California, Berkeley](https://www.berkeley.edu/), USA (Sept 2011 – Aug 2012)
 
-Education
-======
+## Education
 * Ph.D in Earthquake Engineering & Engineering Seismology, [IUSS Pavia, Italy](https://www.iusspavia.it/it), 2016
 * M.Sc. in Civil Engineering, [University of Galway, Ireland](https://www.universityofgalway.ie/), 2013
 * B.Eng. in Civil Engineering, [University of Galway, Ireland](https://www.universityofgalway.ie/), 2010
 
-Honours and Awards
-======
+## Honours and Awards
 * Awarded €1.3M Starting Grant by the Fondo Italiano per la Scienza (FIS) on the topic of "Sensor-driven statistical tools to evaluate risks and manage safety in the built environment"
- Awarded 2024 Engineering Structures Best Paper of the Year (Artificial Intelligence in Structural Engineering) for paper on "Next-generation non-linear and collapse prediction models for short to long period systems via machine learning methods"
+* Awarded 2024 Engineering Structures Best Paper of the Year (Artificial Intelligence in Structural Engineering) for paper on "Next-generation non-linear and collapse prediction models for short to long period systems via machine learning methods"
 * Awarded Editor's Featured Paper Award by Engineering Structures for paper on "Next-generation non-linear and collapse prediction models for short to long period systems via machine learning methods"
 * 2022 recipient of the Shah Family Innovation Prize by the Earthquake Engineering Research Institute [[Link](https://eeri.org/about-eeri/news/13895-2022-shah-family-innovation-prize-awarded-to-gerard-o-reilly)]
 * Selected by editor as “Top Reviewer” for the journal Bulletin of Earthquake Engineering in 2020
@@ -40,44 +47,13 @@ Honours and Awards
 * Awarded “Best Structures Paper” for paper presented at the BCRI2012 conference in Dublin, Ireland
 * Awarded 2 University Scholar prizes in recognition of academic excellence during undergraduate studies
 
-Peer Review & Service
-======
-* Expert reviewer for the Swiss National Science Foundation for the 2021 call for general projects (2022)
-* Expert reviewer for the Italian Ministry of Universities and Research as part of the funding programme PRIN2020: Research Projects of Significant National Interest (2021)
-* Peer reviewer for the following international journal publications:
-  * Advances in Structural Engineering
-  * ASCE Journal of Performance of Constructed Facilities
-  * ASCE Journal of Structural Engineering
-  * Bulletin of Earthquake Engineering
-  * Computers and Structures
-  * Earthquake Engineering & Engineering Vibrations
-  * Earthquake Engineering & Structural Dynamics
-  * Earthquake Spectra
-  * Earthquakes & Structures
-  * Engineering Structures
-  * International Journal of Disaster Risk Reduction
-  * Journal of Building Engineering
-  * Journal of Earthquake Engineering
-  * Journal of Structural Integrity & Maintenance
-  * Nature Communications
-  * Reliability Engineering & System Safety
-  * Resilient Cities and Structures
-  * Soil Dynamics & Earthquake Engineering
-  * Sustainable Cities & Society
-  * Steel & Composites
-  * Structural Engineering & Mechanics, An International Journal
-  * Structures
-  * The Structural Design of Tall & Special Buildings
-
-Editorial Roles & Membership
-======
+## Editorial Roles & Membership
+* Editorial Board Member in the role of Associate Editor for [Earthquake Spectra](https://journals.sagepub.com/home/eqs) journal (2025 – present)  
 * Member of the [European Geosciences Union](https://www.egu.eu/) (2023 – present)
 * Member of the [Earthquake Engineering Research Institute](https://www.eeri.org/) (2022 – present)
 * Member of the Editorial Board of Geohazards and Georisks for the journal Frontiers in Earth Science (2021 – present)
 * Member of the Editorial Board of Earthquake Engineering for the journal Frontiers in Built Environment (2020 – present)
 
-Other Qualifications
-======
+## Other Qualifications
 * Approved by the Italian Ministry of Universities and Research’s National Scientific Committee as qualified to hold the rank of Full Professor in Structural and Geotechnical Engineering (2025 - 2037)
-
 * Approved by the Italian Ministry of Universities and Research’s National Scientific Committee as qualified to hold the rank of Associate Professor in Structural and Geotechnical Engineering (2022 - 2031)
