@@ -39,8 +39,8 @@ main:
       - title: "Past Members"
         url: /people-past/
 
-  - title: "Resources"
-    url: /resources/
+  # - title: "Resources"
+  #   url: /resources/
 
     
   # - title: "Djura"
