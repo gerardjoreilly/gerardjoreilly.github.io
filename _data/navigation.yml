@@ -31,10 +31,6 @@ main:
       - title: "Past Teaching"
         url: /teaching-past/
 
-
-  # - title: "Testing"
-  #   url: /testing/
-
   - title: "People"
     url: /people/
     sublinks:
@@ -43,7 +39,10 @@ main:
       - title: "Past Members"
         url: /people-past/
 
+  - title: "Resources"
+    url: /resources/
 
+    
   # - title: "Djura"
   #   url: "https://djura.it/"
 

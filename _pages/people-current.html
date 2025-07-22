@@ -11,6 +11,10 @@ author_profile: true
   <div class="current-team-grid">
     {% for member in site.data.team.current_team %}
       <div class="current-team-card">
+        {% if member.photo and member.photo != "" %}
+          <img src="{{ member.photo }}" alt="{{ member.name }}" class="team-photo">
+        {% endif %}
+        
         <h2 class="team-name">{{ member.name }}</h2>
 
         <!-- LinkedIn (only if it exists) -->
