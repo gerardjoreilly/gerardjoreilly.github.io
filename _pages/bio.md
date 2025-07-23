@@ -10,7 +10,7 @@ Gerard J. O’Reilly (pronounced ge-rard o-rai-li) is an Associate Professor of 
 
 His research focuses on risk assessment, management, and mitigation within performance-based earthquake engineering, addressing economic losses, collapse prevention, post-earthquake functionality, and occupant safety. Combining advanced numerical simulation with empirical data, his work develops models of structural fragility, vulnerability, and risk on a regional scale to guide effective mitigation and decision-making strategies.
 
-He coordinates the €11.6M EU-funded ERIES project and is Principal Investigator of a €1.3M Starting Grant from the Italian National Science Foundation (Fondo Italiano per la Scienza). In recognition of his contributions, he received the 2022 Shah Family Innovation Prize from EERI and has served as an Associate Editor for Earthquake Spectra since 2025.
+He coordinates the €11.6M EU-funded ERIES project and is Principal Investigator of a €1.3M Starting Grant for the SONATA project from the Italian National Science Foundation (Fondo Italiano per la Scienza). In recognition of his contributions, he received the 2022 Shah Family Innovation Prize from EERI and has served as an Associate Editor for Earthquake Spectra since 2025.
 
 ## Short Biography (Bullet Point List)
 - **Gerard J. O’Reilly** (pronounced *ge-rard o-rai-li*)  
@@ -23,7 +23,7 @@ He coordinates the €11.6M EU-funded ERIES project and is Principal Investigato
   - Structural fragility, vulnerability, and regional risk modeling using numerical simulation and empirical data  
   - Development of mitigation and decision-making strategies  
 - Coordinator of the **€11.6M EU-funded ERIES project**  
-- Principal Investigator of a **€1.3M Starting Grant** (Italian National Science Foundation, *Fondo Italiano per la Scienza*)  
+- Principal Investigator of a **€1.3M Starting Grant** for the SONATA project (Italian National Science Foundation, *Fondo Italiano per la Scienza*)  
 - Recipient of the **2022 Shah Family Innovation Prize (EERI)**  
 - **Associate Editor** at *Earthquake Spectra* (since 2025)
 
