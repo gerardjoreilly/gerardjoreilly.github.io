@@ -1,7 +1,7 @@
 current_team:
   - name: "Volkan Özsaraç"
     photo: #"https://www.djura.it/_nuxt/volkan1.AaetMGEw.webp"
-    bio: 
+    bio: "Seismic vulnerability assessment of the built environment through simulated design"
     email: "volkan.ozsarac@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/"
     roles: 
@@ -9,7 +9,7 @@ current_team:
         period: "May 2024 - present"
     
   - name: "Davit Shahnazaryan"
-    bio: 
+    bio: "Development of research software tools for seismic risk assessment of the built environment"
     photo:
     email: "davit.shahnazaryan@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/davitshahnazaryan/"
@@ -23,7 +23,7 @@ current_team:
         thesis_link: "http://gerardjoreilly.github.io/files/Theses/2021-Shahnazaryan.pdf"
     
   - name: "Vitor A. Monteiro"
-    bio:
+    bio: "Regional seismic risk assessment incorporating spatial correlation of next-generation intensity measures "
     photo:
     email: "vitor.azevedomonteiro@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/v%C3%ADtor-monteiro-structuralengineering/"
@@ -32,7 +32,7 @@ current_team:
       period: "Oct 2024 - Oct 2027 (expected)"
 
   - name: "Tomas Mejia Saldarriaga"
-    bio: 
+    bio: "Regional seismic risk assessment of structures incorporating building-to-building damage correlations "
     photo:
     email: "tomas.mejiasaldarriaga@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/tom%C3%A1s-mej%C3%ADa-03516112a/"
@@ -46,7 +46,7 @@ current_team:
       thesis_link: ""
 
   - name: "Serkan Hasanoğlu"
-    bio: #"Development of tools and services for the advanced assessment of existing construction typologies in Europe"
+    bio: "Seismic risk analysis of Turkish residential building taxonomies through simulated design"
     photo:
     email: "serkan.hasanoglu@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/serkan-hasano%C4%9Flu-810a12b9/"
@@ -55,7 +55,7 @@ current_team:
       period: "Oct 2022 - Oct 2026 (expected)"
 
   - name: "José Poveda"
-    bio: #"Development of PBEE-based design, assessment and risk classification methods, with possible experimental testing of innovative and sustainable solutions for existing structures in South America"
+    bio: "Investigating impacts of ground motion and hazard definitions in the seismic analysis and capacity design of reinforced concrete wall buildings"
     photo:
     email: "jose.poveda@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/jose-poveda-7ab351a1/"
@@ -64,14 +64,24 @@ current_team:
       period: "Oct 2022 - Oct 2026 (expected)"
 
   - name: "Eyal Shalev"
-    bio: #"Development of PBEE-based design, assessment and risk classification methods, with possible experimental testing of innovative and sustainable solutions for existing structures in South America"
+    bio: "Investigating the impacts of the new Eurocode 8's design provisions on the seismic performance of steel frame structures"
     photo:
-    email:
+    email: eyal.shalev01@universitadipavia.it
     linkedin: "https://www.linkedin.com/in/eyal-shalev-25a2a1334/"
     roles:
     - category: "MSc Student"
       period: "Feb 2024 – present"
-      thesis_title: "Investigating the impacts of the new Eurocode 8's design provisions on the seismic performance of steel frame structures"
+      thesis_title: 
+
+  - name: "Luca Cavecchi"
+    bio: "Investigating the impacts of energy dissipation and cumulative damage in seismic fragility analysis of masonry infills"
+    photo:
+    email: luca.cavecchi01@universitadipavia.it
+    linkedin:
+    roles:
+    - category: "MSc Student"
+      period: "Feb 2025 – present"
+      thesis_title: 
 
 
 
