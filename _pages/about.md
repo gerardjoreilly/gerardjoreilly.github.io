@@ -13,6 +13,10 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+<li> <b>22/08/2025</b> - New paper published in Earthquake Spectra on "Impact of modeling decisions on seismic loss and fragility assessment of steel buildings" [<a href="http://gerardjoreilly.github.io/files/Journal/baddipalli-et-al-2025-impact-of-modeling-decisions-on-seismic-loss-and-fragility-assessment-of-steel-buildings.pdf">Paper</a>][<a href="https://doi.org/10.1177/87552930251360751">Link</a>] </li>
+
+<li> <b>14/08/2025</b> - New paper published in Bulletin of Earthquake Engineering on "Impact of ground motion record selection on higher-mode responses in RC wall buildings: comparing uniform hazard and conditional spectra approaches" [<a href="http://gerardjoreilly.github.io/files/Journal/poveda-bee-higher-modes.pdf">Paper</a>][<a href="https://doi.org/10.1007/s10518-025-02259-x">Link</a>] </li>
+
 <li> <b>20/06/2025</b> - Gerard attended the "EFEHR Stakeholder Workshop: Connecting with Insurance and Cat-modelling professionals" hosted at University College London, UK</li>
 
 <li> <b>15/06/2025</b> - Our extended research group (Gerard, Volkan, Savvinos, Davit, Tomas, José) and other collaborators gave several presentations and organised different minisymposia related to tools for seismic risk assessment and experimental research at the COMPDYN2025 conference in Rhodes, Greece. Check out these contributions at the  <a href="https://2025.compdyn.org/proceedings/">proceedings webpage</a></li>

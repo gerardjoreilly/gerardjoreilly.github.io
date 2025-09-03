@@ -5,6 +5,10 @@ permalink: /publications/journal-papers/
 author_profile: true
 ---
 
+1. Poveda, J., & **O’Reilly, G. J.** (2025). Impact of ground motion record selection on higher-mode responses in RC wall buildings: comparing uniform hazard and conditional spectra approaches. Bulletin of Earthquake Engineering. [[PDF](http://gerardjoreilly.github.io/files/Journal/poveda-bee-higher-modes.pdf)][[Link](https://doi.org/10.1007/s10518-025-02259-x)]
+
+1. Baddipalli, S., Gentile, R., **O’ Reilly, G. J.**, Shahnazaryan, D., & Zaker Esteghamati, M. (2025). Impact of modeling decisions on seismic loss and fragility assessment of steel buildings. Earthquake Spectra. [[PDF](http://gerardjoreilly.github.io/files/Journal/baddipalli-et-al-2025-impact-of-modeling-decisions-on-seismic-loss-and-fragility-assessment-of-steel-buildings.pdf)][[Link](https://doi.org/10.1177/87552930251360751)]
+
 1. Ozsarac, V., Pereira, N., Mohamed, H., Romão, X., & **O’Reilly, G. J.** (2025). The Built Environment Data Framework for Simulated Design and Vulnerability Modelling in Earthquake Engineering. Earthquake Engineering & Structural Dynamics. https://doi.org/10.1002/eqe.4378
 [[PDF](http://gerardjoreilly.github.io/files/Journal/eesd-bed-simdesign.pdf)][[Link](https://onlinelibrary.wiley.com/doi/10.1002/eqe.4378)]
 
