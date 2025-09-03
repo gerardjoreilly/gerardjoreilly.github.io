@@ -83,6 +83,16 @@ current_team:
       period: "Feb 2025 – present"
       thesis_title: 
 
+  - name: "Maria Agni Ladeni"
+    bio: "Catastrophe modelling internship at Guy Carpenter, Milan"
+    photo:
+    email: maria-agni.ladeni01@universitadipavia.it 
+    linkedin: "https://www.linkedin.com/in/maria-ladeni-b202b5195/"
+    roles:
+    - category: "MSc Student"
+      co_supervisor: Dr. Matt J. Fox 
+      period: "Feb 2025 – Sept 2026"
+      thesis_title: Comparative analysis of exposure databases and portfolio diversification in catastrophe modeling for (Re)insurance applications in Italy
 
 
 past_members:
