@@ -17,9 +17,9 @@ author_profile: true
 **Programme:** Doctoral Programme Course in Earthquake Engineering\
 **Institute:** IUSS Pavia, Italy
 
-<!-- ***Course:	Risk, Reliability and Catastrophe Modelling***\
+***Course:	Understanding Catastrophe Risk: Modelling, Management, and Reinsurance***\
 **Role:**	Lecturer (10 hours)\
 **Period:** April 2025\
 **Programme:** Advanced undergraduate course (Corsi Ordinari)\
-**Institute:** IUSS Pavia, Italy -->
+**Institute:** IUSS Pavia, Italy
 

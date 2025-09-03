@@ -13,7 +13,7 @@ author_profile: true
 
 ***Course:	Performance-Based Earthquake Engineering***\
 **Role:**	Lecturer (48 hours)\
-**Period:** January - February 2026\
+**Period:** January 2026\
 **Programme:** Doctoral Programme Course in Earthquake Engineering\
 **Institute:** IUSS Pavia, Italy
 
@@ -23,7 +23,7 @@ author_profile: true
 **Programme:** Master Degree in Earthquake Engineering\
 **Institutes:**	Università di Pavia and IUSS Pavia, Italy
 
-***Course:	Risk, Reliability and Catastrophe Modelling***\
+***Course:	Understanding Catastrophe Risk: Modelling, Management, and Reinsurance***\
 **Role:**	Lecturer (10 hours)\
 **Period:** April 2026\
 **Programme:** Advanced undergraduate course (Corsi Ordinari)\
