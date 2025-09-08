@@ -204,7 +204,7 @@ visiting_members:
     main_supervisor: "Prof. Rodrigo Astroza"
     period: "Dec 2024 – Jul 2025"
     thesis_title: "A Framework for Assessing the Seismic Vulnerability of Structures Subjected to Multiple Earthquakes"
-    thesis_link: ""
+    thesis_link:
     visiting_from: "Universidad de los Andes, Chile"
 
   - name: "Julia Pilatasig Caizaguano"
@@ -213,7 +213,7 @@ visiting_members:
     main_supervisor: "Prof. Rodrigo Astroza"
     period: "Dec 2024 – Jul 2025"
     thesis_title: "Performance-Based Seismic-Wind Risk Assessment of Onshore Wind Turbines Considering Soil-Structure Interaction and Environmental and Operational Variability"
-    thesis_link: ""
+    thesis_link:
     visiting_from: "Universidad de los Andes, Chile"
 
   - name: "Zhile Yang"
@@ -222,7 +222,7 @@ visiting_members:
     main_supervisor: "Prof. Xiuli Du"
     period: "Apr 2024 – Mar 2025"
     thesis_title: "Seismic resilience and design methods for RC bridges with additional dampers"
-    thesis_link: ""
+    thesis_link:
     visiting_from: "Beijing University of Technology, China"
 
   - name: "Amir Taherian"
@@ -231,7 +231,7 @@ visiting_members:
     main_supervisor: "Prof. Vitor Silva"
     period: "Nov 2024 – Mar 2025"
     thesis_title: "Advancing Earthquake Loss Assessment through Digital Twin Technology and Machine Learning"
-    thesis_link: ""
+    thesis_link:
     visiting_from: "University of Aveiro, Portugal"
 
   - name: "Carlos Pecapedra Souza"
@@ -240,5 +240,5 @@ visiting_members:
     main_supervisor: "Prof. Xavier Romao"
     period: "Sept 2024"
     thesis_title: "Developing and extending a simulated design framework for non-ductile RC wall structures"
-    thesis_link: ""
+    thesis_link:
     visiting_from: "University of Porto, Portugal"
