@@ -24,9 +24,9 @@ main:
   - title: "Teaching"
     url: /teaching/
     sublinks:
+      # - title: "Academic Year 2026/2027"
+      #   url: /teaching-next-ay/
       - title: "Academic Year 2025/2026"
-        url: /teaching-next-ay/
-      - title: "Academic Year 2024/2025"
         url: /teaching-current-ay/
       - title: "Past Teaching"
         url: /teaching-past/
