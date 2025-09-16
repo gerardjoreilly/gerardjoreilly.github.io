@@ -63,15 +63,15 @@ current_team:
     - category: "PhD Researcher"
       period: "Oct 2022 - Oct 2026 (expected)"
 
-  - name: "Eyal Shalev"
-    bio: "Investigating the impacts of the new Eurocode 8's design provisions on the seismic performance of steel frame structures"
-    photo:
-    email: eyal.shalev01@universitadipavia.it
-    linkedin: "https://www.linkedin.com/in/eyal-shalev-25a2a1334/"
-    roles:
-    - category: "MSc Student"
-      period: "Feb 2024 – present"
-      thesis_title: 
+  # - name: "Eyal Shalev"
+  #   bio: "Investigating the impacts of the new Eurocode 8's design provisions on the seismic performance of steel frame structures"
+  #   photo:
+  #   email: eyal.shalev01@universitadipavia.it
+  #   linkedin: "https://www.linkedin.com/in/eyal-shalev-25a2a1334/"
+  #   roles:
+  #   - category: "MSc Student"
+  #     period: "Feb 2024 – present"
+  #     thesis_title: 
 
   - name: "Luca Cavecchi"
     bio: "Investigating the impacts of energy dissipation and cumulative damage in seismic fragility analysis of masonry infills"
@@ -91,9 +91,19 @@ current_team:
     roles:
     - category: "MSc Student"
       co_supervisor: Dr. Matt J. Fox 
-      period: "Feb 2025 – Sept 2026"
+      period: "Feb 2025 – Sept 2025"
       thesis_title: Comparative analysis of exposure databases and portfolio diversification in catastrophe modeling for (Re)insurance applications in Italy
 
+  - name: "Wendwesen Fekede"
+    bio: 
+    photo: 
+    email: wendwesenfeked.haile01@universitadipavia.it
+    linkedin:
+    roles:
+    - category: "MSc Student"
+      co_supervisor: Prof. Richard Wiebe,
+      period: "Feb 2025 – Sept 205"
+      thesis_title: "Post lateral-torsional buckling behaviour of a simply-supported beam subjected to midspan point load"
 
 past_members:
   - name: "Savvinos Aristeidou"
