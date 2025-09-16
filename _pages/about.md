@@ -13,6 +13,12 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+<li> <b>15/09/2025</b> - Gerard gave an invited talk at the 14th International Conference on Structural Analysis of Historical Constructions (SAHC 2025) in Lausanne, Switzerland on the topic of "Embracing Digital Tools and Open Science for Engineering Innovation" [<a href="http://gerardjoreilly.github.io/files/Journal/SAHC-Presentation-OReilly.pdf">Presentation</a>] </li>
+
+<li> <b>10/09/2025</b> - Together with Profs. Ciro Del Vecchio and Marco Di Ludovico, Gerard co-chaired a special session at the 
+Italian national conference on earthquake engineering (XX Convegno ANIDIS - Associazione Nazionale Italiana di Ingegneria Sismica)
+in Assisi, Italy, also presenting "Advancements in seismic risk assessment of existing structures: insights from analytical models and empirical earthquake data" [<a href="http://gerardjoreilly.github.io/files/Photos/anidis2025.jpeg">Photo</a>] </li>
+
 <li> <b>22/08/2025</b> - New paper published in Earthquake Spectra on "Impact of modeling decisions on seismic loss and fragility assessment of steel buildings" [<a href="http://gerardjoreilly.github.io/files/Journal/baddipalli-et-al-2025-impact-of-modeling-decisions-on-seismic-loss-and-fragility-assessment-of-steel-buildings.pdf">Paper</a>][<a href="https://doi.org/10.1177/87552930251360751">Link</a>] </li>
 
 <li> <b>14/08/2025</b> - New paper published in Bulletin of Earthquake Engineering on "Impact of ground motion record selection on higher-mode responses in RC wall buildings: comparing uniform hazard and conditional spectra approaches" [<a href="http://gerardjoreilly.github.io/files/Journal/poveda-bee-higher-modes.pdf">Paper</a>][<a href="https://doi.org/10.1007/s10518-025-02259-x">Link</a>] </li>
