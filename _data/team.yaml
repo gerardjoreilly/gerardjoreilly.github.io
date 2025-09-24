@@ -1,6 +1,6 @@
 current_team:
   - name: "Volkan Özsaraç"
-    photo: #"https://www.djura.it/_nuxt/volkan1.AaetMGEw.webp"
+    photo: "http://gerardjoreilly.github.io/files/Profile/volkan.jpeg"
     bio: "Seismic vulnerability assessment of the built environment through simulated design"
     email: "volkan.ozsarac@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/"
@@ -9,8 +9,8 @@ current_team:
         period: "May 2024 - present"
     
   - name: "Davit Shahnazaryan"
+    photo: "http://gerardjoreilly.github.io/files/Profile/davit.jpeg"
     bio: "Development of research software tools for seismic risk assessment of the built environment"
-    photo:
     email: "davit.shahnazaryan@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/davitshahnazaryan/"
     roles: 
@@ -23,6 +23,7 @@ current_team:
         thesis_link: "http://gerardjoreilly.github.io/files/Theses/2021-Shahnazaryan.pdf"
     
   - name: "Vitor A. Monteiro"
+    photo: "http://gerardjoreilly.github.io/files/Profile/davit.jpeg"
     bio: "Regional seismic risk assessment incorporating spatial correlation of next-generation intensity measures "
     photo:
     email: "vitor.azevedomonteiro@iusspavia.it"
@@ -32,6 +33,7 @@ current_team:
       period: "Oct 2024 - Oct 2027 (expected)"
 
   - name: "Tomas Mejia Saldarriaga"
+    photo: "http://gerardjoreilly.github.io/files/Profile/tomas.jpeg"
     bio: "Regional seismic risk assessment of structures incorporating building-to-building damage correlations "
     photo:
     email: "tomas.mejiasaldarriaga@iusspavia.it"
@@ -46,6 +48,7 @@ current_team:
       thesis_link: ""
 
   - name: "Serkan Hasanoğlu"
+    photo: "http://gerardjoreilly.github.io/files/Profile/serkan.jpeg"
     bio: "Seismic risk analysis of Turkish residential building taxonomies through simulated design"
     photo:
     email: "serkan.hasanoglu@iusspavia.it"
@@ -55,6 +58,7 @@ current_team:
       period: "Oct 2022 - Oct 2026 (expected)"
 
   - name: "José Poveda"
+    photo: "http://gerardjoreilly.github.io/files/Profile/jose.jpeg"
     bio: "Investigating impacts of ground motion and hazard definitions in the seismic analysis and capacity design of reinforced concrete wall buildings"
     photo:
     email: "jose.poveda@iusspavia.it"
@@ -102,11 +106,13 @@ current_team:
     roles:
     - category: "MSc Student"
       co_supervisor: Prof. Richard Wiebe
-      period: "Feb 2025 – Sept 205"
+      period: "Feb 2025 – Sept 2025"
       thesis_title: "Post lateral-torsional buckling behaviour of a simply-supported beam subjected to midspan point load"
+      thesis_link: "http://gerardjoreilly.github.io/files/Theses/2025-Haile.pdf"
 
 past_members:
   - name: "Savvinos Aristeidou"
+    photo: "http://gerardjoreilly.github.io/files/Profile/savvinos.jpeg"
     linkedin: "https://www.linkedin.com/in/savvinos-aristeidou-419711230/"
     roles:
       - category: "Postdoctoral Researcher"
@@ -126,6 +132,7 @@ past_members:
         thesis_link: "http://gerardjoreilly.github.io/files/Theses/2020_Aristeidou.pdf"
       
   - name: "Al Mouayed Bellah Nafeh"
+    photo: "http://gerardjoreilly.github.io/files/Profile/nafeh.jpeg"
     linkedin: "https://www.linkedin.com/in/al-mouayed-bellah-nafeh/"
     roles:
       - category: "PhD Researcher"
@@ -135,6 +142,7 @@ past_members:
         thesis_link: http://gerardjoreilly.github.io/files/Presentations/PhD_Nafeh-2024.pdf
 
   - name: "Andrés Abarca Jimenez"
+    photo: "http://gerardjoreilly.github.io/files/Profile/andres.jpeg"
     linkedin: "https://www.linkedin.com/in/andres-abarca-jimenez/"
     roles:
       - category: "PhD Researcher"
