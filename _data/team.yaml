@@ -23,9 +23,8 @@ current_team:
         thesis_link: "http://gerardjoreilly.github.io/files/Theses/2021-Shahnazaryan.pdf"
     
   - name: "Vitor A. Monteiro"
-    photo: "http://gerardjoreilly.github.io/files/Profile/davit.jpeg"
+    photo: "http://gerardjoreilly.github.io/files/Profile/vitor.jpeg"
     bio: "Regional seismic risk assessment incorporating spatial correlation of next-generation intensity measures "
-    photo:
     email: "vitor.azevedomonteiro@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/v%C3%ADtor-monteiro-structuralengineering/"
     roles: 
@@ -35,7 +34,6 @@ current_team:
   - name: "Tomas Mejia Saldarriaga"
     photo: "http://gerardjoreilly.github.io/files/Profile/tomas.jpeg"
     bio: "Regional seismic risk assessment of structures incorporating building-to-building damage correlations "
-    photo:
     email: "tomas.mejiasaldarriaga@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/tom%C3%A1s-mej%C3%ADa-03516112a/"
     roles:
@@ -50,7 +48,6 @@ current_team:
   - name: "Serkan Hasanoğlu"
     photo: "http://gerardjoreilly.github.io/files/Profile/serkan.jpeg"
     bio: "Seismic risk analysis of Turkish residential building taxonomies through simulated design"
-    photo:
     email: "serkan.hasanoglu@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/serkan-hasano%C4%9Flu-810a12b9/"
     roles: 
@@ -60,7 +57,6 @@ current_team:
   - name: "José Poveda"
     photo: "http://gerardjoreilly.github.io/files/Profile/jose.jpeg"
     bio: "Investigating impacts of ground motion and hazard definitions in the seismic analysis and capacity design of reinforced concrete wall buildings"
-    photo:
     email: "jose.poveda@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/jose-poveda-7ab351a1/"
     roles:
@@ -79,7 +75,7 @@ current_team:
 
   - name: "Luca Cavecchi"
     bio: "Investigating the impacts of energy dissipation and cumulative damage in seismic fragility analysis of masonry infills"
-    photo:
+    photo: "http://gerardjoreilly.github.io/files/Profile/empty.jpeg"
     email: luca.cavecchi01@universitadipavia.it
     linkedin:
     roles:
@@ -89,7 +85,7 @@ current_team:
 
   - name: "Maria Agni Ladeni"
     bio: "Catastrophe modelling internship at Guy Carpenter, Milan"
-    photo:
+    photo: "http://gerardjoreilly.github.io/files/Profile/maria.jpeg"
     email: maria-agni.ladeni01@universitadipavia.it 
     linkedin: "https://www.linkedin.com/in/maria-ladeni-b202b5195/"
     roles:
@@ -100,7 +96,7 @@ current_team:
 
   - name: "Wendwesen Fekede"
     bio: 
-    photo: 
+    photo: "http://gerardjoreilly.github.io/files/Profile/empty.jpeg"
     email: wendwesenfeked.haile01@universitadipavia.it
     linkedin:
     roles:

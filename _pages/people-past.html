@@ -10,6 +10,10 @@ author_profile: true
   <div class="past-members-grid">
     {% for student in site.data.team.past_members %}
       <div class="past-member-card">
+        {% if student.photo and student.photo != "" %}
+          <img src="{{ student.photo }}" alt="{{ student.name }}" class="team-photo">
+        {% endif %}
+
         <h3 class="team-name">{{ student.name }}</h3>
 
         <!-- LinkedIn (only if it exists) -->
