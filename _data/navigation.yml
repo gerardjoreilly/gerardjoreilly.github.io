@@ -10,7 +10,11 @@ main:
   #   url: /research/
 
   - title: "Projects"
-    url: /projects/
+    sublinks:
+    - title: "Current Projects"
+      url: /projects/current/
+    - title: "Past Projects"
+      url: /publprojectsications/past/
 
   - title: "Publications"
     sublinks:
