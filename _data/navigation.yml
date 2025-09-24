@@ -14,7 +14,7 @@ main:
     - title: "Current Projects"
       url: /projects/current/
     - title: "Past Projects"
-      url: /publprojectsications/past/
+      url: /projects/past/
 
   - title: "Publications"
     sublinks:
