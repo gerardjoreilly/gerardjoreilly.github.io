@@ -116,6 +116,7 @@ current_team:
       period: "Feb 2025 – Sept 2025"
       thesis_title: Comparative analysis of exposure databases and portfolio diversification in catastrophe modeling for (Re)insurance applications in Italy
 
+past_members:
   - name: "Wendwesen Fekede"
     bio: 
     photo: "http://gerardjoreilly.github.io/files/Profile/empty.jpeg"
@@ -127,8 +128,7 @@ current_team:
       period: "Feb 2025 – Sept 2025"
       thesis_title: "Post lateral-torsional buckling behaviour of a simply-supported beam subjected to midspan point load"
       thesis_link: "http://gerardjoreilly.github.io/files/Theses/2025-Haile.pdf"
-
-past_members:
+      
   - name: "Savvinos Aristeidou"
     photo: "http://gerardjoreilly.github.io/files/Profile/savvinos.jpeg"
     linkedin: "https://www.linkedin.com/in/savvinos-aristeidou-419711230/"
