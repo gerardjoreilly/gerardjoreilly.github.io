@@ -5,8 +5,10 @@ current_team:
     email: "volkan.ozsarac@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/"
     roles: 
+      - category: "Research Associate (RTDA)"
+        period: "Oct 2025 - present"
       - category: "Postdoctoral Researcher"
-        period: "May 2024 - present"
+        period: "May 2024 - Sept 2025"
     
   - name: "Davit Shahnazaryan"
     photo: "http://gerardjoreilly.github.io/files/Profile/davit.jpeg"
@@ -14,14 +16,34 @@ current_team:
     email: "davit.shahnazaryan@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/davitshahnazaryan/"
     roles: 
+      - category: "Research Associate (RTDA)"
+        period: "Oct 2025 - present"
       - category: "Postdoctoral Researcher"
-        period: "Dec 2021 - present"
+        period: "Dec 2021 - Sept 2025"
       - category: "PhD Researcher"
         co_supervisor:
         period: "Sept 2017 - Nov 2021"
         thesis_title: "Integrated Performance-Based Seismic Design: Traversing Affordances for Practical Implementation"
         thesis_link: "http://gerardjoreilly.github.io/files/Theses/2021-Shahnazaryan.pdf"
-    
+  
+  - name: "Marco Todaro"
+    photo: 
+    bio: 
+    email: "marco.todaro@iusspavia.it"
+    linkedin: 
+    roles: 
+    - category: "PhD Researcher"
+      period: "Oct 2025 - Oct 2028 (expected)"
+
+  - name: "Mauricio Guaman"
+    photo: 
+    bio: 
+    email: "mauricio.guaman@iusspavia.it "
+    linkedin: 
+    roles: 
+    - category: "PhD Researcher"
+      period: "Oct 2025 - Oct 2028 (expected)"
+
   - name: "Vitor A. Monteiro"
     photo: "http://gerardjoreilly.github.io/files/Profile/vitor.jpeg"
     bio: "Regional seismic risk assessment incorporating spatial correlation of next-generation intensity measures "
@@ -29,7 +51,7 @@ current_team:
     linkedin: "https://www.linkedin.com/in/v%C3%ADtor-monteiro-structuralengineering/"
     roles: 
     - category: "PhD Researcher"
-      period: "Oct 2024 - Oct 2027 (expected)"
+      period: "Oct 2024 - Oct 2027 (expected)" 
 
   - name: "Tomas Mejia Saldarriaga"
     photo: "http://gerardjoreilly.github.io/files/Profile/tomas.jpeg"
