@@ -13,6 +13,9 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+
+<li> <b>08/10/2025</b> - New paper published in the Bulletin of Earthquake Engineering on "A model for the simulated design of Turkish RC frame buildings in seismic vulnerability analysis" [<a href="http://gerardjoreilly.github.io/files/Journal/hasanoglu-et-al-2025-bee.pdf">Paper</a>][<a href="https://doi.org/10.1007/s10518-025-02301-y">Link</a>] </li>
+
 <li> <b>26/09/2025</b> - New paper published in Earthquake Engineering and Structural Dynamics on "Quantifying the Impacts of Incorporating Damage Correlation on Scenario‐Based Regional Seismic Assessment" [<a href="http://gerardjoreilly.github.io/files/Journal/mejia-oreilly-eesd-2025.pdf">Paper</a>][<a href="https://doi.org/10.1002/eqe.70069">Link</a>] </li>
 
 <li> <b>15/09/2025</b> - Gerard gave an invited talk at the 14th International Conference on Structural Analysis of Historical Constructions (SAHC 2025) in Lausanne, Switzerland on the topic of "Embracing Digital Tools and Open Science for Engineering Innovation" [<a href="http://gerardjoreilly.github.io/files/Presentations/SAHC-Presentation-OReilly.pdf">Presentation</a>] </li>
