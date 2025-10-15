@@ -13,7 +13,7 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
-<li> <b>09/10/2025</b> - Gerard gave an Invited Theme Lecture at the 10th Turkish Conference on Earthquake Enginering in Istanbul, Türkiye on the topic of "Advancements in seismic risk assessment of existing structures: insights from analytical models and empirical earthquake data" [<a href="http://gerardjoreilly.github.io/files/Photos/10tcee.jpeg">Photo</a>] </li>
+<li> <b>09/10/2025</b> - Gerard gave an Invited Theme Lecture at the 10th Turkish Conference on Earthquake Engineering in Istanbul, Türkiye on the topic of "Advancements in seismic risk assessment of existing structures: insights from analytical models and empirical earthquake data" [<a href="http://gerardjoreilly.github.io/files/Photos/10TCEE-1.JPG">Photo 1</a>][<a href="http://gerardjoreilly.github.io/files/Photos/10TCEE-2.JPG">Photo 2</a>][<a href="http://gerardjoreilly.github.io/files/Photos/10TCEE-3.JPG">Photo 3</a>] </li>
 
 <li> <b>08/10/2025</b> - New paper published in the Bulletin of Earthquake Engineering on "A model for the simulated design of Turkish RC frame buildings in seismic vulnerability analysis" [<a href="http://gerardjoreilly.github.io/files/Journal/hasanoglu-et-al-2025-bee.pdf">Paper</a>][<a href="https://doi.org/10.1007/s10518-025-02301-y">Link</a>] </li>
 
