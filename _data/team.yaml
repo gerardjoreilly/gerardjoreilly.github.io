@@ -1,7 +1,16 @@
 current_team:
+  - name: "Daniele Sivori"
+    photo: "http://gerardjoreilly.github.io/files/Profile/daniele.jpg"
+    bio: 
+    email: "daniele.sivori@iusspavia.it"
+    linkedin: 
+    roles: 
+      - category: "Research Associate (RTDA)"
+        period: "Nov 2025 - present"
+  
   - name: "Volkan Özsaraç"
     photo: "http://gerardjoreilly.github.io/files/Profile/volkan.jpeg"
-    bio: "Seismic vulnerability assessment of the built environment through simulated design"
+    bio: #"Seismic vulnerability assessment of the built environment through simulated design"
     email: "volkan.ozsarac@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/"
     roles: 
@@ -12,7 +21,7 @@ current_team:
     
   - name: "Davit Shahnazaryan"
     photo: "http://gerardjoreilly.github.io/files/Profile/davit.jpeg"
-    bio: "Development of research software tools for seismic risk assessment of the built environment"
+    bio: #"Development of research software tools for seismic risk assessment of the built environment"
     email: "davit.shahnazaryan@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/davitshahnazaryan/"
     roles: 
@@ -27,7 +36,7 @@ current_team:
         thesis_link: "http://gerardjoreilly.github.io/files/Theses/2021-Shahnazaryan.pdf"
   
   - name: "Marco Todaro"
-    photo: 
+    photo: "http://gerardjoreilly.github.io/files/Profile/marco.jpg"
     bio: 
     email: "marco.todaro@iusspavia.it"
     linkedin: 
@@ -35,11 +44,11 @@ current_team:
     - category: "PhD Researcher"
       period: "Oct 2025 - Oct 2028 (expected)"
 
-  - name: "Mauricio Guaman"
-    photo: 
+  - name: "Mauricio Guamán Naranjo"
+    photo: "http://gerardjoreilly.github.io/files/Profile/mauricio.jpeg"
     bio: 
     email: "mauricio.guaman@iusspavia.it "
-    linkedin: 
+    linkedin: "https://www.linkedin.com/in/mauricio-guam%C3%A1n-naranjo-0a2966166/"
     roles: 
     - category: "PhD Researcher"
       period: "Oct 2025 - Oct 2028 (expected)"
@@ -105,6 +114,7 @@ current_team:
       period: "Feb 2025 – present"
       thesis_title: 
 
+past_members:
   - name: "Maria Agni Ladeni"
     bio: "Catastrophe modelling internship at Guy Carpenter, Milan"
     photo: "http://gerardjoreilly.github.io/files/Profile/maria.jpeg"
@@ -116,7 +126,6 @@ current_team:
       period: "Feb 2025 – Sept 2025"
       thesis_title: Comparative analysis of exposure databases and portfolio diversification in catastrophe modeling for (Re)insurance applications in Italy
 
-past_members:
   - name: "Wendwesen Fekede"
     bio: 
     photo: "http://gerardjoreilly.github.io/files/Profile/empty.jpeg"
