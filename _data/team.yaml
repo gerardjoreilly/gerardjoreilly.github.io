@@ -4,6 +4,7 @@ current_team:
     bio: 
     email: "daniele.sivori@iusspavia.it"
     linkedin: 
+    projects: [sonata]
     roles: 
       - category: "Research Associate (RTDA)"
         period: "Nov 2025 - present"
@@ -13,6 +14,7 @@ current_team:
     bio: #"Seismic vulnerability assessment of the built environment through simulated design"
     email: "volkan.ozsarac@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/"
+    projects: [sonata, eries, rossini]
     roles: 
       - category: "Research Associate (RTDA)"
         period: "Oct 2025 - present"
@@ -24,6 +26,7 @@ current_team:
     bio: #"Development of research software tools for seismic risk assessment of the built environment"
     email: "davit.shahnazaryan@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/davitshahnazaryan/"
+    projects: [sonata, eries, rossini]
     roles: 
       - category: "Research Associate (RTDA)"
         period: "Oct 2025 - present"
@@ -40,6 +43,7 @@ current_team:
     bio: 
     email: "marco.todaro@iusspavia.it"
     linkedin: 
+    projects: [sonata]
     roles: 
     - category: "PhD Researcher"
       period: "Oct 2025 - Oct 2028 (expected)"
@@ -49,6 +53,7 @@ current_team:
     bio: 
     email: "mauricio.guaman@iusspavia.it "
     linkedin: "https://www.linkedin.com/in/mauricio-guam%C3%A1n-naranjo-0a2966166/"
+    projects: [sonata]
     roles: 
     - category: "PhD Researcher"
       period: "Oct 2025 - Oct 2028 (expected)"
@@ -58,6 +63,7 @@ current_team:
     bio: "Regional seismic risk assessment incorporating spatial correlation of next-generation intensity measures "
     email: "vitor.azevedomonteiro@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/v%C3%ADtor-monteiro-structuralengineering/"
+    projects: [reluis-24-26]
     roles: 
     - category: "PhD Researcher"
       period: "Oct 2024 - Oct 2027 (expected)" 
@@ -67,6 +73,7 @@ current_team:
     bio: "Regional seismic risk assessment of structures incorporating building-to-building damage correlations "
     email: "tomas.mejiasaldarriaga@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/tom%C3%A1s-mej%C3%ADa-03516112a/"
+    projects: [reluis-24-26]
     roles:
     - category: "PhD Researcher"
       period: "Oct 2024 - Oct 2027 (expected)"
@@ -81,6 +88,7 @@ current_team:
     bio: "Seismic risk analysis of Turkish residential building taxonomies through simulated design"
     email: "serkan.hasanoglu@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/serkan-hasano%C4%9Flu-810a12b9/"
+    projects: [reluis-24-26]
     roles: 
     - category: "PhD Researcher"
       period: "Oct 2022 - Oct 2026 (expected)"
@@ -90,6 +98,7 @@ current_team:
     bio: "Investigating impacts of ground motion and hazard definitions in the seismic analysis and capacity design of reinforced concrete wall buildings"
     email: "jose.poveda@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/jose-poveda-7ab351a1/"
+    projects: [eries]
     roles:
     - category: "PhD Researcher"
       period: "Oct 2022 - Oct 2026 (expected)"
@@ -141,6 +150,7 @@ past_members:
   - name: "Savvinos Aristeidou"
     photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/savvinos.jpeg"
     linkedin: "https://www.linkedin.com/in/savvinos-aristeidou-419711230/"
+    projects: [reluis-24-26]
     roles:
       - category: "Postdoctoral Researcher"
         co_supervisor: 
@@ -161,6 +171,7 @@ past_members:
   - name: "Al Mouayed Bellah Nafeh"
     photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/nafeh.jpeg"
     linkedin: "https://www.linkedin.com/in/al-mouayed-bellah-nafeh/"
+    projects: [rossini]
     roles:
       - category: "PhD Researcher"
         co_supervisor:
