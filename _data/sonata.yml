@@ -1,0 +1,32 @@
+acronym: "SONATA"
+title: "Sensor-driven statistical tools to evaluate risks and manage safety in the built environment"
+period: "Oct 2025 – Sept 2028"
+role: "Principal Investigator"
+budget: "€1,321,705.00"
+funding:
+  text: "Starting Grant – Fondo Italiano per la Scienza (FIS)"
+  url: "https://www.mur.gov.it/it"
+logos:
+  project: "/assets/images/logos/sonata.png"
+description: >
+  The SONATA project aims to improve earthquake safety in Italy’s built environment, with a special focus on non-structural elements that significantly impact economic losses and recovery. Using innovative tools like the 9DLAB shaking table, sensors, AI, and image recognition, SONATA will develop advanced methods to assess seismic damage and create accurate fragility functions. These tools will be integrated into a prototype system and tested through a real-world case study to support effective risk management and decision-making.
+
+include_past_team: true
+
+# News
+project_news:
+  - title: "Project officially underway!"
+    date: "2025-10-01"
+    url: 
+    excerpt: "The SONATA has officially started with 3 new members joining the team."
+
+# Videos
+videos:
+#   - title: "9DLAB shaking table – short demo"
+#     url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+
+# Publications:
+related_publications:
+  # - "[Doe, J., Smith, J. (2025). Damage assessment of non-structural components using sensor data. *EQ Eng Conf 2025*.](https://doi.org/10.0000/example1)"
+  # - "[Rossi, M., Bianchi, L. (2024). AI-driven fragility curves for building contents. *Journal of Risk Eng* 12(3).](https://doi.org/10.0000/example2)"
+  # - "[Full publications list →](/publications/)"

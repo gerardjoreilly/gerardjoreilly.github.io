@@ -1,0 +1,40 @@
+acronym: "ROSSINI"
+title: "Progettazione, realizzazione e sperimentazione di un sistema prototipale di navigazione risk-aware per la gestione e mitigazione del RischiO SiSmico in industrie a rischio di INcidente rIlevante"
+period: "Jun 2020 – Nov 2022"
+role: "Principal Investigator"
+budget: "€333,300"
+funding:
+  text: "Italian National Institute for Insurance against Accidents at Work (INAIL)"
+  url: "https://www.mur.gov.it/it"
+logos:
+  project: "/assets/images/logos/rossini.jpg"
+description: >
+  ROSSINI places itself within the overall field of seismic risk-aware navigation systems. It describes the use of a sensor array for the integrated risk-aware navigation in industrial plants at risk of NaTech accidents, using an industrial plant facility in Italy as its pilot study. The integration of structural and environmental risks estimated and measured in different ways via a sensor array network is presented as part of an integrated risk identification and evaluation (RIE) module. This module is used to combine and map the possible risks spatially within an industrial plant’s layout and shown how this information can then be used to not only compute the safest path to safety for a worker located within such a plant but also how mobile communications can be used to aid and guide them in different scenarios.  
+
+include_past_team: true
+
+# News
+# project_news:
+#   - title: "Project officially underway!"
+#     date: "2025-10-01"
+#     url: 
+#     excerpt: "The SONATA has officially started with 3 new members joining the team."
+
+# Videos
+videos:
+  - title: "Project Overview"
+    url: "https://www.youtube.com/watch?v=zX70Mf5AVOc"
+  - title: "Interview - GJ O'Reilly"
+    url: "https://www.youtube.com/watch?v=o5GgkyYd2rU"
+  - title: "Interview - F Dacarro"
+    url: "https://www.youtube.com/watch?v=W3nghnlWZxk"
+  - title: "Interview - A Marino"
+    url: "https://www.youtube.com/watch?v=DKaeo_eZMMQ"
+
+# Publications:
+related_publications:
+  - "O’Reilly, G. J., Shahnazaryan, D., Dubini, P., Brunesi, E., Rosti, A., Dacarro, F., Gotti, A., Silvestri, D., Mascetti, S., Ducci, M., Ciucci, M., & Marino, A. (2023). Risk-aware navigation in industrial plants at risk of NaTech accidents. International Journal of Disaster Risk Reduction, 88, 103620 [[PDF](http://gerardjoreilly.github.io/assets/documents/journal-articles/rossini_ijdrr.pdf)][[Link](https://doi.org/10.1016/j.ijdrr.2023.103620)]"
+  - "Shahnazaryan D, O’Reilly GJ, Dubini P, Dacarro F, Gotti A, Mascetti S, et al. Integrating multiple risks to aid the navigation of industrial plant workers during seismic events. 3rd European Conference on Earthquake Engineering & Seismology, Bucharest, Romania: 2022. [[PDF](http://gerardjoreilly.github.io/assets/documents/conference-papers/C29-Shahnazaryan.pdf)]"
+  - "O’Reilly GJ, Shahnazaryan D, Nafeh AMB, Ozsarac V, Sarigiannis D, Dubini P, et al. Utilization of a sensor array for the risk-aware navigation in industrial plants at risk of natech accidents. Proceedings of the ASME 2022 Pressure Vessels & Piping Conference PVP2022, Las Vegas, Nevada, USA: 2022. [[PDF](http://gerardjoreilly.github.io/assets/documents/conference-papers/C28-PVP2022-84014_final.pdf)"
+  - "Ahmetovic D, Bettini C, Ciucci M, Dacarro F, Dubini P, Gotti A, et al. Emergency navigation assistance for industrial plants workers subject to situational impairment. The 22nd International ACM SIGACCESS Conference on Computers and Accessibility, New York, NY, USA: ACM; 2020. DOI: 10.1145/3373625.3418016. [[PDF](http://gerardjoreilly.github.io/assets/documents/conference-papers/C25-2020_PETRA_Rossini.pdf)]"
+  - "Rosti, A., Brunesi, E., Dacarro, F., Dubini, P., Marino, A., Nosenzo, G., & O’Reilly, G. J. (2023, July 16). On the Quantification of Accidental Gas Release From Pressurized Vessels. Volume 7: Seismic Engineering; ASME Nondestructive Evaluation, Diagnosis and Prognosis (NDPD) Division. https://doi.org/10.1115/PVP2023-107249 [[PDF](http://gerardjoreilly.github.io/assets/documents/conference-papers/pvp2023.pdf)]"
