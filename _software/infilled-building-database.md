@@ -31,4 +31,4 @@ Furthermore, the in-plane behaviour of masonry infill panels was modelled using 
 These models have been fully implemented and are available at the aforementioned GitHub repository [here](https://github.com/gerardjoreilly/Infilled-RC-Building-Database) along with several other useful documents and material regarding their structural behaviour and properties.
 
 ## Relevant references:
-1. Nafeh AMB, **O’Reilly GJ**. Unbiased simplified seismic fragility estimation of non-ductile infilled RC structures. Soil Dynamics and Earthquake Engineering 2022; 157: 107253. DOI: 10.1016/j.soildyn.2022.107253. [[PDF](http://gerardjoreilly.github.io/files/Journal/J31.pdf)][[Link](https://www.sciencedirect.com/science/article/pii/S0267726122001026?via%3Dihub)]
+1. Nafeh AMB, **O’Reilly GJ**. Unbiased simplified seismic fragility estimation of non-ductile infilled RC structures. Soil Dynamics and Earthquake Engineering 2022; 157: 107253. DOI: 10.1016/j.soildyn.2022.107253. [[PDF](http://gerardjoreilly.github.io/assets/documents/journal-articles/J31.pdf)][[Link](https://www.sciencedirect.com/science/article/pii/S0267726122001026?via%3Dihub)]

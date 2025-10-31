@@ -8,7 +8,7 @@ From about:
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 5</div>
-    <img src="../files/Photos/3ecees.jpeg" style="width:100%">
+    <img src="../assets/images/photos/3ecees.jpeg" style="width:100%">
     <div class="text">Presenting at the 3ECEES in Bucharest, Romania</div>
   </div>
 
@@ -16,25 +16,25 @@ From about:
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 5</div>
-    <img src="../files/Photos/rose.jpeg" style="width:100%">
+    <img src="../assets/images/photos/rose.jpeg" style="width:100%">
     <div class="text">ROSE reunion at the 3ECEES in Bucharest, Romania</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 5</div>
-    <img src="../files/Photos/anidis.jpeg" style="width:100%">
+    <img src="../assets/images/photos/anidis.jpeg" style="width:100%">
     <div class="text">Presenting at ANIDIS in Turin, Italy</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">4 / 5</div>
-    <img src="../files/Photos/eries.jpg" style="width:100%">
+    <img src="../assets/images/photos/eries.jpg" style="width:100%">
     <div class="text">Kicking off the ERIES project in Pavia, Italy</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">5 / 5</div>
-    <img src="../files/Photos/krc1.jpg" style="width:100%">
+    <img src="../assets/images/photos/krc1.jpg" style="width:100%">
     <div class="text">Saying goodbye following a 1-month visit to my colleagues at KRC in Tokyo, Japan</div>
   </div>
 

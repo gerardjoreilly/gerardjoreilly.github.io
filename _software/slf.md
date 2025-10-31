@@ -16,5 +16,5 @@ For the latest version of the tool, please visit the Github page [here](https://
 
 
 ## Relevant references:
-1. Shahnazaryan D, **O’Reilly GJ**, Monteiro R. Story loss functions for seismic design and assessment: Development of tools and application. Earthquake Spectra 2021; 37(4): 2813–2839. DOI: 10.1177/87552930211023523. [[PDF](http://gerardjoreilly.github.io/files/Journal/J21-2021.pdf)][[Link](https://journals.sagepub.com/doi/10.1177/87552930211023523)]
-1. Shahnazaryan D, **O’Reilly GJ**, Monteiro R. Development of a Python-Based Storey Loss Function Generator. COMPDYN 2021 - 8th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, 2021. DOI: 10.7712/120121.8659.18567. [[PDF](http://gerardjoreilly.github.io/files/Conference/C18-2021.pdf)]
+1. Shahnazaryan D, **O’Reilly GJ**, Monteiro R. Story loss functions for seismic design and assessment: Development of tools and application. Earthquake Spectra 2021; 37(4): 2813–2839. DOI: 10.1177/87552930211023523. [[PDF](http://gerardjoreilly.github.io/assets/documents/journal-articles/J21-2021.pdf)][[Link](https://journals.sagepub.com/doi/10.1177/87552930211023523)]
+1. Shahnazaryan D, **O’Reilly GJ**, Monteiro R. Development of a Python-Based Storey Loss Function Generator. COMPDYN 2021 - 8th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, 2021. DOI: 10.7712/120121.8659.18567. [[PDF](http://gerardjoreilly.github.io/assets/documents/conference-papers/C18-2021.pdf)]

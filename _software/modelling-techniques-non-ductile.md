@@ -14,4 +14,4 @@ For the latest version of the tool, please visit the Github page [here](https://
 
 
 ## Relevant references:
-1. **O’Reilly GJ**, Sullivan TJ. Modeling Techniques for the Seismic Assessment of the Existing Italian RC Frame Structures. Journal of Earthquake Engineering 2019; 23(8): 1262–1296. DOI: 10.1080/13632469.2017.1360224. [[PDF](http://gerardjoreilly.github.io/files/Journal/J10-2019_O’Reilly, Sullivan_Modeling Techniques for the Seismic Assessment of the Existing Italian RC Frame Structures.pdf)][[Link](https://www.tandfonline.com/doi/full/10.1080/13632469.2017.1360224)]
+1. **O’Reilly GJ**, Sullivan TJ. Modeling Techniques for the Seismic Assessment of the Existing Italian RC Frame Structures. Journal of Earthquake Engineering 2019; 23(8): 1262–1296. DOI: 10.1080/13632469.2017.1360224. [[PDF](http://gerardjoreilly.github.io/assets/documents/journal-articles/J10-2019_O’Reilly, Sullivan_Modeling Techniques for the Seismic Assessment of the Existing Italian RC Frame Structures.pdf)][[Link](https://www.tandfonline.com/doi/full/10.1080/13632469.2017.1360224)]

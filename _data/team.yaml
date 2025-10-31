@@ -1,6 +1,6 @@
 current_team:
   - name: "Daniele Sivori"
-    photo: "http://gerardjoreilly.github.io/files/Profile/daniele.jpg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/daniele.jpg"
     bio: 
     email: "daniele.sivori@iusspavia.it"
     linkedin: 
@@ -9,7 +9,7 @@ current_team:
         period: "Nov 2025 - present"
   
   - name: "Volkan Özsaraç"
-    photo: "http://gerardjoreilly.github.io/files/Profile/volkan.jpeg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/volkan.jpeg"
     bio: #"Seismic vulnerability assessment of the built environment through simulated design"
     email: "volkan.ozsarac@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/volkan-%C3%B6zsara%C3%A7-90509890/"
@@ -20,7 +20,7 @@ current_team:
         period: "May 2024 - Sept 2025"
     
   - name: "Davit Shahnazaryan"
-    photo: "http://gerardjoreilly.github.io/files/Profile/davit.jpeg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/davit.jpeg"
     bio: #"Development of research software tools for seismic risk assessment of the built environment"
     email: "davit.shahnazaryan@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/davitshahnazaryan/"
@@ -33,10 +33,10 @@ current_team:
         co_supervisor:
         period: "Sept 2017 - Nov 2021"
         thesis_title: "Integrated Performance-Based Seismic Design: Traversing Affordances for Practical Implementation"
-        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2021-Shahnazaryan.pdf"
+        thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2021-Shahnazaryan.pdf"
   
   - name: "Marco Todaro"
-    photo: "http://gerardjoreilly.github.io/files/Profile/marco.jpg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/marco.jpg"
     bio: 
     email: "marco.todaro@iusspavia.it"
     linkedin: 
@@ -45,7 +45,7 @@ current_team:
       period: "Oct 2025 - Oct 2028 (expected)"
 
   - name: "Mauricio Guamán Naranjo"
-    photo: "http://gerardjoreilly.github.io/files/Profile/mauricio.jpeg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/mauricio.jpeg"
     bio: 
     email: "mauricio.guaman@iusspavia.it "
     linkedin: "https://www.linkedin.com/in/mauricio-guam%C3%A1n-naranjo-0a2966166/"
@@ -54,7 +54,7 @@ current_team:
       period: "Oct 2025 - Oct 2028 (expected)"
 
   - name: "Vitor A. Monteiro"
-    photo: "http://gerardjoreilly.github.io/files/Profile/vitor.jpeg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/vitor.jpeg"
     bio: "Regional seismic risk assessment incorporating spatial correlation of next-generation intensity measures "
     email: "vitor.azevedomonteiro@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/v%C3%ADtor-monteiro-structuralengineering/"
@@ -63,7 +63,7 @@ current_team:
       period: "Oct 2024 - Oct 2027 (expected)" 
 
   - name: "Tomas Mejia Saldarriaga"
-    photo: "http://gerardjoreilly.github.io/files/Profile/tomas.jpeg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/tomas.jpeg"
     bio: "Regional seismic risk assessment of structures incorporating building-to-building damage correlations "
     email: "tomas.mejiasaldarriaga@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/tom%C3%A1s-mej%C3%ADa-03516112a/"
@@ -77,7 +77,7 @@ current_team:
       thesis_link: ""
 
   - name: "Serkan Hasanoğlu"
-    photo: "http://gerardjoreilly.github.io/files/Profile/serkan.jpeg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/serkan.jpeg"
     bio: "Seismic risk analysis of Turkish residential building taxonomies through simulated design"
     email: "serkan.hasanoglu@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/serkan-hasano%C4%9Flu-810a12b9/"
@@ -86,7 +86,7 @@ current_team:
       period: "Oct 2022 - Oct 2026 (expected)"
 
   - name: "José Poveda"
-    photo: "http://gerardjoreilly.github.io/files/Profile/jose.jpeg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/jose.jpeg"
     bio: "Investigating impacts of ground motion and hazard definitions in the seismic analysis and capacity design of reinforced concrete wall buildings"
     email: "jose.poveda@iusspavia.it"
     linkedin: "https://www.linkedin.com/in/jose-poveda-7ab351a1/"
@@ -106,7 +106,7 @@ current_team:
 
   - name: "Luca Cavecchi"
     bio: "Investigating the impacts of energy dissipation and cumulative damage in seismic fragility analysis of masonry infills"
-    photo: "http://gerardjoreilly.github.io/files/Profile/empty.jpeg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/empty.jpeg"
     email: luca.cavecchi01@universitadipavia.it
     linkedin:
     roles:
@@ -117,7 +117,7 @@ current_team:
 past_members:
   - name: "Maria Agni Ladeni"
     bio: "Catastrophe modelling internship at Guy Carpenter, Milan"
-    photo: "http://gerardjoreilly.github.io/files/Profile/maria.jpeg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/maria.jpeg"
     email: maria-agni.ladeni01@universitadipavia.it 
     linkedin: "https://www.linkedin.com/in/maria-ladeni-b202b5195/"
     roles:
@@ -128,7 +128,7 @@ past_members:
 
   - name: "Wendwesen Fekede"
     bio: 
-    photo: "http://gerardjoreilly.github.io/files/Profile/empty.jpeg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/empty.jpeg"
     email: wendwesenfeked.haile01@universitadipavia.it
     linkedin:
     roles:
@@ -136,10 +136,10 @@ past_members:
       co_supervisor: Prof. Richard Wiebe
       period: "Feb 2025 – Sept 2025"
       thesis_title: "Post lateral-torsional buckling behaviour of a simply-supported beam subjected to midspan point load"
-      thesis_link: "http://gerardjoreilly.github.io/files/Theses/2025-Haile.pdf"
+      thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2025-Haile.pdf"
       
   - name: "Savvinos Aristeidou"
-    photo: "http://gerardjoreilly.github.io/files/Profile/savvinos.jpeg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/savvinos.jpeg"
     linkedin: "https://www.linkedin.com/in/savvinos-aristeidou-419711230/"
     roles:
       - category: "Postdoctoral Researcher"
@@ -151,32 +151,32 @@ past_members:
         co_supervisor: 
         period: "Oct 2020 - Dec 2024"
         thesis_title: "Advances in the practical application of next-generation intensity measures for efficient seismic risk assessment"
-        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2025-Aristeidou-PhD.pdf"
+        thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2025-Aristeidou-PhD.pdf"
       - category: "MSc Student"
         co_supervisor: "Prof. Gian Michele Calvi"
         period: "Feb 2020 – Sept 2020"
         thesis_title: "A Performance-Based Assessment of a Case Study Bridge and Impact of Retrofitting Interventions"
-        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2020_Aristeidou.pdf"
+        thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2020_Aristeidou.pdf"
       
   - name: "Al Mouayed Bellah Nafeh"
-    photo: "http://gerardjoreilly.github.io/files/Profile/nafeh.jpeg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/nafeh.jpeg"
     linkedin: "https://www.linkedin.com/in/al-mouayed-bellah-nafeh/"
     roles:
       - category: "PhD Researcher"
         co_supervisor:
         period: "Oct 2019 - Nov 2023"
         thesis_title: "Advancements in Risk- and Loss-Based Methodologies for Large-Scale Assessment of Non-Ductile Infilled Reinforced Concrete Buildings"
-        thesis_link: http://gerardjoreilly.github.io/files/Presentations/PhD_Nafeh-2024.pdf
+        thesis_link: http://gerardjoreilly.github.io/assets/documents/presentations/PhD_Nafeh-2024.pdf
 
   - name: "Andrés Abarca Jimenez"
-    photo: "http://gerardjoreilly.github.io/files/Profile/andres.jpeg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/andres.jpeg"
     linkedin: "https://www.linkedin.com/in/andres-abarca-jimenez/"
     roles:
       - category: "PhD Researcher"
         co_supervisor: "Prof. Ricardo Monteiro"
         period: "Sept 2017 - Apr 2022"
         thesis_title: "Regional Seismic Risk Assessment for Integrated Loss–Based Prioritisation of Bridge Portfolios"
-        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2022-Abarca.pdf"
+        thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2022-Abarca.pdf"
   
   - name: "Letizia Palamara"
     linkedin: "https://www.linkedin.com/in/letizia-palamara-371062227/"
@@ -185,7 +185,7 @@ past_members:
         co_supervisor: "Prof. Gian Michele Calvi"
         period: "Feb 2021 - Oct 2021"
         thesis_title: "Italian guidelines for the risk classification and management of existing bridges: a case study implementation and evaluation"
-        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2020-Palamara.pdf"
+        thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2020-Palamara.pdf"
 
   - name: "Federico Damiani"
     linkedin: "https://www.linkedin.com/in/federico-damiani-5a5a2b1b3/"
@@ -194,7 +194,7 @@ past_members:
         co_supervisor: "Prof. Ricardo Monteiro"
         period: "Feb 2020 - Dec 2020"
         thesis_title: "Seismic design and loss assessment of base-isolated structures using a PBEE framework"
-        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2020-Damiani.pdf"
+        thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2020-Damiani.pdf"
 
   - name: "Carlos Andres Mora Castrillo"
     linkedin: ""
@@ -203,7 +203,7 @@ past_members:
         co_supervisor: "Prof. Ricardo Monteiro"
         period: "Sept 2018 - Feb 2019"
         thesis_title: "Risk-Consistency of Force-Based and Displacement-Based Design of Reinforced Concrete Moment Frames"
-        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2019_Mora-Castrillo.pdf"
+        thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2019_Mora-Castrillo.pdf"
 
   - name: "Onur Deniz Akan"
     linkedin: "https://www.linkedin.com/in/odeniz-akan/"
@@ -212,7 +212,7 @@ past_members:
         co_supervisor: "Prof. Ricardo Monteiro"
         period: "Sept 2018 - Mar 2019"
         thesis_title: "Displaced Shapes of Infilled RC Frames for Displacement-Based Design and Assessment"
-        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2019_Akan.pdf"
+        thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2019_Akan.pdf"
 
   - name: "Jose Rafael Leone Villalba"
     linkedin: "https://www.linkedin.com/in/jose-leone-villalba-9a7b34183/"
@@ -221,7 +221,7 @@ past_members:
         co_supervisor: "Prof. Ricardo Monteiro"
         period: "Sept 2018 - Feb 2019"
         thesis_title: "Evaluation of Risk-Consistency of Force-Based and Displacement-Based Design of RC Wall Buildings"
-        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2019_Leone-Villalba.pdf"
+        thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2019_Leone-Villalba.pdf"
 
   - name: "Wilson Carofilis"
     linkedin: "https://www.linkedin.com/in/wilson-wladimir-carofilis-gallo/"
@@ -230,7 +230,7 @@ past_members:
         co_supervisor: "Profs. André Filiatrault, Daniele Perrone, Ricardo Monteiro"
         period: "Sept 2017 - Feb 2018"
         thesis_title: "Seismic Assessment and Retrofit of an Existing Reinforced Concrete School Building in Italy"
-        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2018_Carofilis.pdf"
+        thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2018_Carofilis.pdf"
 
   - name: "Gerard J. O'Reilly"
     linkedin: "https://www.linkedin.com/in/gerard-o-reilly-19601732/"
@@ -239,7 +239,7 @@ past_members:
         co_supervisor: "Prof. Timothy J. Sullivan"
         period: "Sept 2013 - Dec 2016"
         thesis_title: "Performance-Based Seismic Assessment and Retrofit of Existing RC Frame Buildings in Italy"
-        thesis_link: "http://gerardjoreilly.github.io/files/Theses/2016_O'Reilly.pdf"
+        thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2016_O'Reilly.pdf"
 
 
 visiting_members:
