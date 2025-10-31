@@ -40,7 +40,7 @@ years:
     courses:
       - title: "Performance-Based Earthquake Engineering"
         role: "Lecturer"
-        period: ""
+        period: 
         programme: "Doctoral Programme Course in Understanding and Managing Extremes"
         institutes:
           - "IUSS Pavia, Italy"
@@ -53,7 +53,7 @@ years:
 
       - title: "Dynamics of Structures"
         role: "Lecturer"
-        period: ""
+        period: 
         programme: "Master Degree in Civil Engineering for Mitigation of Risk from Natural Hazards"
         institutes:
           - "Università di Pavia"
@@ -64,7 +64,7 @@ years:
     courses:
       - title: "Performance-Based Earthquake Engineering"
         role: "Lecturer"
-        period: ""
+        period: 
         programme: "Doctoral Programme Course in Understanding and Managing Extremes"
         institutes:
           - "IUSS Pavia, Italy"
@@ -79,7 +79,7 @@ years:
     courses:
       - title: "Laboratorio di Tecnica delle Costruzioni"
         role: "Lecturer"
-        period: ""
+        period: 
         programme: "Laurea Magistrale in Ingegneria Edile-Architettura"
         institutes:
           - "Università di Pavia, Italy"
@@ -88,7 +88,7 @@ years:
     courses:
       - title: "Fundamentals of Seismic Design"
         role: "Guest Lecturer"
-        period: ""
+        period: 
         programme: "Master Degree in Civil Engineering for Mitigation of Risk from Natural Hazards"
         institutes:
           - "Università di Pavia"
@@ -98,7 +98,7 @@ years:
     courses:
       - title: "Fundamentals of Seismic Design"
         role: "Guest Lecturer"
-        period: ""
+        period: 
         programme: "Master Degree in Civil Engineering for Mitigation of Risk from Natural Hazards"
         institutes:
           - "Università di Pavia"
@@ -106,7 +106,7 @@ years:
 
       - title: "Performance-Based Earthquake Engineering (1 lecture)"
         role: "Guest Lecturer"
-        period: ""
+        period: 
         programme: "Master Program of Structural Engineering"
         institutes:
           - "Universidad de las Fuerzas Armadas – ESPE, Ecuador"
@@ -115,8 +115,8 @@ years:
     courses:
       - title: "Fundamentals of Seismic Design (ROSE/MEEES MSc Programme)"
         role: "Invited Lecturer"
-        period: ""
-        programme: ""
+        period: 
+        programme: 
         institutes:
           - "Università di Pavia"
           - "IUSS Pavia, Italy"
@@ -126,8 +126,8 @@ years:
     courses:
       - title: "Seismic Design of Building Structures (MSc Programme in Civil Engineering)"
         role: "Teaching Assistant"
-        period: ""
-        programme: ""
+        period: 
+        programme: 
         institutes:
           - "University of Stellenbosch, South Africa"
         lecturer: "Ricardo Monteiro"
@@ -136,8 +136,8 @@ years:
     courses:
       - title: "Seismic Design of Steel Structures (ROSE/MEEES MSc Programme)"
         role: "Teaching Assistant"
-        period: ""
-        programme: ""
+        period: 
+        programme: 
         institutes:
           - "Università di Pavia"
           - "IUSS Pavia, Italy"
