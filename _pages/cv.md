@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-[Download full CV here](http://gerardjoreilly.github.io/assets/documents/CV_OReilly_Gerard.pdf)
+<!-- [Download full CV here](http://gerardjoreilly.github.io/assets/documents/CV_OReilly_Gerard.pdf) -->
 
 
 
