@@ -11,7 +11,7 @@ projects:
     period: "Jun 2020 – Nov 2022"
     role: "Principal Investigator"
     logo: "/assets/images/logos/rossini.jpg"
-    url: "https://www.progetto-rossini.it"
+    url: "/projects/rossini/"
     funding: "Italian National Institute for Insurance against Accidents at Work (INAIL)"
     funding_url: "https://www.inail.it/portale/"
     budget: "€333,300"
