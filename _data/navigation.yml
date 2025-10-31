@@ -43,8 +43,7 @@ main:
   # - title: "Resources"
   #   url: /resources/
 
-    
-  # - title: "Djura"
-  #   url: "https://djura.it/"
+  - title: "DJURA"
+    url: /djura/
 
     

@@ -1,0 +1,162 @@
+/* --------------------------------------------------
+   Font: Avenir (system + optional self-hosted)
+   -------------------------------------------------- */
+
+/*
+@font-face {
+  font-family: "Avenir Next";
+  src: url("/assets/fonts/AvenirNextLTPro-Regular.woff2") format("woff2"),
+       url("/assets/fonts/AvenirNextLTPro-Regular.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Avenir Next";
+  src: url("/assets/fonts/AvenirNextLTPro-Demi.woff2") format("woff2"),
+       url("/assets/fonts/AvenirNextLTPro-Demi.woff") format("woff");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+*/
+
+.djura-section,
+.djura-section * {
+  font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+}
+
+/* --------------------------------------------------
+   Layout
+   -------------------------------------------------- */
+
+.djura-section {
+  text-align: center;
+  margin: 2rem auto 3rem;
+  max-width: 1200px;
+  padding: 0 1rem;
+}
+
+/* Logo */
+.djura-logo {
+  margin-bottom: 2rem;
+}
+.djura-logo img {
+  height: 120px;
+  width: auto;
+  transition: transform 0.2s ease;
+}
+.djura-logo img:hover {
+  transform: scale(1.05);
+}
+
+/* Cards grid */
+.djura-card-container {
+  display: grid;
+  gap: 2.5rem;
+}
+@media (min-width: 900px) {
+  .djura-card-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Wrapper so TITLE is clearly OUTSIDE the box */
+.djura-card-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* TITLE above box — larger, bold */
+.djura-card-heading {
+  font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+  color: #E0614C;                 /* red */
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: 0.3px;
+  margin: 0 0 1rem 0;
+  text-transform: uppercase;
+}
+
+/* Card (blue box) */
+.djura-card {
+  background: #26577C;            /* blue */
+  color: #fff;
+  border-radius: 16px;
+  padding: 2rem 1.25rem 1.75rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  width: 100%;
+  max-width: 380px;
+}
+.djura-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+}
+
+/* Icon ~70% of card width */
+.djura-card-icon {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+.djura-card-icon img {
+  width: 100%;
+  height: auto;
+}
+
+/* Description */
+.djura-card-description {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+  max-width: 300px;
+  font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+}
+
+/* Buttons — vertical, aligned, uppercase */
+.djura-card-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.6rem;
+  width: 100%;
+  max-width: 240px;
+}
+.djura-btn {
+  display: block;
+  width: 100%;
+  background: #E0614C;            /* red */
+  color: #fff;
+  text-decoration: none !important;  /* remove underline */
+  font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  border-radius: 8px;
+  padding: 0.6rem 0.9rem;
+  transition: background 0.2s ease, transform 0.1s ease, box-shadow 0.2s ease;
+  text-align: center;
+}
+.djura-btn:hover {
+  background: #f37961;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(224, 97, 76, 0.35);
+}
+
+/* Responsive tweaks */
+@media (max-width: 600px) {
+  .djura-card-heading { font-size: 1.7rem; }
+  .djura-card { max-width: 100%; }
+  .djura-card-icon { width: 80%; }
+}

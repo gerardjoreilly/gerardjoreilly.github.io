@@ -1,0 +1,36 @@
+---
+layout: archive
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/djura-cards.css' | relative_url }}">
+
+<section class="djura-section">
+
+  <!-- Logo -->
+  <div class="djura-logo">
+    <a href="{{ page.website_url }}" target="_blank" rel="noopener">
+      <img src="{{ page.logo | relative_url }}" alt="DJURA logo">
+    </a>
+  </div>
+
+  <!-- Cards -->
+  <div class="djura-card-container">
+    {% for c in page.cards %}
+    <article class="djura-card">
+      {% if c.icon %}
+      <div class="djura-card-icon">
+        <img src="{{ c.icon | relative_url }}" alt="{{ c.title }} icon">
+      </div>
+      {% endif %}
+      <h2 class="djura-card-title">{{ c.title }}</h2>
+      <p class="djura-card-description">{{ c.description }}</p>
+      <div class="djura-card-buttons">
+        {% for b in c.buttons %}
+        <a href="{{ b.url }}" target="_blank" rel="noopener" class="djura-btn">{{ b.label }}</a>
+        {% endfor %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+
+</section>
