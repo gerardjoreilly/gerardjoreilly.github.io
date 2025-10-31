@@ -1,22 +1,14 @@
 ---
-layout: archive
-title: ""
+layout: cv
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
+cv_pdf_url: "http://gerardjoreilly.github.io/assets/documents/CV_OReilly_Gerard.pdf"
 ---
 
 
-<!-- [Download full CV here](http://gerardjoreilly.github.io/assets/documents/CV_OReilly_Gerard.pdf) -->
 
-
-
-
-
-
-
-
-
-## Current Appointments
+<!-- ## Current Appointments
 * Associate Professor of Structural Engineering @ [IUSS Pavia](https://www.iusspavia.it/it), Italy (Dec 2023  - present)
 * Affiliated Researcher @ [EUCENTRE Foundation](https://www.eucentre.it/?lang), Italy (Jan 2014 – present)
 * Director of the Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre) @ [IUSS Pavia](https://www.iusspavia.it/it), Italy (2025  - present)
@@ -56,4 +48,4 @@ author_profile: true
 
 ## Other Qualifications
 * Approved by the Italian Ministry of Universities and Research’s National Scientific Committee as qualified to hold the rank of Full Professor in Structural and Geotechnical Engineering (2025 - 2037)
-* Approved by the Italian Ministry of Universities and Research’s National Scientific Committee as qualified to hold the rank of Associate Professor in Structural and Geotechnical Engineering (2022 - 2031)
+* Approved by the Italian Ministry of Universities and Research’s National Scientific Committee as qualified to hold the rank of Associate Professor in Structural and Geotechnical Engineering (2022 - 2031) -->

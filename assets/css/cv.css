@@ -1,0 +1,150 @@
+/* CV Container */
+.cv {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 0 0 2.5rem;
+}
+
+/* Optional PDF button */
+.cv-btn-wrapper {
+  text-align: right;
+  margin-bottom: 0.75rem;
+}
+.cv-btn {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  border-radius: 0.6rem;
+  background: #111;
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+/* Quick navigation */
+.cv-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
+  margin: 0.5rem 0 1rem;
+  font-size: 0.95rem;
+}
+.cv-nav a {
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+  color: inherit;
+  opacity: 0.9;
+}
+
+/* Section container */
+.cv-sec {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 0.75rem;
+  padding: 0.4rem 0.9rem 0.7rem;
+  background: #fff;
+  margin: 1rem 0;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.02);
+}
+
+/* Section heading (summary) */
+.cv-sec > summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.6rem;
+  padding: 0.65rem 0.4rem;
+  font-weight: 800;
+  font-size: 1.1rem;
+  letter-spacing: 0.2px;
+  color: #0f172a;
+  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.6rem;
+}
+
+.cv-sec > summary:hover {
+  background: #f1f5f9;
+  border-color: #cbd5e1;
+}
+
+/* Marker arrow */
+.cv-sec > summary::marker { content: ""; }
+.cv-sec > summary::before {
+  content: "▸";
+  font-size: 1rem;
+  margin-right: 0.5rem;
+  transition: transform 0.2s ease;
+  color: #475569;
+}
+.cv-sec[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+/* Open state accent */
+.cv-sec[open] {
+  border-left: 4px solid #0ea5e9;
+}
+
+/* Lists */
+.cv-list {
+  list-style: disc;
+  margin: 0.35rem 0 0.2rem 1.2rem;
+  padding: 0;
+}
+
+.cv-item {
+  margin: 0.5rem 0;
+}
+
+/* Role line */
+.cv-item-line {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+
+.cv-role {
+  font-weight: 700;
+  color: #111827;
+}
+
+.cv-period {
+  font-size: 0.9rem;
+  opacity: 0.75;
+  white-space: nowrap;
+}
+
+/* Sub bullets */
+.cv-sub {
+  list-style: circle;
+  margin: 0.25rem 0 0.1rem 1.1rem;
+  padding: 0;
+}
+
+.cv-org a {
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+}
+
+/* Back to top */
+.cv-backtop {
+  margin-top: 1.25rem;
+  text-align: right;
+  font-size: 0.9rem;
+}
+.cv-backtop a {
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+}
+
+/* Responsive tweaks */
+@media (max-width: 680px) {
+  .cv-btn-wrapper {
+    text-align: left;
+  }
+  .cv-item-line {
+    grid-template-columns: 1fr;
+  }
+}

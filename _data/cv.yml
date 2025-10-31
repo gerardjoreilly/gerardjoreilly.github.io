@@ -1,0 +1,100 @@
+current_appointments:
+  - title: "Associate Professor of Structural Engineering"
+    org: "IUSS Pavia, Italy"
+    url: "https://www.iusspavia.it/it"
+    period: "Dec 2023 – present"
+
+  - title: "Affiliated Researcher"
+    org: "EUCENTRE Foundation, Italy"
+    url: "https://www.eucentre.it/?lang"
+    period: "Jan 2014 – present"
+
+  - title: "Director, Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre)"
+    org: "IUSS Pavia, Italy"
+    url: "https://www.iusspavia.it/it"
+    period: "2025 – present"
+
+  - title: "Member, Doctoral Advisory Board (Collegio dei Docenti)"
+    org: "IUSS Pavia, Italy"
+    url: "https://www.iusspavia.it/it"
+    period: "2024 – present"
+
+  - title: "Member, Advisory Board (Comitato di Coordinamento)"
+    org: "EUCENTRE Foundation, Italy"
+    url: "https://www.eucentre.it/?lang"
+    period: "2024 – present"
+
+
+past_appointments:
+  - title: "Assistant Professor of Structural Engineering"
+    org: "IUSS Pavia, Italy"
+    url: "https://www.iusspavia.it/it"
+    period: "May 2019 – Nov 2023"
+
+  - title: "Visiting Researcher"
+    org: "Kobori Research Complex, Tokyo, Japan"
+    url: "http://www.kobori-takken.co.jp/index.html"
+    period: "Nov 2019 – Dec 2019"
+
+  - title: "Post-doctoral Researcher"
+    org: "IUSS Pavia, Italy"
+    url: "https://www.iusspavia.it/it"
+    period: "Mar 2017 – Apr 2019"
+
+  - title: "Visiting Researcher"
+    org: "University of California, Berkeley, USA"
+    url: "https://www.berkeley.edu/"
+    period: "Sept 2011 – Aug 2012"
+
+
+education:
+  - degree: "Ph.D. in Earthquake Engineering & Engineering Seismology"
+    org: "IUSS Pavia, Italy"
+    url: "https://www.iusspavia.it/it"
+    year: "2016"
+
+  - degree: "M.Sc. in Civil Engineering"
+    org: "University of Galway, Ireland"
+    url: "https://www.universityofgalway.ie/"
+    year: "2013"
+
+  - degree: "B.Eng. in Civil Engineering"
+    org: "University of Galway, Ireland"
+    url: "https://www.universityofgalway.ie/"
+    year: "2010"
+
+
+honours:
+  - text: "Awarded €1.3M Starting Grant by the Fondo Italiano per la Scienza (FIS) on “Sensor-driven statistical tools to evaluate risks and manage safety in the built environment.”"
+  - text: "2024 Engineering Structures Best Paper of the Year (Artificial Intelligence in Structural Engineering)"
+  - text: "Editor's Featured Paper Award by Engineering Structures"
+  - text: "2022 Shah Family Innovation Prize by the Earthquake Engineering Research Institute"
+    link: "https://eeri.org/about-eeri/news/13895-2022-shah-family-innovation-prize-awarded-to-gerard-o-reilly"
+  - text: "2020 Outstanding Paper Award — IABSE: “Once upon a Time in Italy: The Tale of the Morandi Bridge.”"
+    link: "https://www.tandfonline.com/doi/full/10.1080/10168664.2018.1558033"
+  - text: "Top Reviewer, Bulletin of Earthquake Engineering (2020)"
+  - text: "Best Structures Paper, BCRI 2012 (Dublin, Ireland)"
+  - text: "Two University Scholar prizes for academic excellence during undergraduate studies"
+
+
+editorial_roles:
+  - title: "Associate Editor, Earthquake Spectra"
+    url: "https://journals.sagepub.com/home/eqs"
+    period: "2025 – present"
+
+  - title: "Editorial Board, Frontiers in Earth Science – Geohazards and Georisks"
+    period: "2021 – present"
+
+  - title: "Editorial Board, Frontiers in Built Environment – Earthquake Engineering"
+    period: "2020 – present"
+
+  - title: "Member, European Geosciences Union"
+    period: "2023 – present"
+
+  - title: "Member, Earthquake Engineering Research Institute"
+    period: "2022 – present"
+
+
+qualifications:
+  - text: "Qualified as Full Professor in Structural and Geotechnical Engineering (2025–2037)"
+  - text: "Qualified as Associate Professor in Structural and Geotechnical Engineering (2022–2031)"

@@ -1,0 +1,150 @@
+---
+layout: archive
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/cv.css' | relative_url }}">
+
+<section class="cv">
+
+  <!-- Optional PDF download button -->
+  {% if page.cv_pdf_url %}
+  <div class="cv-btn-wrapper">
+    <a class="cv-btn" href="{{ page.cv_pdf_url | relative_url }}" target="_blank" rel="noopener">Download CV (PDF)</a>
+  </div>
+  {% endif %}
+
+  <!-- Quick navigation -->
+  <nav class="cv-nav">
+    <a href="#current-appointments">Current</a>
+    <a href="#past-appointments">Past</a>
+    <a href="#education">Education</a>
+    <a href="#honours">Honours</a>
+    <a href="#editorial">Editorial</a>
+    <a href="#qualifications">Qualifications</a>
+  </nav>
+
+  {% assign cv = site.data.cv %}
+
+  <!-- Current Appointments -->
+  <details class="cv-sec" id="current-appointments" open>
+    <summary>Current Appointments</summary>
+    <ul class="cv-list">
+      {% for item in cv.current_appointments %}
+      <li class="cv-item">
+        <div class="cv-item-line">
+          <span class="cv-role">{{ item.title }}</span>
+          <span class="cv-period">{{ item.period }}</span>
+        </div>
+        <ul class="cv-sub">
+          <li class="cv-org">
+            {% if item.url %}
+            <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.org }}</a>
+            {% else %}
+            {{ item.org }}
+            {% endif %}
+          </li>
+        </ul>
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
+
+  <!-- Past Appointments -->
+  <details class="cv-sec" id="past-appointments">
+    <summary>Past Appointments</summary>
+    <ul class="cv-list">
+      {% for item in cv.past_appointments %}
+      <li class="cv-item">
+        <div class="cv-item-line">
+          <span class="cv-role">{{ item.title }}</span>
+          <span class="cv-period">{{ item.period }}</span>
+        </div>
+        <ul class="cv-sub">
+          <li class="cv-org">
+            {% if item.url %}
+            <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.org }}</a>
+            {% else %}
+            {{ item.org }}
+            {% endif %}
+          </li>
+        </ul>
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
+
+  <!-- Education -->
+  <details class="cv-sec" id="education" open>
+    <summary>Education</summary>
+    <ul class="cv-list">
+      {% for edu in cv.education %}
+      <li class="cv-item">
+        <div class="cv-item-line">
+          <span class="cv-role">{{ edu.degree }}</span>
+          <span class="cv-period">{{ edu.year }}</span>
+        </div>
+        <ul class="cv-sub">
+          <li class="cv-org">
+            {% if edu.url %}
+            <a href="{{ edu.url }}" target="_blank" rel="noopener">{{ edu.org }}</a>
+            {% else %}
+            {{ edu.org }}
+            {% endif %}
+          </li>
+        </ul>
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
+
+  <!-- Honours & Awards -->
+  <details class="cv-sec" id="honours">
+    <summary>Honours & Awards</summary>
+    <ul class="cv-list">
+      {% for h in cv.honours %}
+      <li class="cv-item">
+        {% if h.link %}
+        <a href="{{ h.link }}" target="_blank" rel="noopener">{{ h.text }}</a>
+        {% else %}
+        {{ h.text }}
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
+
+  <!-- Editorial Roles -->
+  <details class="cv-sec" id="editorial">
+    <summary>Editorial Roles & Memberships</summary>
+    <ul class="cv-list">
+      {% for e in cv.editorial_roles %}
+      <li class="cv-item">
+        <div class="cv-item-line">
+          <span class="cv-role">
+            {% if e.url %}
+            <a href="{{ e.url }}" target="_blank" rel="noopener">{{ e.title }}</a>
+            {% else %}
+            {{ e.title }}
+            {% endif %}
+          </span>
+          {% if e.period %}
+          <span class="cv-period">{{ e.period }}</span>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
+
+  <!-- Qualifications -->
+  <details class="cv-sec" id="qualifications">
+    <summary>Other Qualifications</summary>
+    <ul class="cv-list">
+      {% for q in cv.qualifications %}
+      <li class="cv-item">{{ q.text }}</li>
+      {% endfor %}
+    </ul>
+  </details>
+
+  <div class="cv-backtop"><a href="#top">Back to top ↑</a></div>
+</section>
