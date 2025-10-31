@@ -1,0 +1,47 @@
+---
+layout: archive
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/teaching.css' | relative_url }}">
+
+<section class="teaching">
+  <header class="teaching-header">
+    {% if page.ay %}<div class="teaching-ay">Academic Year {{ page.ay }}</div>{% endif %}
+  </header>
+
+  {% assign items = page.courses | default: empty %}
+  {% if items and items.size > 0 %}
+  <div class="teaching-grid one-per-row">
+    {% for c in items %}
+      <article class="course-card">
+        <div class="course-card__head">
+          <h2 class="course-card__title">{{ c.title }}</h2>
+          {% if c.role or c.hours %}
+            <div class="course-card__role">
+              {% if c.role %}<span class="chip">{{ c.role }}</span>{% endif %}
+              {% if c.hours %}<span class="chip chip--light">{{ c.hours }} hours</span>{% endif %}
+            </div>
+          {% endif %}
+        </div>
+
+        <ul class="course-card__meta">
+          {% if c.period %}
+          <li><span class="meta-label">Period</span><span class="meta-value">{{ c.period }}</span></li>{% endif %}
+          {% if c.programme %}
+          <li><span class="meta-label">Programme</span><span class="meta-value">{{ c.programme }}</span></li>{% endif %}
+          {% if c.institutes %}
+          <li><span class="meta-label">Institutes</span><span class="meta-value">{{ c.institutes | join: '; ' }}</span></li>{% endif %}
+        </ul>
+
+        {% if c.syllabus_url %}
+        <div class="course-card__actions">
+          <a class="btn-link" href="{{ c.syllabus_url | relative_url }}" target="_blank" rel="noopener">View syllabus</a>
+        </div>
+        {% endif %}
+      </article>
+    {% endfor %}
+  </div>
+  {% else %}
+    <p>No courses listed.</p>
+  {% endif %}
+</section>

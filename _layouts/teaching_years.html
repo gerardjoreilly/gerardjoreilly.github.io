@@ -1,0 +1,90 @@
+---
+layout: archive
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/teaching.css' | relative_url }}">
+
+<section class="teaching">
+
+  {% assign groups = page.years | default: empty %}
+  {% if groups and groups.size > 0 %}
+    {% for y in groups %}
+      {% assign items = y.courses | default: empty %}
+      {% assign count = items | size %}
+
+      <details class="year-acc" id="ay-{{ y.ay | replace: '/', '-' }}" {% if forloop.first %}open{% endif %}>
+        <summary class="year-summary">
+          <span class="year-left">
+            <span class="year-chevron" aria-hidden="true"></span>
+            <span class="year-title">Academic Year {{ y.ay }}</span>
+          </span>
+          <span class="year-badge" aria-label="Number of courses">{{ count }}</span>
+        </summary>
+
+        {% if items and items.size > 0 %}
+        <div class="teaching-grid one-per-row">
+          {% for c in items %}
+            <article class="course-card">
+              <div class="course-card__head">
+                <h3 class="course-card__title">{{ c.title }}</h3>
+                {% if c.role or c.hours %}
+                  <div class="course-card__role">
+                    {% if c.role %}<span class="chip">{{ c.role }}</span>{% endif %}
+                    {% if c.hours %}<span class="chip chip--light">{{ c.hours }} hours</span>{% endif %}
+                  </div>
+                {% endif %}
+              </div>
+
+              <ul class="course-card__meta">
+                {% if c.period and c.period != "" %}
+                <li><span class="meta-label">Period</span><span class="meta-value">{{ c.period }}</span></li>
+                {% endif %}
+                {% if c.programme and c.programme != "" %}
+                <li><span class="meta-label">Programme</span><span class="meta-value">{{ c.programme }}</span></li>
+                {% endif %}
+
+                {% assign has_institutes = false %}
+                {% if c.institutes and c.institutes.size > 0 %}{% assign has_institutes = true %}{% endif %}
+                {% if c.institute and c.institute != "" %}{% assign has_institutes = true %}{% endif %}
+                {% if has_institutes %}
+                <li>
+                  <span class="meta-label">Institute{% if c.institutes and c.institutes.size > 1 %}s{% endif %}</span>
+                  <span class="meta-value">
+                    {% if c.institutes and c.institutes.size > 0 %}
+                      {{ c.institutes | join: '; ' }}
+                    {% else %}
+                      {{ c.institute }}
+                    {% endif %}
+                  </span>
+                </li>
+                {% endif %}
+
+                {% if c.lecturer and c.lecturer != "" %}
+                <li><span class="meta-label">Lecturer</span><span class="meta-value">{{ c.lecturer }}</span></li>
+                {% endif %}
+              </ul>
+
+              {% if c.syllabus_url or c.photos %}
+              <div class="course-card__actions">
+                {% if c.syllabus_url %}
+                  <a class="btn-link" href="{{ c.syllabus_url }}" target="_blank" rel="noopener">Syllabus</a>
+                {% endif %}
+                {% if c.photos and c.photos.size > 0 %}
+                  {% for p in c.photos %}
+                    <a class="btn-link" href="{{ p.url }}" target="_blank" rel="noopener">{{ p.label | default: 'Photo' }}</a>{% unless forloop.last %}<span class="media-sep">·</span>{% endunless %}
+                  {% endfor %}
+                {% endif %}
+              </div>
+              {% endif %}
+            </article>
+          {% endfor %}
+        </div>
+        {% else %}
+          <p class="muted">No courses listed for this year.</p>
+        {% endif %}
+      </details>
+    {% endfor %}
+  {% else %}
+    <p>No past teaching listed.</p>
+  {% endif %}
+</section>
