@@ -1,0 +1,67 @@
+---
+layout: archive
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/project.css' | relative_url }}">
+
+<section class="projects-index">
+  <div class="projects-grid one-per-row">
+    {% assign projects = page.projects | default: empty %}
+    {% for p in projects %}
+      <article class="proj-card">
+        <div class="proj-card__logo">
+          {% if p.logo %}
+            <img src="{{ p.logo | relative_url }}" alt="{{ p.acronym | default: 'Project' }} logo">
+          {% else %}
+            <div class="proj-card__logo--placeholder">{{ p.acronym | default: 'PRJ' }}</div>
+          {% endif %}
+        </div>
+
+        <div class="proj-card__body">
+          <div class="proj-card__header">
+            {% if p.acronym %}
+              <span class="proj-card__acronym">{{ p.acronym }}</span>
+            {% endif %}
+
+            {% if p.url %}
+              <h3 class="proj-card__title"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+            {% else %}
+              <h3 class="proj-card__title">{{ p.title }}</h3>
+            {% endif %}
+          </div>
+
+          {% if p.period %}
+          <div class="proj-card__meta">
+            <span class="proj-card__label">Period</span>
+            <span class="proj-card__value">{{ p.period }}</span>
+          </div>
+          {% endif %}
+
+          {% if p.role %}
+          <div class="proj-card__meta">
+            <span class="proj-card__label">Role</span>
+            <span class="proj-card__value">{{ p.role }}</span>
+          </div>
+          {% endif %}
+
+          {% if p.funding %}
+          <div class="proj-card__meta">
+            <span class="proj-card__label">Funding</span>
+            <span class="proj-card__value">
+              {% if p.funding_url %}
+                <a href="{{ p.funding_url }}" target="_blank" rel="noopener">{{ p.funding }}</a>
+              {% else %}
+                {{ p.funding }}
+              {% endif %}
+            </span>
+          </div>
+          {% endif %}
+
+          {% if p.description %}
+          <p class="proj-card__desc">{{ p.description }}</p>
+          {% endif %}
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</section>
