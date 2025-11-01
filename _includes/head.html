@@ -11,6 +11,11 @@
   plausible.init()
 </script>
 
+{% if jekyll.environment == "production" %}
+<script defer src="https://cloud.umami.is/script.js" data-website-id="d37ae9f4-74da-4ca4-93bd-8b25d9e94359"></script>
+{% endif %}
+
+
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
