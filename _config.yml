@@ -186,12 +186,6 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  software:
-    output: true
-    permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
   people:
     output: true
     permalink: /:collection/:path/
@@ -235,33 +229,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _software
-  - scope:
-      path: ""
-      type: software
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
 
 # Sass/SCSS
 sass:
