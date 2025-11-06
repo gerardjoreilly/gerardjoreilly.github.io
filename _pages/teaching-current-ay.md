@@ -13,6 +13,7 @@ courses:
     hours: 20
     period: "April 2026"
     programme: "Master Degree in Earthquake Engineering"
+    syllabus_url: "https://www.roseschool.it/wp-content/uploads/2025/11/Dynamic-Response-of-Structures_2026.pdf"
     institutes:
       - "Università di Pavia"
       - "IUSS Pavia, Italy"
@@ -22,6 +23,7 @@ courses:
     hours: 10
     period: "April 2026"
     programme: "Advanced undergraduate course (Corsi Ordinari)"
+    syllabus_url: "https://iusspavia.coursecatalogue.cineca.it/insegnamenti/2025/3245/2012/9999/10030?annoOrdinamento=2012&coorte=2025"
     institutes:
       - "IUSS Pavia, Italy"
   
