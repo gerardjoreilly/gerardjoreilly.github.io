@@ -14,6 +14,8 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+<li> <b>12/11/2025</b> – Jose Poveda presented at the “Primer Congreso de Ingeniería Estructural –IABSE Ecuador 2025” on the topic “QONDESA: Un caso real para explorar fragilidad, selección de registros sísmicos y diseño basado en riesgo.” [<a href="http://gerardjoreilly.github.io/assets/images/photos/poveda-iabse.jpg">Photo</a>][<a href="http://gerardjoreilly.github.io/assets/documents/presentations/Poveda-Congreso-IABSE-Ecuador.pdf">Presentation</a>]</li>
+
 <li> <b>09/10/2025</b> - Gerard gave an Invited Theme Lecture at the 10th Turkish Conference on Earthquake Engineering in Istanbul, Türkiye on the topic of "Advancements in seismic risk assessment of existing structures: insights from analytical models and empirical earthquake data" [<a href="http://gerardjoreilly.github.io/assets/images/photos/10TCEE-1.JPG">Photo 1</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/10TCEE-2.JPG">Photo 2</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/10TCEE-3.JPG">Photo 3</a>] </li>
 
 <li> <b>08/10/2025</b> - New paper published in the Bulletin of Earthquake Engineering on "A model for the simulated design of Turkish RC frame buildings in seismic vulnerability analysis" [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/hasanoglu-et-al-2025-bee.pdf">Paper</a>][<a href="https://doi.org/10.1007/s10518-025-02301-y">Link</a>] </li>
