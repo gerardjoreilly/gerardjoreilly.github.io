@@ -113,15 +113,15 @@ current_team:
   #     period: "Feb 2024 – present"
   #     thesis_title: 
 
-  - name: "Luca Cavecchi"
-    bio: "Investigating the impacts of energy dissipation and cumulative damage in seismic fragility analysis of masonry infills"
-    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/empty.jpeg"
-    email: luca.cavecchi01@universitadipavia.it
-    linkedin:
-    roles:
-    - category: "MSc Student"
-      period: "Feb 2025 – present"
-      thesis_title: 
+  # - name: "Luca Cavecchi"
+  #   bio: "Investigating the impacts of energy dissipation and cumulative damage in seismic fragility analysis of masonry infills"
+  #   photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/empty.jpeg"
+  #   email: luca.cavecchi01@universitadipavia.it
+  #   linkedin:
+  #   roles:
+  #   - category: "MSc Student"
+  #     period: "Feb 2025 – present"
+  #     thesis_title: 
 
 past_members:
   - name: "Maria Agni Ladeni"
