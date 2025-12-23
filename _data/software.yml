@@ -1,0 +1,112 @@
+software:
+  - key: sc-cbf-model
+    name: "OpenSees modeling of a self-centring concentrically braced steel frame"
+    location: github
+    category: modelling
+    link: "https://github.com/gerardjoreilly/sc-cbf-model"
+    paper: "https://www.mdpi.com/2412-3811/9/7/112"
+    thumbnail: ""
+
+  - key: gld-rc-frames
+    name: "OpenSees modelling of non-ductile infilled RC frames"
+    location: github
+    category: modelling
+    link: "https://github.com/gerardjoreilly/Numerical-Modelling-of-GLD-RC-Frames"
+    paper: "https://www.tandfonline.com/doi/full/10.1080/13632469.2017.1360224"
+    thumbnail: ""
+
+  - key: blinear-risk
+    name: "Computation of risk using bilinear demand-intensity models"
+    location: github
+    category: risk
+    link: "https://github.com/gerardjoreilly/Bilinear-Demand-Intensity"
+    paper: "https://onlinelibrary.wiley.com/doi/10.1002/eqe.3135"
+    thumbnail: ""
+
+  - key: ipbsd
+    name: "Risk and loss targeted seismic design"
+    location: github
+    category: risk
+    link: "https://github.com/davitshahnazaryan3/IPBSD"
+    paper: "https://link.springer.com/article/10.1007/s10518-020-01003-x"
+    thumbnail: ""
+
+  - key: slf-generator
+    name: "Storey loss function generator"
+    location: github
+    category: loss
+    link: "https://github.com/davitshahnazaryan3/SLFGenerator"
+    paper: "https://journals.sagepub.com/doi/10.1177/87552930241245940"
+    thumbnail: ""
+
+  - key: xgb-rhomut
+    name: "Response estimation tool for bilinear systems"
+    location: github
+    category: vulnerability
+    link: "https://github.com/davitshahnazaryan3/XGB-rhomut"
+    paper: "https://doi.org/10.1016/j.engstruct.2024.117801"
+    thumbnail: ""
+
+  - key: ret-infilled-rc
+    name: "Response estimation tool for infilled RC frames"
+    location: github
+    category: vulnerability
+    link: "https://github.com/gerardjoreilly/Infilled-RC-Building-Response-Estimation"
+    paper: "https://doi.org/10.1016/j.soildyn.2022.107253"
+    thumbnail: ""
+
+  - key: infilled-rc-spo2ida
+    name: "Extended SPO2IDA for infilled RC frames"
+    location: github
+    category: vulnerability
+    link: "https://github.com/gerardjoreilly/InfilledRC-SPO2IDA"
+    paper: "https://doi.org/10.1007/s10518-019-00758-2"
+    thumbnail: ""
+
+  - key: sim-design
+    name: "Simulated design and OpenSees modelling for vulnerability modelling"
+    location: github
+    category: vulnerability
+    link: "https://github.com/builtenvdata/simulated-design"
+    paper: "https://doi.org/10.1002/eqe.4378"
+    thumbnail: ""
+
+  - key: savvinos-correlation-models
+    name: "Correlation models for next-generation intensity measures"
+    location: github
+    category: hazard
+    link: "https://github.com/Savvinos-Aristeidou/ANN_correlation_models"
+    paper: "https://journals.sagepub.com/doi/10.1177/87552930241270563"
+    thumbnail: ""
+
+  - key: savvinos-gmm
+    name: "Ground motion model for next-generation intensity measures"
+    location: github
+    category: hazard
+    link: "https://github.com/Savvinos-Aristeidou/ANN-GGMM"
+    paper: "https://doi.org/10.1016/j.soildyn.2024.108851"
+    thumbnail: ""
+
+  - key: vitor-correlation-review
+    name: "Compendium of correlation models"
+    location: github
+    category: hazard
+    link: "https://github.com/vitorazevedomonteiro/correlation-models"
+    paper: ""
+    thumbnail: ""
+
+  - key: vitor-spatial-correlation-model
+    name: "Spatial cross-correlation model for next-generation intensity measures"
+    location: github
+    category: hazard
+    link: "https://github.com/vitorazevedomonteiro/cross-spatial-correlation-model"
+    paper: ""
+    thumbnail: ""
+
+  - key: vitor-notes
+    name: "Notes on average spectral acceleration"
+    location: github
+    category: hazard
+    link: "https://github.com/vitorazevedomonteiro/notes-spatial-correlation-sa-avg"
+    paper: ""
+    thumbnail: ""

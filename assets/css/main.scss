@@ -233,3 +233,262 @@
   margin: 0 auto 1rem auto;
   display: block;
 }
+/* -----------------------------
+   Software (match Team card style)
+   ----------------------------- */
+
+/* Use same container sizing/padding as team */
+.software-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Filters: keep grey pills, but align with team look */
+.software-filters {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  justify-content: center; /* team sections are centered */
+  margin: 0 0 1.5rem 0;
+}
+
+.filter-btn {
+  appearance: none;
+  border: 1px solid #ddd;     /* match team border tone */
+  background: #f2f2f2;
+  color: #333;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.filter-btn:hover {
+  transform: translateY(-2px);
+}
+
+.filter-btn.is-active {
+  background: #e6e6e6;
+}
+
+/* Grid: match team spacing + min width */
+.software-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* same as team */
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+/* Card: same as team cards */
+.software-card {
+  background: #fff;
+  border: 1px solid #ddd;     /* match team */
+  border-radius: 6px;         /* match team */
+  padding: 1rem;              /* match team */
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08); /* match team */
+  text-align: center;         /* match team */
+  transition: transform 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  height: 100%; /* important */
+}
+
+.software-card:hover {
+  transform: translateY(-4px); /* match team hover */
+}
+
+/* Thumbnail: circular like team photo */
+.software-thumb {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;     /* better for logos */
+  border-radius: 50%;
+  margin: 0 auto 1rem auto;
+  display: block;
+  background: transparent; /* keep github logo on clear background */
+}
+
+/* Optional: slightly smaller github logo in circle */
+.github-thumb {
+  padding: 14px; /* gives breathing room inside circle */
+}
+
+/* Title: match team-name sizing */
+.software-name {
+  font-size: 1.3rem;
+  margin-bottom: 0.3rem;
+  color: #000;
+}
+
+/* Category: use team-role styling */
+.software-category {
+  font-size: 1rem;
+  color: #777;
+  margin-bottom: 0.75rem;
+}
+
+/* If you use the pill, keep it subtle and consistent */
+.software-category-pill {
+  display: inline-block;
+  font-size: 0.9rem;
+  color: #777;
+  margin-bottom: 0.75rem;
+}
+
+/* Links: match team link styling (blue), but keep your buttons */
+.software-links {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  justify-content: flex-start; /* center like team-links */
+  margin-top: auto; /* pushes buttons to bottom */
+}
+
+/* Shared button base */
+.btn-github,
+.btn-paper {
+  display: inline-block;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 700;          /* BOLD text */
+  text-decoration: none;     /* remove underline */
+  border: 1px solid transparent;
+}
+
+/* Repository button — green */
+/* Repository button — CV blue */
+.btn-github {
+  background: #0ea5e9;       /* CV accent blue */
+  color: #ffffff;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+  border: 1px solid #0284c7;
+}
+
+.btn-github:hover {
+  background: #38bdf8;       /* lighter hover */
+  text-decoration: none;
+}
+
+
+/* Paper button — black */
+.btn-paper {
+  background: #000000;
+  color: #ffffff;
+  border-color: #000000;
+}
+
+.btn-paper:hover {
+  background: #333333;
+  text-decoration: none;     /* ensure no underline on hover */
+}
+
+
+
+/* -----------------------------
+   Datasets (match Team cards)
+   ----------------------------- */
+
+.datasets-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Filters (reuse same buttons) */
+.datasets-filters {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 0 1.5rem 0;
+}
+
+/* Grid */
+.datasets-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+/* Card */
+.datasets-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  height: 100%; /* important */
+}
+
+
+.datasets-card:hover {
+  transform: translateY(-4px);
+}
+
+/* Title */
+.datasets-name {
+  font-size: 1.3rem;
+  margin-bottom: 0.3rem;
+  color: #000;
+}
+
+/* Category */
+.datasets-category {
+  font-size: 1rem;
+  color: #777;
+  margin-bottom: 0.75rem;
+}
+
+/* Links */
+.datasets-links {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin-top: auto; /* pushes buttons to bottom */
+}
+
+/* Dataset link — CV accent blue */
+.btn-dataset {
+  background: #0ea5e9;       /* CV blue */
+  color: #ffffff;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 700;          /* bold */
+  text-decoration: none;     /* no underline */
+  border: 1px solid #0284c7;
+}
+
+.btn-dataset:hover {
+  background: #38bdf8;       /* lighter blue hover */
+  text-decoration: none;
+}
+
+/* Paper link — black */
+.btn-paper {
+  background: #000000;
+  color: #ffffff;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 700;          /* bold */
+  text-decoration: none;     /* no underline */
+  border: 1px solid #000000;
+}
+
+.btn-paper:hover {
+  background: #333333;
+  text-decoration: none;
+}

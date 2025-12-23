@@ -1,0 +1,80 @@
+---
+layout: archive
+title: ""
+permalink: /resources/datasets/
+author_profile: true
+
+---
+
+<!-- Datasets Section -->
+<div class="datasets-container">
+
+  <!-- Category Filter Buttons -->
+  {% assign categories = site.data.datasets.datasets | map: "category" | uniq | sort %}
+  <div class="datasets-filters" role="toolbar" aria-label="Filter datasets by category">
+    <button class="filter-btn is-active" type="button" data-filter="all">All</button>
+    {% for cat in categories %}
+      {% if cat and cat != "" %}
+        <button class="filter-btn" type="button" data-filter="{{ cat | escape }}">{{ cat }}</button>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Cards Grid -->
+  <div class="datasets-grid" id="datasetsGrid">
+    {% for item in site.data.datasets.datasets %}
+      <div class="datasets-card" data-category="{{ item.category | escape }}">
+
+        <h2 class="datasets-name">{{ item.name }}</h2>
+
+        {% if item.category %}
+          <p class="datasets-category">{{ item.category }}</p>
+        {% endif %}
+
+        <div class="datasets-links">
+          {% if item.link %}
+            <a class="btn-dataset" href="{{ item.link }}" target="_blank" rel="noopener">
+              Dataset
+            </a>
+          {% endif %}
+
+          {% if item.paper and item.paper != "" %}
+            <a class="btn-paper" href="{{ item.paper }}" target="_blank" rel="noopener">
+              Paper
+            </a>
+          {% endif %}
+        </div>
+
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Filtering script -->
+<script>
+  (function () {
+    const buttons = document.querySelectorAll('.filter-btn');
+    const cards = document.querySelectorAll('.datasets-card');
+
+    function setActive(btn) {
+      buttons.forEach(b => b.classList.remove('is-active'));
+      btn.classList.add('is-active');
+    }
+
+    function filterCards(filterValue) {
+      cards.forEach(card => {
+        const cat = (card.getAttribute('data-category') || '').trim();
+        const show = (filterValue === 'all') || (cat === filterValue);
+        card.style.display = show ? '' : 'none';
+      });
+    }
+
+    buttons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const filterValue = btn.getAttribute('data-filter');
+        setActive(btn);
+        filterCards(filterValue);
+      });
+    });
+  })();
+</script>

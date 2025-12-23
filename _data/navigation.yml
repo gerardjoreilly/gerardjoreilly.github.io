@@ -13,14 +13,18 @@ main:
     - title: "Past Projects"
       url: /projects/past/
 
-  - title: "Publications"
+  - title: "Resources"
     sublinks:
       - title: "Journal Papers"
-        url: /publications/journal-papers/
+        url: /resources/journal-papers/
       - title: "Conference Papers"
-        url: /publications/conference-papers/
+        url: /resources/conference-papers/
       - title: "Reports and Book Chapters"
-        url: /publications/reports-book-chapters/
+        url: /resources/reports-book-chapters/
+      - title: "Software"
+        url: /resources/software/
+      - title: "Datasets"
+        url: /resources/datasets/
 
   - title: "Teaching"
     url: /teaching/

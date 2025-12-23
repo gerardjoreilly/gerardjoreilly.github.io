@@ -1,0 +1,56 @@
+datasets:
+  - key: infilled-rc-frame-database
+    name: "OpenSees models of infilled RC buildings"
+    category: numerical-models
+    link: "https://github.com/gerardjoreilly/Infilled-RC-Building-Database"
+    paper: "https://doi.org/10.1016/j.soildyn.2022.107253"
+    thumbnail: ""
+
+  - key: savvinos-bridge-models
+    name: "OpenSees models of bridge structures"
+    category: numerical-models
+    link: "https://github.com/Savvinos-Aristeidou/bridges_gm_record_selection_paper_supplemental_material"
+    paper: ""
+    thumbnail: ""
+
+  - key: eries-supreme
+    name: "Shake-table tests on URM gables"
+    category: experimental-data
+    link: "https://doi.org/10.60756/euc-1avy7q49"
+    paper: "https://journals.sagepub.com/doi/10.1177/87552930251378248"
+    thumbnail: ""
+
+  - key: eries-pasfit
+    name: "In-situ dynamic test of base-isolated building"
+    category: experimental-data
+    link: "https://doi.org/10.60756/euc-bcg5jj63"
+    paper: "https://www.sciencedirect.com/science/article/abs/pii/S0267726125005962"
+    thumbnail: ""
+
+  - key: bed-experiments
+    name: "Data repository for experimental data"
+    category: experimental-data
+    link: "https://experiments.builtenvdata.eu/"
+    paper: "https://onlinelibrary.wiley.com/doi/10.1002/eqe.4231"
+    thumbnail: ""
+
+  - key: eries-enfrag
+    name: "In-plane/out-of-plane shake-table tests on masonry infills"
+    category: experimental-data
+    link: "https://doi.org/10.60756/euc-f8hcyh64"
+    paper: "Paper in progress (ENFRAG)"
+    thumbnail: ""
+
+  - key: eries-restoring
+    name: "Cyclic tests on stone masonry walls"
+    category: experimental-data
+    link: "https://doi.org/10.60756/euc-vbua48i530"
+    paper: "Paper in progress (RESTORING)"
+    thumbnail: ""
+
+  - key: sc-cbf-data
+    name: "Cyclic testing of a self-centring concentrically braced steel frame"
+    category: experimental-data
+    link: "https://www.sciencedirect.com/science/article/abs/pii/S0141029620341225"
+    paper: "https://doi.org/10.60756/gal-h6a2fw45"
+    thumbnail: ""

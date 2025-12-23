@@ -1,0 +1,81 @@
+---
+layout: archive
+title: ""
+permalink: /resources/software/
+author_profile: true
+---
+
+<!-- Software Section (minor tweak to match CSS above) -->
+<div class="software-container">
+
+  {% assign categories = site.data.software.software | map: "category" | uniq | sort %}
+  <div class="software-filters" role="toolbar" aria-label="Filter software by category">
+    <button class="filter-btn is-active" type="button" data-filter="all">All</button>
+    {% for cat in categories %}
+      {% if cat and cat != "" %}
+        <button class="filter-btn" type="button" data-filter="{{ cat | escape }}">{{ cat }}</button>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="software-grid" id="softwareGrid">
+    {% for item in site.data.software.software %}
+      <div class="software-card" data-category="{{ item.category | escape }}">
+
+        {% if item.thumbnail and item.thumbnail != "" %}
+          <img src="{{ item.thumbnail }}" alt="{{ item.name }}" class="software-thumb">
+        {% elsif item.location == "github" %}
+          <img src="{{ '/assets/images/logos/github-mark.png' | relative_url }}"
+               alt="GitHub"
+               class="software-thumb github-thumb">
+        {% endif %}
+
+        <h2 class="software-name">{{ item.name }}</h2>
+
+        {% if item.category %}
+          <p class="software-category">{{ item.category }}</p>
+        {% endif %}
+
+        <div class="software-links">
+          {% if item.link %}
+            <a class="btn-github" href="{{ item.link }}" target="_blank" rel="noopener">Repository</a>
+          {% endif %}
+          {% if item.paper and item.paper != "" %}
+            <a class="btn-paper" href="{{ item.paper }}" target="_blank" rel="noopener">Paper</a>
+          {% endif %}
+        </div>
+
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<script>
+  (function () {
+    const buttons = document.querySelectorAll('.filter-btn');
+    const cards = document.querySelectorAll('.software-card');
+
+    function setActive(btn) {
+      buttons.forEach(b => b.classList.remove('is-active'));
+      btn.classList.add('is-active');
+    }
+
+    function filterCards(filterValue) {
+      cards.forEach(card => {
+        const cat = (card.getAttribute('data-category') || '').trim();
+        const show = (filterValue === 'all') || (cat === filterValue);
+        card.style.display = show ? '' : 'none';
+      });
+    }
+
+    buttons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const filterValue = btn.getAttribute('data-filter');
+        setActive(btn);
+        filterCards(filterValue);
+      });
+    });
+  })();
+</script>
+
+
