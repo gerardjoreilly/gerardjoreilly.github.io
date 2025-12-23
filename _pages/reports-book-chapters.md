@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Reports and Book Chapters"
-permalink: /publications/reports-book-chapters/
+permalink: /resources/reports-book-chapters/
 author_profile: true
 ---
 

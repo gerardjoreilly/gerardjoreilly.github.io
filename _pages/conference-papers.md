@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Conference Papers"
-permalink: /publications/conference-papers/
+permalink: /resources/conference-papers/
 author_profile: true
 ---
 
