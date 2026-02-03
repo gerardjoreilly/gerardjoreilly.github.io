@@ -13,6 +13,9 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+<li> <b>29/01/2026</b> - We just completed the 4th edition of the PhD course on "Performance-Based Earthquake Engineering" at IUSS Pavia, followed by a visit to the Eucentre Foundation's facilities. [<a href="https://gerardjoreilly.github.io/assets/documents/courses/PBEE-Course-Syllabus-25-26-v4.pdf">Syllabus</a>] [<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo2.jpeg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-euc-visit-photo.jpg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo3.jpeg">Photo 3</a>] </li>
+
+
 <li> <b>26/11/2025</b> – Gerard gave a presentation at the session entitled "Towards Next-Generation Seismic Hazard and Risk Services" organised by <a href="http://www.efehr.org/start/">EFEHR</a> at the “EPOS Seismology & Geo-INQUIRE Workshop” in Athens, Greece [<a href="http://gerardjoreilly.github.io/assets/images/photos/efehr_athens.jpg">Photo</a>]</li>
 
 <li> <b>12/11/2025</b> – Jose Poveda presented at the “Primer Congreso de Ingeniería Estructural –IABSE Ecuador 2025” on the topic “QONDESA: Un caso real para explorar fragilidad, selección de registros sísmicos y diseño basado en riesgo.” [<a href="http://gerardjoreilly.github.io/assets/images/photos/poveda-iabse.jpg">Photo</a>][<a href="http://gerardjoreilly.github.io/assets/documents/presentations/Poveda-Congreso-IABSE-Ecuador.pdf">Presentation</a>]</li>
