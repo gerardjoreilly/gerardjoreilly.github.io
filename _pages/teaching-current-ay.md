@@ -36,12 +36,12 @@ courses:
       - "IUSS Pavia, Italy"
     syllabus_url: "/assets/documents/courses/PBEE-Course-Syllabus-25-26-v4.pdf"
     photos:
-          - label: "Photo 1"
-            url: "http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo2.jpeg"
-          - label: "Photo 2"
-            url: "http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-euc-visit-photo.jpg"
-          - label: "Photo 3"
-            url: "http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo3.jpeg"
+      - label: "Photo 1"
+        url: "http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo2.jpeg"
+      - label: "Photo 2"
+        url: "http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-euc-visit-photo.jpg"
+      - label: "Photo 3"
+        url: "http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo3.jpeg"
 
   - title: "Dynamics of Structures"
     role: "Lecturer"
