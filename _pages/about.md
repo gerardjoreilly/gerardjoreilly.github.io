@@ -13,8 +13,9 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
-<li> <b>29/01/2026</b> - We just completed the 4th edition of the PhD course on "Performance-Based Earthquake Engineering" at IUSS Pavia, followed by a visit to the Eucentre Foundation's facilities. [<a href="https://gerardjoreilly.github.io/assets/documents/courses/PBEE-Course-Syllabus-25-26-v4.pdf">Syllabus</a>] [<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo2.jpeg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-euc-visit-photo.jpg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo3.jpeg">Photo 3</a>] </li>
+<li> <b>04/02/2026</b> - New paper published in the Bulletin of Earthquake Engineering on "A review of ground motion correlation modelling for regional seismic risk analysis" [<a href="http://gerardjoreilly.github.io/assets/documents/monteiro-oreilly-bee-correlation-review-2026.pdf">Paper</a>][<a href="https://doi.org/10.1007/s10518-026-02377-0">Link</a>][<a href="https://github.com/vitorazevedomonteiro/correlation-models">GitHub</a>] </li>
 
+<li> <b>29/01/2026</b> - We just completed the 4th edition of the PhD course on "Performance-Based Earthquake Engineering" at IUSS Pavia, followed by a visit to the Eucentre Foundation's facilities. [<a href="https://gerardjoreilly.github.io/assets/documents/courses/PBEE-Course-Syllabus-25-26-v4.pdf">Syllabus</a>] [<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo2.jpeg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-euc-visit-photo.jpg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo3.jpeg">Photo 3</a>] </li>
 
 <li> <b>26/11/2025</b> – Gerard gave a presentation at the session entitled "Towards Next-Generation Seismic Hazard and Risk Services" organised by <a href="http://www.efehr.org/start/">EFEHR</a> at the “EPOS Seismology & Geo-INQUIRE Workshop” in Athens, Greece [<a href="http://gerardjoreilly.github.io/assets/images/photos/efehr_athens.jpg">Photo</a>]</li>
 
@@ -28,9 +29,7 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 <li> <b>15/09/2025</b> - Gerard gave an invited talk at the 14th International Conference on Structural Analysis of Historical Constructions (SAHC 2025) in Lausanne, Switzerland on the topic of "Embracing Digital Tools and Open Science for Engineering Innovation" [<a href="http://gerardjoreilly.github.io/assets/documents/presentations/SAHC-Presentation-OReilly.pdf">Presentation</a>] </li>
 
-<li> <b>10/09/2025</b> - Together with Profs. Ciro Del Vecchio and Marco Di Ludovico, Gerard co-chaired a special session at the 
-Italian national conference on earthquake engineering (XX Convegno ANIDIS - Associazione Nazionale Italiana di Ingegneria Sismica)
-in Assisi, Italy, also presenting "Advancements in seismic risk assessment of existing structures: insights from analytical models and empirical earthquake data" [<a href="http://gerardjoreilly.github.io/assets/images/photos/anidis2025.jpeg">Photo</a>] </li>
+<li> <b>10/09/2025</b> - Together with Profs. Ciro Del Vecchio and Marco Di Ludovico, Gerard co-chaired a special session at the Italian national conference on earthquake engineering (XX Convegno ANIDIS - Associazione Nazionale Italiana di Ingegneria Sismica) in Assisi, Italy, also presenting "Advancements in seismic risk assessment of existing structures: insights from analytical models and empirical earthquake data" [<a href="http://gerardjoreilly.github.io/assets/images/photos/anidis2025.jpeg">Photo</a>] </li>
 
 <li> <b>22/08/2025</b> - New paper published in Earthquake Spectra on "Impact of modeling decisions on seismic loss and fragility assessment of steel buildings" [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/baddipalli-et-al-2025-impact-of-modeling-decisions-on-seismic-loss-and-fragility-assessment-of-steel-buildings.pdf">Paper</a>][<a href="https://doi.org/10.1177/87552930251360751">Link</a>] </li>
 
