@@ -92,7 +92,7 @@ software:
     location: github
     category: hazard
     link: "https://github.com/vitorazevedomonteiro/correlation-models"
-    paper: ""
+    paper: "https://doi.org/10.1007/s10518-026-02377-0"
     thumbnail: ""
 
   - key: vitor-spatial-correlation-model
