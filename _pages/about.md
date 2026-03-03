@@ -13,6 +13,8 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+<li> <b>02/03/2026</b> - New paper published in Earthquake Spectra on "Notes on Spatial Correlation for Average Spectral Acceleration: Direct and Indirect Approaches" [<a href="https://gerardjoreilly.github.io/assets/documents/journal-articles/monteiro-oreilly-2026-notes.pdf">Paper</a>][<a href="https://doi.org/10.1002/esp4.70049">Link</a>][<a href="https://github.com/vitorazevedomonteiro/notes-spatial-correlation-sa-avg.git">GitHub</a>] </li>
+
 <li> <b>04/02/2026</b> - New paper published in the Bulletin of Earthquake Engineering on "A review of ground motion correlation modelling for regional seismic risk analysis" [<a href="https://gerardjoreilly.github.io/assets/documents/journal-articles/monteiro-oreilly-bee-correlation-review-2026.pdf">Paper</a>][<a href="https://doi.org/10.1007/s10518-026-02377-0">Link</a>][<a href="https://github.com/vitorazevedomonteiro/correlation-models">GitHub</a>] </li>
 
 <li> <b>29/01/2026</b> - We just completed the 4th edition of the PhD course on "Performance-Based Earthquake Engineering" at IUSS Pavia, followed by a visit to the Eucentre Foundation's facilities. [<a href="https://gerardjoreilly.github.io/assets/documents/courses/PBEE-Course-Syllabus-25-26-v4.pdf">Syllabus</a>] [<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo2.jpeg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-euc-visit-photo.jpg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo3.jpeg">Photo 3</a>] </li>
