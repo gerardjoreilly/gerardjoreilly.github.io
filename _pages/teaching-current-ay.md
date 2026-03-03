@@ -10,7 +10,7 @@ ay: "2025/2026"
 courses:
   - title: "Dynamic Analysis of Structures"
     role: "Lecturer"
-    hours: 20
+    hours: 31
     period: "April 2026"
     programme: "Master Degree in Earthquake Engineering"
     syllabus_url: "https://www.roseschool.it/wp-content/uploads/2025/11/Dynamic-Response-of-Structures_2026.pdf"
