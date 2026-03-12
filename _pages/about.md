@@ -13,6 +13,13 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 ## News
 <ul>
+
+<li> <b>12/03/2026</b> – Gerard gave a presentation entitled "Issues in the fragility analysis of non-structural elements and the role of structural health monitoring" at the “6th International Workshop on Seismic Performance of Non-Structural Elements (SPONSE)” in Tokyo, Japan [<a href="http://gerardjoreilly.github.io/assets/images/photos/sponse2026-3.JPG">Photo</a>][<a href="http://gerardjoreilly.github.io/assets/documents/presentations/SPONSE-2026-NSE-OReilly_v2.pdf">Presentation</a>][<a href="http://gerardjoreilly.github.io/assets/documents/conference-papers/sponse2026.pdf">Paper</a>]</li>
+
+<li> <b>06/03/2026</b> – Gerard visited Prof. Masahiro Kurata and his research group at the Disaster Prevention Research Institute (DPRI) at Kyoto UNiversity, Japan.
+
+<li> <b>05/03/2026</b> – Gerard visited Prof. Masayoshi Nakashima and his team at the Kobori Research Complex in Tokyo, Japan and gave an invited lecture on "Contemporary risk-targeted seismic design".
+
 <li> <b>02/03/2026</b> - New paper published in Earthquake Spectra on "Notes on Spatial Correlation for Average Spectral Acceleration: Direct and Indirect Approaches" [<a href="https://gerardjoreilly.github.io/assets/documents/journal-articles/monteiro-oreilly-2026-notes.pdf">Paper</a>][<a href="https://doi.org/10.1002/esp4.70049">Link</a>][<a href="https://github.com/vitorazevedomonteiro/notes-spatial-correlation-sa-avg.git">GitHub</a>] </li>
 
 <li> <b>04/02/2026</b> - New paper published in the Bulletin of Earthquake Engineering on "A review of ground motion correlation modelling for regional seismic risk analysis" [<a href="https://gerardjoreilly.github.io/assets/documents/journal-articles/monteiro-oreilly-bee-correlation-review-2026.pdf">Paper</a>][<a href="https://doi.org/10.1007/s10518-026-02377-0">Link</a>][<a href="https://github.com/vitorazevedomonteiro/correlation-models">GitHub</a>] </li>

@@ -5,7 +5,7 @@ permalink: /resources/conference-papers/
 author_profile: true
 ---
 
-
+1. **O’Reilly, G. J.**, and Nakashima, M. (2026) “Issues in the fragility analysis of non-structural elements and the role of structural health monitoring,” 6th International Workshop on Seismic Performance of Non-Structural Elements (SPONSE), Tokyo, Japan. [[PDF](http://gerardjoreilly.github.io/assets/documents/conference-papers/sponse2026.pdf)]
 1. Mejia, T., & **O’Reilly, G. J.** (2025). The impacts of structure-to-structure damage correlation for regional seismic risk assessment. COMPDYN 2025- 10th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering. [[PDF](http://gerardjoreilly.github.io/assets/documents/conference-papers/COMPDYN2025-24681.pdf)]
 1. **O’Reilly, G. J.**, & Calvi, G. M. (2025). ERIES: Advancing frontier knowledge in earthquake and wind engineering through experimental research. COMPDYN 2025- 10th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering. [[PDF](http://gerardjoreilly.github.io/assets/documents/conference-papers/COMPDYN2025-24714.pdf)]
 1. **O’Reilly, G. J.**, Nafeh, A. M. B., Ozsarac, V., & Silva, V. (2025). Comparing fragility functions derived from simplified analytical models to those developed with empirical data from past earthquakes. COMPDYN 2025- 10th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering. [[PDF](http://gerardjoreilly.github.io/assets/documents/conference-papers/COMPDYN2025-24753.pdf)]

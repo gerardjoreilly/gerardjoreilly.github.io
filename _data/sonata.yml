@@ -27,6 +27,6 @@ videos:
 
 # Publications:
 related_publications:
-  # - "[Doe, J., Smith, J. (2025). Damage assessment of non-structural components using sensor data. *EQ Eng Conf 2025*.](https://doi.org/10.0000/example1)"
+  - "[O’Reilly, G. J., and Nakashima, M. (2026) “Issues in the fragility analysis of non-structural elements and the role of structural health monitoring,” 6th International Workshop on Seismic Performance of Non-Structural Elements (SPONSE), Tokyo, Japan.](http://gerardjoreilly.github.io/assets/documents/conference-papers/sponse2026.pdf)"
   # - "[Rossi, M., Bianchi, L. (2024). AI-driven fragility curves for building contents. *Journal of Risk Eng* 12(3).](https://doi.org/10.0000/example2)"
   # - "[Full publications list →](/publications/)"
