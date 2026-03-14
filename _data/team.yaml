@@ -21,7 +21,7 @@ current_team:
       - category: "Postdoctoral Researcher"
         period: "May 2024 - Sept 2025"
     
-- name: "Davit Shahnazaryan"
+  - name: "Davit Shahnazaryan"
     photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/davit.jpeg"
     bio: #"Development of research software tools for seismic risk assessment of the built environment"
     email: "davit.shahnazaryan@iusspavia.it"
@@ -45,24 +45,18 @@ current_team:
     linkedin: 
     projects: [sonata]
     roles: 
-      - category: "PhD Researcher"
-        period: "Oct 2025 - Oct 2028 (expected)"
-        thesis_title: "Sensor-driven statistical tools to evaluate risks and manage safety in the built environment"
-        co_advisors: ["Daniele Sivori", "Davit Shahnazaryan"]
-        advisor_role: "Principal advisor"
+    - category: "PhD Researcher"
+      period: "Oct 2025 - Oct 2028 (expected)"
 
   - name: "Mauricio Guamán Naranjo"
     photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/mauricio.jpeg"
     bio: 
-    email: "mauricio.guaman@iusspavia.it"
+    email: "mauricio.guaman@iusspavia.it "
     linkedin: "https://www.linkedin.com/in/mauricio-guam%C3%A1n-naranjo-0a2966166/"
     projects: [sonata]
     roles: 
-      - category: "PhD Researcher"
-        period: "Oct 2025 - Oct 2028 (expected)"
-        thesis_title: "Sensor-driven statistical tools to evaluate risks and manage safety in the built environment"
-        co_advisors: ["Daniele Sivori", "Volkan Ozsarac"]
-        advisor_role: "Principal advisor"
+    - category: "PhD Researcher"
+      period: "Oct 2025 - Oct 2028 (expected)"
 
   - name: "Vitor A. Monteiro"
     photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/vitor.jpeg"
