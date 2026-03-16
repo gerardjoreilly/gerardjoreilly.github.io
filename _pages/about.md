@@ -14,7 +14,7 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
-<li> <b>12/03/2026</b> – Gerard gave a presentation entitled "Issues in the fragility analysis of non-structural elements and the role of structural health monitoring" at the “6th International Workshop on Seismic Performance of Non-Structural Elements (SPONSE)” in Tokyo, Japan [<a href="http://gerardjoreilly.github.io/assets/images/photos/sponse2026-3.JPG">Photo</a>][<a href="http://gerardjoreilly.github.io/assets/documents/presentations/SPONSE-2026-NSE-OReilly_v2.pdf">Presentation</a>][<a href="http://gerardjoreilly.github.io/assets/documents/conference-papers/sponse2026.pdf">Paper</a>]</li>
+<li> <b>12/03/2026</b> – Gerard gave a presentation entitled "Issues in the fragility analysis of non-structural elements and the role of structural health monitoring" at the “6th International Workshop on Seismic Performance of Non-Structural Elements (SPONSE)” in Tokyo, Japan [<a href="http://gerardjoreilly.github.io/assets/images/photos/SPONSE-2026-group-photo.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/sponse2026-3.JPG">Photo 2</a>][<a href="http://gerardjoreilly.github.io/assets/documents/presentations/SPONSE-2026-NSE-OReilly_v2.pdf">Presentation</a>][<a href="http://gerardjoreilly.github.io/assets/documents/conference-papers/sponse2026.pdf">Paper</a>]</li>
 
 <li> <b>06/03/2026</b> – Gerard visited Prof. Masahiro Kurata and his research group at the Disaster Prevention Research Institute (DPRI) at Kyoto UNiversity, Japan.
 
