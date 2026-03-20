@@ -14,7 +14,7 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
-<li> <b>16/03/2026</b> - Gerard attended the EPOS Days 2026 Workshop in Cagliari, Italy where the Candidate Thematic Core Service (cTCS) <a href="https://builtenvdata.eu/">Built Environment Data</a> was presented to be included in the EPOS ecosystem</li>
+<li> <b>16/03/2026</b> - Gerard attended the EPOS Days 2026 Workshop in Cagliari, Italy where the Candidate Thematic Core Service (cTCS) <a href="https://builtenvdata.eu/">Built Environment Data</a> was presented to be included in the EPOS ecosystem [<a href="http://gerardjoreilly.github.io/assets/images/photos/epos-cagliari.jpeg">Photo</a>]</li>
 
 <li> <b>12/03/2026</b> – Gerard gave a presentation entitled "Issues in the fragility analysis of non-structural elements and the role of structural health monitoring" at the “6th International Workshop on Seismic Performance of Non-Structural Elements (SPONSE)” in Tokyo, Japan [<a href="http://gerardjoreilly.github.io/assets/images/photos/SPONSE-2026-group-photo.jpg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/sponse2026-3.JPG">Photo 2</a>][<a href="http://gerardjoreilly.github.io/assets/documents/presentations/SPONSE-2026-NSE-OReilly_v2.pdf">Presentation</a>][<a href="http://gerardjoreilly.github.io/assets/documents/conference-papers/sponse2026.pdf">Paper</a>]</li>
 
