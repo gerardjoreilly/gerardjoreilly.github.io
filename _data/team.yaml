@@ -190,6 +190,7 @@ past_members:
         thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2022-Abarca.pdf"
   
   - name: "Letizia Palamara"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/letizia.jpeg"
     linkedin: "https://www.linkedin.com/in/letizia-palamara-371062227/"
     roles:
       - category: "MSc Student"
@@ -199,6 +200,7 @@ past_members:
         thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2020-Palamara.pdf"
 
   - name: "Federico Damiani"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/federico.jpeg"
     linkedin: "https://www.linkedin.com/in/federico-damiani-5a5a2b1b3/"
     roles:
       - category: "MSc Student"
@@ -208,6 +210,7 @@ past_members:
         thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2020-Damiani.pdf"
 
   - name: "Carlos Andres Mora Castrillo"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/empty.jpeg"
     linkedin: ""
     roles:
       - category: "MSc Student"
@@ -217,6 +220,7 @@ past_members:
         thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2019_Mora-Castrillo.pdf"
 
   - name: "Onur Deniz Akan"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/deniz.jpeg"
     linkedin: "https://www.linkedin.com/in/odeniz-akan/"
     roles:
       - category: "MSc Student"
@@ -226,6 +230,7 @@ past_members:
         thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2019_Akan.pdf"
 
   - name: "Jose Rafael Leone Villalba"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/jose-leone.jpeg"
     linkedin: "https://www.linkedin.com/in/jose-leone-villalba-9a7b34183/"
     roles:
       - category: "MSc Student"
@@ -235,6 +240,7 @@ past_members:
         thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2019_Leone-Villalba.pdf"
 
   - name: "Wilson Carofilis"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/wilson.jpeg"
     linkedin: "https://www.linkedin.com/in/wilson-wladimir-carofilis-gallo/"
     roles:
       - category: "MSc Student"
@@ -244,6 +250,7 @@ past_members:
         thesis_link: "http://gerardjoreilly.github.io/assets/documents/theses/2018_Carofilis.pdf"
 
   - name: "Gerard J. O'Reilly"
+    photo: "http://gerardjoreilly.github.io/assets/images/photoss/gerard-foto1.jpeg"
     linkedin: "https://www.linkedin.com/in/gerard-o-reilly-19601732/"
     roles:
       - category: "PhD Researcher"
@@ -255,6 +262,7 @@ past_members:
 
 visiting_members:
   - name: "Brian Cagua Gómez"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/brian.jpeg"
     linkedin: "https://www.linkedin.com/in/brian-cagua-g%C3%B3mez-1a0a087a/"
     category: "Visiting Researcher"
     main_supervisor: "Prof. Rodrigo Astroza"
@@ -264,6 +272,7 @@ visiting_members:
     visiting_from: "Universidad de los Andes, Chile"
 
   - name: "Julia Pilatasig Caizaguano"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/julia.jpeg"
     linkedin: "https://www.linkedin.com/in/julia-pilatasig-caizaguano-280b73140/"
     category: "Visiting Researcher"
     main_supervisor: "Prof. Rodrigo Astroza"
@@ -274,6 +283,7 @@ visiting_members:
 
   - name: "Zhile Yang"
     linkedin: 
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/empty.jpeg"
     category: "Visiting Researcher"
     main_supervisor: "Prof. Xiuli Du"
     period: "Apr 2024 – Mar 2025"
@@ -282,6 +292,7 @@ visiting_members:
     visiting_from: "Beijing University of Technology, China"
 
   - name: "Amir Taherian"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/amir.jpeg"
     linkedin: "https://www.linkedin.com/in/amir-taherian-a6ab19153/"
     category: "Visiting Researcher"
     main_supervisor: "Prof. Vitor Silva"
@@ -291,6 +302,7 @@ visiting_members:
     visiting_from: "University of Aveiro, Portugal"
 
   - name: "Carlos Pecapedra Souza"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/carlos.jpeg"
     linkedin: "https://www.linkedin.com/in/carlos-francisco-pecapedra-souza-783570112/"
     category: "Visiting Researcher"
     main_supervisor: "Prof. Xavier Romao"
