@@ -15,6 +15,11 @@ include_past_team: true
 
 # News
 project_news:
+
+  - title: "Project interview with Eucentre blog"
+    date: "2025-10-01"
+    url: "https://www.eucentre.it/en/earthquake-safety-and-ai-prof-oreillys-sonata-project-funded-by-the-italian-science-fund/"
+    excerpt: "Check out a brief interview on the SONATA project in the Eucentre Foundation's blog"
   - title: "Project officially underway!"
     date: "2025-10-01"
     url: 
