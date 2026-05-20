@@ -3,7 +3,7 @@ current_team:
     photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/daniele.jpg"
     bio: 
     email: "daniele.sivori@iusspavia.it"
-    linkedin: 
+    linkedin: "https://www.linkedin.com/in/daniele-sivori-078404410/"
     projects: [sonata]
     roles: 
       - category: "Research Associate (RTDA)"
