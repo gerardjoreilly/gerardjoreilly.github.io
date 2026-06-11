@@ -16,6 +16,10 @@ include_past_team: true
 # News
 project_news:
 
+  - title: "First experimental tests completed"
+    date: "2026-06-10"
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:7470814188781838336/"
+    excerpt: "The first set of experiments on three gypsum partition walls (drywalls) were tested in the 9DLAB facility at Eucentre"
   - title: "Project interview with Eucentre blog"
     date: "2025-10-01"
     url: "https://www.eucentre.it/en/earthquake-safety-and-ai-prof-oreillys-sonata-project-funded-by-the-italian-science-fund/"
