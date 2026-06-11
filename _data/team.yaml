@@ -42,7 +42,7 @@ current_team:
     photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/marco.jpg"
     bio: 
     email: "marco.todaro@iusspavia.it"
-    linkedin: 
+    linkedin:  "https://www.linkedin.com/in/marcotodaro/"
     projects: [sonata]
     roles: 
     - category: "PhD Researcher"
