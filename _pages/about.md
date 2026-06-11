@@ -14,6 +14,8 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+<li> <b>10/06/2026</b> - The SONATA project completed its first set of experiments, testing three gypsum partition walls (drywalls) in the 9DLAB facility at Eucentre. For more information, see the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7470814188781838336/">LinkedIn update</a> [<a href="http://gerardjoreilly.github.io/assets/images/photos/SONATA_team.jpg">Photo</a>]</li>
+
 <li> <b>27/05/2026</b> - Gerard organised and chaired the 2026 International Workshop in Engineering Research Infrastructures for European Synergies (ERIES-IW2026). The workshop brought together 175 participants with 72 presentations and a live experimental demonstration showcasing the exciting progress of ERIES transnational access user projects. For more information, see the <a href="https://eries.eu/2026-international-workshop-summary-and-highlights/">project webpage</a> [<a href="http://gerardjoreilly.github.io/assets/images/photos/eries-iw2026.jpg">Photo</a>]</li>
 
 <li> <b>18/05/2026</b> - Gerard presented at the <i>1st RIAGE — (Re)Insurance-Academia Global Earthquake Workshop</i> in London, UK, with a talk titled "Recent advances in seismic risk modelling: from spatial ground motion correlation to building damage and loss dependence to risk model IM conversion"</li>
