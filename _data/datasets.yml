@@ -1,4 +1,11 @@
 datasets:
+  - key: alvalade-digital-twin
+    name: "Digital twin for post-earthquake loss assessment of building portfolios"
+    category: numerical-models
+    link: "https://github.com/amirt1994/Alvalade-seismic-digital-twin"
+    paper: "https://doi.org/10.1002/esp4.70092"
+    thumbnail: ""
+
   - key: infilled-rc-frame-database
     name: "OpenSees models of infilled RC buildings"
     category: numerical-models
