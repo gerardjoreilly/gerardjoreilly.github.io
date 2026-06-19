@@ -59,10 +59,10 @@ current_team:
       period: "Oct 2025 - Oct 2028 (expected)"
 
   - name: "Vitor A. Monteiro"
-    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/vitor.jpeg"
+    photo: "http://gerardjoreilly.github.io/assets/images/profile-pictures/vitor-new.jpg"
     bio: "Regional seismic risk assessment incorporating spatial correlation of next-generation intensity measures "
     email: "vitor.azevedomonteiro@iusspavia.it"
-    linkedin: "https://www.linkedin.com/in/v%C3%ADtor-monteiro-structuralengineering/"
+    linkedin: "https://www.linkedin.com/in/v%C3%ADtor-monteiro-earthquakeengineering/"
     projects: [reluis-24-26]
     roles: 
     - category: "PhD Researcher"
