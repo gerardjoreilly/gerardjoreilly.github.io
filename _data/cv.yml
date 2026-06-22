@@ -49,3 +49,61 @@ past_appointments:
     org: "University of California, Berkeley, USA"
     url: "https://www.berkeley.edu/"
     period: "Sept 2011 – Aug 2012"
+
+education:
+  - degree: "Ph.D in Earthquake Engineering & Engineering Seismology"
+    org: "IUSS Pavia, Italy"
+    url: "https://www.iusspavia.it/it"
+    year: "2016"
+
+  - degree: "M.Sc. in Civil Engineering"
+    org: "University of Galway, Ireland"
+    url: "https://www.universityofgalway.ie/"
+    year: "2013"
+
+  - degree: "B.Eng. in Civil Engineering"
+    org: "University of Galway, Ireland"
+    url: "https://www.universityofgalway.ie/"
+    year: "2010"
+
+honours:
+  - text: 'Awarded €1.3M Starting Grant by the Fondo Italiano per la Scienza (FIS) on the topic of "Sensor-driven statistical tools to evaluate risks and manage safety in the built environment"'
+
+  - text: 'Awarded 2024 Engineering Structures Best Paper of the Year (Artificial Intelligence in Structural Engineering) for paper on "Next-generation non-linear and collapse prediction models for short to long period systems via machine learning methods"'
+
+  - text: 'Awarded Editor''s Featured Paper Award by Engineering Structures for paper on "Next-generation non-linear and collapse prediction models for short to long period systems via machine learning methods"'
+
+  - text: "2022 recipient of the Shah Family Innovation Prize by the Earthquake Engineering Research Institute"
+    link: "https://eeri.org/about-eeri/news/13895-2022-shah-family-innovation-prize-awarded-to-gerard-o-reilly"
+
+  - text: 'Selected by editor as "Top Reviewer" for the journal Bulletin of Earthquake Engineering in 2020'
+
+  - text: 'Won the "2020 Outstanding Paper Award" by the International Association for Bridge and Structural Engineering for the research article "Once upon a Time in Italy: The Tale of the Morandi Bridge"'
+    link: "https://www.tandfonline.com/doi/full/10.1080/10168664.2018.1558033"
+
+  - text: 'Awarded "Top Downloaded Paper 2018-2019" by Earthquake Engineering and Structural Dynamics for the article "Conceptual design in performance-based earthquake engineering"'
+    link: "https://onlinelibrary.wiley.com/doi/10.1002/eqe.3141"
+
+  - text: "Awarded a fellowship by the University of California Education Abroad Program to complete a 1-year research exchange at the University of California, Berkeley"
+
+  - text: 'Awarded "Best Structures Paper" for paper presented at the BCRI2012 conference in Dublin, Ireland'
+
+  - text: "Awarded 2 University Scholar prizes in recognition of academic excellence during undergraduate studies"
+
+editorial_roles:
+  - title: "Associate Editor, Earthquake Spectra"
+    url: "https://onlinelibrary.wiley.com/journal/19448201"
+    period: "2025 – present"
+
+  - title: "Member, European Geosciences Union"
+    url: "https://www.egu.eu/"
+    period: "2023 – present"
+
+  - title: "Member, Earthquake Engineering Research Institute"
+    url: "https://www.eeri.org/"
+    period: "2022 – present"
+
+qualifications:
+  - text: "Approved by the Italian Ministry of Universities and Research's National Scientific Committee as qualified to hold the rank of Full Professor in Structural and Geotechnical Engineering (2025 – 2037)"
+
+  - text: "Approved by the Italian Ministry of Universities and Research's National Scientific Committee as qualified to hold the rank of Associate Professor in Structural and Geotechnical Engineering (2022 – 2031)"
