@@ -14,6 +14,8 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+<li> <b>24/06/2026</b> - Gerard gave a presentation entitled "Recent advances in seismic risk modelling: from spatial correlation to damage and loss dependence" at the GEM Conference held between 23–25 June 2026 in Zagreb, Croatia [<a href="http://gerardjoreilly.github.io/assets/documents/presentations/GEM-Presentation-OReilly-v3.pdf">Presentation</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/gem-2026-gerard.jpeg">Photo</a>]</li>
+
 <li> <b>18/06/2026</b> - New paper published in Earthquake Spectra on "Digital Twins for Post‐Earthquake Loss Assessment of Building Portfolios" [<a href="https://gerardjoreilly.github.io/assets/documents/journal-articles/taherian-2026.pdf">Paper</a>][<a href="https://doi.org/10.1002/esp4.70092">Link</a>][<a href="https://github.com/amirt1994/Alvalade-seismic-digital-twin">GitHub</a>] </li>
 
 <li> <b>10/06/2026</b> - The SONATA project completed its first set of experiments, testing three gypsum partition walls (drywalls) in the 9DLAB facility at Eucentre. For more information, see the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7470814188781838336/">LinkedIn update</a> [<a href="http://gerardjoreilly.github.io/assets/images/photos/SONATA_team.jpg">Photo</a>]</li>
