@@ -52,7 +52,7 @@ datasets:
     name: "Cyclic tests on stone masonry walls"
     category: experimental-data
     link: "https://doi.org/10.60756/euc-vbua48i530"
-    paper: "Paper in progress (RESTORING)"
+    paper: "https://doi.org/10.1016/j.conbuildmat.2026.147449"
     thumbnail: ""
 
   - key: sc-cbf-data

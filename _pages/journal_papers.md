@@ -5,6 +5,7 @@ permalink: /resources/journal-papers/
 author_profile: true
 ---
 
+1. Ponte, M., Guerrini, G., Garcia-Ramonda, L., Lanese, I., **O’Reilly, G. J.**, Parisi, E. R., Graziotti, F., Penna, A., Pelà, L., Magenes, G., & Bento, R. (2026). Full-scale cyclic shear-compression testing of stone masonry retrofitted with CRM and FRM: The ERIES-RESTORING project. Construction and Building Materials, 539, 147449. [[PDF](http://gerardjoreilly.github.io/assets/documents/journal-articles/ponte-2026-restoring.pdf)][[Link](https://doi.org/10.1016/j.conbuildmat.2026.147449)][[Data](https://doi.org/10.60756/euc-vbua48i530)]
 1. **O’Reilly, G. J.**, Ozsarac, V., & Shahnazaryan, D. (2026). Conversion of Seismic Fragility and Vulnerability Models to Alternative Intensity Measures for Regional Risk Analysis. Earthquake Spectra, 42(3). [[PDF](https://gerardjoreilly.github.io/assets/documents/journal-articles/oreilly-2026-ff-vf-conversion.pdf)][[Link](https://doi.org/10.1002/esp4.70098)]
 1. Taherian, A., Silva, V., Nafeh, A. M. B., & **O’Reilly, G. J.** (2026). Digital Twins for Post‐Earthquake Loss Assessment of Building Portfolios. Earthquake Spectra, 42(3). [[PDF](https://gerardjoreilly.github.io/assets/documents/journal-articles/taherian-2026.pdf)][[Link](https://doi.org/10.1002/esp4.70092)][[GitHub](https://github.com/amirt1994/Alvalade-seismic-digital-twin)]
 1. Monteiro, V. A., Aristeidou, S., & **O’Reilly, G. J.** (2026). Spatial Cross‐Correlation Models for Next‐Generation Amplitude and Cumulative Intensity Measures. Earthquake Spectra. 
