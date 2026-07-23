@@ -51,7 +51,8 @@ datasets:
     name: "In-plane/out-of-plane shake-table tests on masonry infills"
     category: experimental-data
     link: "https://doi.org/10.60756/euc-f8hcyh64"
-    papers: []
+    papers:
+      - "https://doi.org/10.1002/eqe.70251"
     thumbnail: ""
 
   - key: eries-restoring
