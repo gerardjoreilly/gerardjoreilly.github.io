@@ -14,6 +14,8 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+<li> <b>23/07/2026</b> - New paper published in Engineering Structures on "Experimental out-of-plane seismic response of URM gables: Role of roof flexibility and differential input" [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/damiani-2026-supreme.pdf">Paper</a>][<a href="https://doi.org/10.1016/j.engstruct.2026.123376">Link</a>][<a href="https://doi.org/10.60756/euc-1avy7q49">Data</a>]</li>
+
 <li> <b>12/09/2026</b> - New paper published in Construction and Building Materials on "Full-scale cyclic shear-compression testing of stone masonry retrofitted with CRM and FRM: The ERIES-RESTORING project" [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/ponte-2026-restoring.pdf">Paper</a>][<a href="https://doi.org/10.1016/j.conbuildmat.2026.147449">Link</a>][<a href="https://doi.org/10.60756/euc-vbua48i530">Data</a>]</li>
 
 <li> <b>16/07/2026</b> - New paper published in Earthquake Spectra on "Conversion of Seismic Fragility and Vulnerability Models to Alternative Intensity Measures for Regional Risk Analysis" [<a href="https://gerardjoreilly.github.io/assets/documents/journal-articles/oreilly-2026-ff-vf-conversion.pdf">Paper</a>][<a href="https://doi.org/10.1002/esp4.70098">Link</a>]</li>

@@ -38,10 +38,14 @@ author_profile: true
             </a>
           {% endif %}
 
-          {% if item.paper and item.paper != "" %}
-            <a class="btn-paper" href="{{ item.paper }}" target="_blank" rel="noopener">
-              Paper
-            </a>
+          {% if item.papers %}
+            {% for paper in item.papers %}
+              {% if paper and paper != "" %}
+                <a class="btn-paper" href="{{ paper }}" target="_blank" rel="noopener">
+                  Paper
+                </a>
+              {% endif %}
+            {% endfor %}
           {% endif %}
         </div>
 
