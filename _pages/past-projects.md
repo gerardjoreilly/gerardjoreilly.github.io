@@ -5,6 +5,24 @@ permalink: /projects/past/
 author_profile: true
 
 projects:
+  - key: eries
+    title: "Engineering Research Infrastructures for European Synergies"
+    acronym: "ERIES"
+    period: "Jun 2022 – May 2026"
+    role: "Project Coordinator"
+    logo: "/assets/images/logos/eries.png"
+    url: "https://www.eries.eu"
+    funding: "European Commission — Horizon Europe"
+    budget: "€11,616,118.24"
+    description: >
+      ERIES responded to the call INFRA-2021-SERV-01-07: Research infrastructure services advancing frontier knowledge, with the overall objective of providing transnational access (TA) to advanced research infrastructures in the fields of structural, seismic, wind and geotechnical engineering. Running from June 2022 to May 2026, the project brought together 13 partners from 8 countries to provide access to leading experimental facilities, enabling users to advance frontier knowledge and conduct curiosity-driven research towards the reduction of losses and disruption due to natural hazards, the management of associated risk, and the development of innovative and sustainable solutions to address them.
+
+      Over its four-year lifetime, ERIES received 115 proposals from research teams across 18 countries. Of these, 69 user group projects were selected through a competitive evaluation process, engaging 518 researchers from 128 research institutes in 55 countries, representing 79 nationalities. Nearly half of all participating researchers (47%) were at an early-career stage, reflecting the project's strong contribution to training the next generation of scientists. A further 45 industry partners were involved across the user projects, connecting academia and industry throughout the programme. All experimental campaigns have now been concluded, and the resulting datasets are available through the ERIES Data Access Portal for use by the wider research community.
+
+      ERIES offered access to the best European experimental facilities in earthquake, wind and geotechnical engineering, including new and unique infrastructures available for the first time in this programme, as well as key facilities in Canada. It built on the legacy of past European infrastructure projects — including SERIES and SERA — expanding access to new communities and disciplines. In doing so, it has provided authoritative input for stakeholders ranging from Civil Protection agencies to the committees responsible for the Eurocode seismic building standards, helped develop future standards for experimental techniques, and created a platform for innovative solutions and next-generation technologies.
+
+      With all activities now complete, ERIES leaves a lasting contribution toward reducing losses, managing natural hazard risk, and building a greener and more sustainable engineering future in Europe.
+
   - key: rossini
     title: "Progettazione, realizzazione e sperimentazione di un sistema prototipale di navigazione risk-aware per la gestione e mitigazione del RischiO SiSmico in industrie a rischio di INcidente rIlevante"
     acronym: "ROSSINI"
