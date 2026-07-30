@@ -16,6 +16,10 @@ include_past_team: true
 # News
 project_news:
 
+  - title: "Multiple SONATA contributions at ECEE 2026"
+    date: "2026-07-30"
+    url:
+    excerpt: "The group will present four SONATA project updates at the 18th European Conference on Earthquake Engineering in Berlin, Germany, covering sensor-based damage assessment, image-based detection of non-structural elements, shake-table prototype testing, and the overall system architecture."
   - title: "First experimental tests completed"
     date: "2026-06-10"
     url: "https://www.linkedin.com/feed/update/urn:li:activity:7470814188781838336/"
@@ -36,6 +40,11 @@ videos:
 
 # Publications:
 related_publications:
-  - "[O’Reilly, G. J., and Nakashima, M. (2026) “Issues in the fragility analysis of non-structural elements and the role of structural health monitoring,” 6th International Workshop on Seismic Performance of Non-Structural Elements (SPONSE), Tokyo, Japan.](http://gerardjoreilly.github.io/assets/documents/conference-papers/sponse2026.pdf)"
+  - “[Shahnazaryan, D., Todaro, M., Guamán, M., Ozsarac, V., Sivori, D., & O’Reilly, G. J. (2026) Prototype System Architecture for SONATA: Sensor-Driven Statistical Tools to Evaluate and Manage Safety in the Built Environment. 18th European Conference on Earthquake Engineering, Berlin, Germany.](http://gerardjoreilly.github.io/assets/documents/conference-papers/ecee2026-sonata-shahnazaryan.pdf)”
+  - “[Sivori, D., Guamán, M., Todaro, M., Ozsarac, V., Shahnazaryan, D., & O’Reilly, G. J. (2026) Advancing sensing solutions for data-driven seismic damage assessment of non-structural elements: current challenges and future directions. 18th European Conference on Earthquake Engineering, Berlin, Germany.](http://gerardjoreilly.github.io/assets/documents/conference-papers/ECEE2026_ID464_SS-SSHM_Advancing%20sensing%20solutions%20for%20data-driven%20seismic%20damage%20assessment%20of%20NSEs_final.pdf)”
+  - “[Guamán, M., Todaro, M., Ozsarac, V., Shahnazaryan, D., Sivori, D., & O’Reilly, G. J. (2026) Towards Automated Image-Based Detection of Non-Structural Elements. 18th European Conference on Earthquake Engineering, Berlin, Germany.](http://gerardjoreilly.github.io/assets/documents/conference-papers/ECEE2026-10459.pdf)”
+  - “[Todaro, M., Guamán, M., Shahnazaryan, D., Sivori, D., Ozsarac, V., & O’Reilly, G. J. (2026) Shake-table prototype testing for sensor-based seismic damage assessment of non-structural elements. 18th European Conference on Earthquake Engineering, Berlin, Germany.](http://gerardjoreilly.github.io/assets/documents/conference-papers/ECEE2026-10469.pdf)”
+  - “[O’Reilly, G. J., Ozsarac, V., & Shahnazaryan, D. (2026) Conversion of Seismic Fragility and Vulnerability Models to Alternative Intensity Measures for Regional Risk Analysis. Earthquake Spectra, 42(3).](https://gerardjoreilly.github.io/assets/documents/journal-articles/oreilly-2026-ff-vf-conversion.pdf)”
+  - “[O’Reilly, G. J., and Nakashima, M. (2026) Issues in the fragility analysis of non-structural elements and the role of structural health monitoring. 6th International Workshop on Seismic Performance of Non-Structural Elements (SPONSE), Tokyo, Japan.](http://gerardjoreilly.github.io/assets/documents/conference-papers/sponse2026.pdf)”
   # - "[Rossi, M., Bianchi, L. (2024). AI-driven fragility curves for building contents. *Journal of Risk Eng* 12(3).](https://doi.org/10.0000/example2)"
   # - "[Full publications list →](/publications/)"
