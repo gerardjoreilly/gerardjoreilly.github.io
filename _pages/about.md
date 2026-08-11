@@ -52,9 +52,14 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 <li> <b>29/01/2026</b> - We just completed the 4th edition of the PhD course on "Performance-Based Earthquake Engineering" at IUSS Pavia, followed by a visit to the Eucentre Foundation's facilities. [<a href="https://gerardjoreilly.github.io/assets/documents/courses/PBEE-Course-Syllabus-25-26-v4.pdf">Syllabus</a>] [<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo2.jpeg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-euc-visit-photo.jpg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo3.jpeg">Photo 3</a>] </li>
 
-<li> <b>26/11/2025</b> – Gerard gave a presentation at the session entitled "Towards Next-Generation Seismic Hazard and Risk Services" organised by <a href="http://www.efehr.org/start/">EFEHR</a> at the “EPOS Seismology & Geo-INQUIRE Workshop” in Athens, Greece [<a href="http://gerardjoreilly.github.io/assets/images/photos/efehr_athens.jpg">Photo</a>]</li>
 
-<li> <b>12/11/2025</b> – Jose Poveda presented at the “Primer Congreso de Ingeniería Estructural –IABSE Ecuador 2025” on the topic “QONDESA: Un caso real para explorar fragilidad, selección de registros sísmicos y diseño basado en riesgo.” [<a href="http://gerardjoreilly.github.io/assets/images/photos/poveda-iabse.jpg">Photo</a>][<a href="http://gerardjoreilly.github.io/assets/documents/presentations/Poveda-Congreso-IABSE-Ecuador.pdf">Presentation</a>]</li>
+<details><summary>Older news</summary>
+<ul>
+</ul>
+
+<li> <b>26/11/2025</b> – Gerard gave a presentation at the session entitled "Towards Next-Generation Seismic Hazard and Risk Services" organised by <a href="http://www.efehr.org/start/">EFEHR</a> at the "EPOS Seismology & Geo-INQUIRE Workshop" in Athens, Greece [<a href="http://gerardjoreilly.github.io/assets/images/photos/efehr_athens.jpg">Photo</a>]</li>
+
+<li> <b>12/11/2025</b> – Jose Poveda presented at the "Primer Congreso de Ingeniería Estructural –IABSE Ecuador 2025" on the topic "QONDESA: Un caso real para explorar fragilidad, selección de registros sísmicos y diseño basado en riesgo." [<a href="http://gerardjoreilly.github.io/assets/images/photos/poveda-iabse.jpg">Photo</a>][<a href="http://gerardjoreilly.github.io/assets/documents/presentations/Poveda-Congreso-IABSE-Ecuador.pdf">Presentation</a>]</li>
 
 <li> <b>09/10/2025</b> - Gerard gave an Invited Theme Lecture at the 10th Turkish Conference on Earthquake Engineering in Istanbul, Türkiye on the topic of "Advancements in seismic risk assessment of existing structures: insights from analytical models and empirical earthquake data" [<a href="http://gerardjoreilly.github.io/assets/images/photos/10TCEE-1.JPG">Photo 1</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/10TCEE-2.JPG">Photo 2</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/10TCEE-3.JPG">Photo 3</a>] </li>
 
@@ -86,7 +91,7 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 <li> <b>07/05/2025</b> - Gerard, along with Davit and Volkan and others organised the 2025 International Workshop in Engineering Research Infrastructures for European Synergies (ERIES-IW2025) in Lisbon on 7-9th May 2025, hosted by the Laboratório Nacional de Engenharia Civil (LNEC). Over 100 participants attended the event to discuss the exciting progress of their ERIES transnational access user projects to date and proposed activities for the upcoming months. For more information, see the <a href="https://eries.eu/iw2025-summary-highlights/">project webpage</a> [<a href="http://gerardjoreilly.github.io/assets/images/photos/eries-iw2025.jpeg">Photo</a>]</li>
 
-<li> <b>28/04/2025</b> - Gerard gave a presentation on the topic of "ERIES: Advancing frontier knowledge in earthquake, geotechnical and wind engineering through experimental research" as part of the special session “Advancing Environmental Science through Integrated Research Infrastructures” organised by the EU’s Research Executive Agency during the EGU General Assembly Meeting 2025 in Vienna, Austria </li>
+<li> <b>28/04/2025</b> - Gerard gave a presentation on the topic of "ERIES: Advancing frontier knowledge in earthquake, geotechnical and wind engineering through experimental research" as part of the special session "Advancing Environmental Science through Integrated Research Infrastructures" organised by the EU's Research Executive Agency during the EGU General Assembly Meeting 2025 in Vienna, Austria </li>
 
 <li> <b>22/03/2025</b> - Gerard gave a presentation on "Recent developments in the risk-targeted assessment of existing structures" at the 3rd Croatian Conference on Earthquake Engineering in Split, Croatia to illustrate how recent research developments can be integrated to develop a more accurate but yet highly practical seismic risk classification rating scheme [<a href="http://gerardjoreilly.github.io/assets/documents/presentations/CroCEE-Presentation-OReilly.pdf">Presentation</a>]</li>
 
@@ -98,18 +103,13 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 <li> <b>01/01/2025</b> - Gerard has joined the <a href="https://journals.sagepub.com/editorial-board/EQS">Editorial Board of Earthquake Spectra</a> as an Associate Editor! </li>
 
-<li> <b>20/12/2024</b> - New paper published in Earthquake Spectra on "Three benefits of “Caution (Yellow Tag)” in SHM-driven condition assessment of buildings: Eight years experience with market-based SHM" [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/fukutomi-et-al-2024-three-benefits-of-caution-(yellow-tag)-in-shm-driven-condition-assessment-of-buildings-eight-years.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241296377">Link</a>] </li>
+<li> <b>20/12/2024</b> - New paper published in Earthquake Spectra on "Three benefits of "Caution (Yellow Tag)" in SHM-driven condition assessment of buildings: Eight years experience with market-based SHM" [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/fukutomi-et-al-2024-three-benefits-of-caution-(yellow-tag)-in-shm-driven-condition-assessment-of-buildings-eight-years.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241296377">Link</a>] </li>
 
 <li> <b>20/12/2024</b> - New Engineering Practice Paper published in Earthquake Spectra on "Seismic loss assessment of existing hotel building in Ecuador" [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/poveda-o-reilly-2024-seismic-loss-assessment-of-existing-hotel-building-in-ecuador.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241299356">Link</a>] </li>
 
 <li> <b>27/11/2024</b> - Gerard gave a presentation on "Built environment data for multi-hazard vulnerability models within EPOS" at the EFEHR Scientific Session 2024 organised as part of the 102nd Journées Luxembourgeoises de Géodynamique (JLG) in Luxembourg [<a href="http://gerardjoreilly.github.io/assets/documents/presentations/BED-Design-Luxembourg-Nov-2024.pdf">Presentation</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/efehr-lux-2024-gerard.jpeg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/efehr-lux-2024.jpeg">Photo 2</a>] </li>
 
 <li> <b>01/11/2024</b> - New paper published in Earthquake Spectra on "Correlation models for next-generation amplitude and cumulative intensity measures using artificial neural networks" [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/aristeidou-2024-correlations.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241270563">Link</a>] </li>
-
-
-<details><summary>Older news</summary>
-<ul>
-</ul>
 
 <li> <b>25/09/2024</b> - Gerard gave a presentation on "Advancing Seismic Risk Analysis through an Integrated Web Service for Ground Motion Record Selection and Scaling" in the special session organised by <a href="http://www.efehr.org/start//">EFEHR</a> at the 39th General Assembly of the European Seismological Commission in Corfu, Greece [<a href="http://gerardjoreilly.github.io/assets/documents/presentations/ESC2024-OReilly-v1.pdf">Presentation</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/esc2024.jpg">Photo</a>]. It introduced the Djura Record Selector and how it advances but yet simplifies the process of ground motion record selection according to building codes, conditional spectra and more. Check it out at: <a href="https://djura.it/">Djura | Risk - Data - Engineering</a>! </li>
 
