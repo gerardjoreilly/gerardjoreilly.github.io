@@ -25,7 +25,7 @@ courses:
     institutes:
       - "IUSS Pavia, Italy"
       - "Università di Pavia"
-    syllabus_url: 
+    syllabus_url: "/assets/documents/courses/PBEE-Course-Syllabus-26-27-v3.pdf"
 
 ---
 
