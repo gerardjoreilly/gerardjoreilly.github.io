@@ -23,6 +23,12 @@ projects:
 
       With all activities now complete, ERIES leaves a lasting contribution toward reducing losses, managing natural hazard risk, and building a greener and more sustainable engineering future in Europe.
 
+    links:
+      - label: "Event Video"
+        url: "https://www.youtube.com/watch?v=icc2bqdqz7c&list=PLJK7NpdHmwak&index=25"
+      - label: "Interview"
+        url: "https://www.youtube.com/watch?v=Bb0PnkL0pRY"
+
   - key: rossini
     title: "Progettazione, realizzazione e sperimentazione di un sistema prototipale di navigazione risk-aware per la gestione e mitigazione del RischiO SiSmico in industrie a rischio di INcidente rIlevante"
     acronym: "ROSSINI"
