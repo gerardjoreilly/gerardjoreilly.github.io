@@ -1,0 +1,113 @@
+acronym: "ERIES"
+title: "Engineering Research Infrastructures for European Synergies"
+period: "Jun 2022 – May 2026"
+role: "Project Coordinator"
+budget: "€11,616,118.24"
+funding:
+  text: "European Commission — Horizon Europe"
+  url: "https://cordis.europa.eu/project/id/101004242"
+logos:
+  project: "/assets/images/logos/eries.png"
+description: >
+  ERIES responded to the call INFRA-2021-SERV-01-07: Research infrastructure services advancing frontier knowledge,
+  with the overall objective of providing transnational access (TA) to advanced research infrastructures in the fields
+  of structural, seismic, wind and geotechnical engineering. Running from June 2022 to May 2026, the project brought
+  together 13 partners from 8 countries to provide access to leading experimental facilities, enabling users to advance
+  frontier knowledge and conduct curiosity-driven research towards the reduction of losses and disruption due to natural
+  hazards, the management of associated risk, and the development of innovative and sustainable solutions to address them.
+
+  Over its four-year lifetime, ERIES received 115 proposals from research teams across 18 countries. Of these, 69 user
+  group projects were selected through a competitive evaluation process, engaging 518 researchers from 128 research
+  institutes in 55 countries, representing 79 nationalities. Nearly half of all participating researchers (47%) were at
+  an early-career stage, reflecting the project's strong contribution to training the next generation of scientists.
+  A further 45 industry partners were involved across the user projects, connecting academia and industry throughout
+  the programme. All experimental campaigns have now been concluded, and the resulting datasets are available through
+  the ERIES Data Access Portal for use by the wider research community.
+
+  ERIES offered access to the best European experimental facilities in earthquake, wind and geotechnical engineering,
+  including new and unique infrastructures available for the first time in this programme, as well as key facilities
+  in Canada. It built on the legacy of past European infrastructure projects — including SERIES and SERA — expanding
+  access to new communities and disciplines. In doing so, it has provided authoritative input for stakeholders ranging
+  from Civil Protection agencies to the committees responsible for the Eurocode seismic building standards, helped
+  develop future standards for experimental techniques, and created a platform for innovative solutions and
+  next-generation technologies.
+
+  With all activities now complete, ERIES leaves a lasting contribution toward reducing losses, managing natural hazard
+  risk, and building a greener and more sustainable engineering future in Europe.
+
+include_past_team: true
+
+# News (newest first)
+project_news:
+  - title: "Results presented at ICONHIC 2026, Chania, Greece"
+    date: "2026-06-30"
+    url: "https://eries.eu/2026-international-workshop-summary-and-highlights/"
+    excerpt: "Gerard presented 'Exploring the scientific and societal reach of the ERIES project' at the 4th International Conference on Natural Hazards & Infrastructure (ICONHIC 2026) in Chania, Greece."
+  - title: "2026 International Workshop (ERIES-IW2026), Pavia"
+    date: "2026-05-27"
+    url: "https://eries.eu/2026-international-workshop-summary-and-highlights/"
+    excerpt: "Gerard organised and chaired the 2026 International Workshop, bringing together 175 participants with 72 presentations and a live experimental demonstration showcasing the progress of ERIES transnational access user projects."
+  - title: "ERIES project successfully concludes"
+    date: "2026-05-01"
+    url: "https://www.eries.eu"
+    excerpt: "With all experimental campaigns and activities now complete, the ERIES project has successfully concluded its four-year programme. All datasets are available through the ERIES Data Access Portal."
+  - title: "Special sessions at COMPDYN 2025, Rhodes"
+    date: "2025-06-15"
+    url: "https://2025.compdyn.org/proceedings/"
+    excerpt: "The group organised minisymposia related to tools for seismic risk assessment and experimental research at COMPDYN 2025. Gerard and Calvi presented 'ERIES: Advancing frontier knowledge in earthquake and wind engineering through experimental research'."
+  - title: "Invited talk at EGU General Assembly 2025, Vienna"
+    date: "2025-04-28"
+    url: "https://doi.org/10.5194/egusphere-egu25-2484"
+    excerpt: "Gerard presented 'ERIES: Advancing frontier knowledge in earthquake, geotechnical and wind engineering through experimental research' at the EGU General Assembly 2025 as part of the special session on Integrated Research Infrastructures."
+  - title: "2025 International Workshop (ERIES-IW2025), Lisbon"
+    date: "2025-05-07"
+    url: "https://eries.eu/iw2025-summary-highlights/"
+    excerpt: "Gerard organised the 2025 International Workshop hosted by LNEC in Lisbon, Portugal. Over 100 participants attended to discuss the progress of ERIES transnational access user projects."
+  - title: "ERIES session at WCEE 2024, Milan"
+    date: "2024-07-03"
+    url:
+    excerpt: "Gerard organised and chaired a technical session dedicated to the ERIES project at the 18th World Conference on Earthquake Engineering (WCEE 2024), hosting representatives from the European Commission and transnational access project teams."
+  - title: "2024 General Assembly meeting, Eindhoven"
+    date: "2024-05-29"
+    url: "https://www.linkedin.com/company/eries-engineering-research-infrastructures-for-european-synergies/"
+    excerpt: "Gerard organised and chaired the 2024 General Assembly meeting of the ERIES project in Eindhoven, Netherlands."
+  - title: "Keynote at MASE 2023, Skopje"
+    date: "2023-09-29"
+    url: "http://mase.gf.ukim.edu.mk/"
+    excerpt: "Gerard gave a keynote lecture on 'European Research Synergies Towards Loss and Risk-Driven Mitigation Approaches' at the 20th International Symposium of the Macedonian Association of Structural Engineers in Skopje, North Macedonia."
+  - title: "2023 General Assembly meeting, Thessaloniki"
+    date: "2023-05-25"
+    url: "https://eries.eu/ga-meeting-2023/"
+    excerpt: "Gerard organised and chaired the 2023 General Assembly meeting of the ERIES project in Thessaloniki, Greece."
+  - title: "RICH Europe Webinar on Transnational Access"
+    date: "2023-04-27"
+    url: "https://rich-europe.eu/transnational-and-virtual-access-webinar-2-save-the-date/"
+    excerpt: "Gerard gave a webinar to the 2nd RICH Europe Webinar on Transnational and Virtual Access Opportunities on the topic of 'ERIES – Engineering Research Infrastructures for European Synergies'."
+  - title: "ANIV Webinar on ERIES transnational access"
+    date: "2022-11-16"
+    url: "https://www.aniv-iawe.org/eries-research-infrastructure-network-how-to-apply-for-transnational-access-grants/"
+    excerpt: "Gerard gave a webinar to the Italian Association for Wind Engineering Young (ANIV) on 'ERIES research infrastructure network: how to apply for transnational access grants'."
+  - title: "Kick-off meeting, Pavia"
+    date: "2022-06-08"
+    url: "https://eries.eu/eries-kick-off-meeting-8th-june-2022/"
+    excerpt: "The ERIES project was officially launched at the kick-off meeting held in Pavia, Italy."
+
+# Videos
+videos:
+  - title: "ERIES-IW2026 Event Video"
+    url: "https://www.youtube.com/watch?v=icc2bqdqz7c&list=PLJK7NpdHmwak&index=25"
+  - title: "Interview – GJ O'Reilly"
+    url: "https://www.youtube.com/watch?v=Bb0PnkL0pRY"
+
+# Publications
+related_publications:
+  - "[O'Reilly, G. J., et al. (2026). Exploring the scientific and societal reach of the ERIES project. *4th International Conference on Natural Hazards & Infrastructure (ICONHIC 2026)*, Chania, Greece. [PDF](http://gerardjoreilly.github.io/assets/documents/conference-papers/iconhic-2026-eries.pdf)"
+  - "[O'Reilly, G. J., & Calvi, G. M. (2025). ERIES: Advancing frontier knowledge in earthquake and wind engineering through experimental research. *COMPDYN 2025*, Rhodes, Greece. [PDF](http://gerardjoreilly.github.io/assets/documents/conference-papers/COMPDYN2025-24714.pdf)"
+  - "[O'Reilly, G. J., et al. (2025). Advancing Seismic Design and Assessment through Experimental Testing: Insights from the ERIES Project. *3rd Croatian Conference on Earthquake Engineering*, Split, Croatia."
+  - "[O'Reilly, G. J., & Calvi, G. M. (2024). ERIES: Advancing frontier knowledge in earthquake engineering through laboratory testing. *18th World Conference on Earthquake Engineering*, Milan, Italy. [PDF](http://gerardjoreilly.github.io/assets/documents/conference-papers/WCEE2024-OReilly_Calvi.pdf)"
+  - "[Ponte, M., et al. (2024). Retrofitting of stone masonry using innovative grid-based composites: the ERIES-RESTORING project. *18th World Conference on Earthquake Engineering*, Milan, Italy. [PDF](http://gerardjoreilly.github.io/assets/documents/conference-papers/WCEE2024-Ponte_etal.pdf)"
+  - "[O'Reilly, G. J. (2023). European research synergies towards loss and risk-driven mitigation approaches. *20th International Symposium of the Macedonian Association of Structural Engineers (MASE)*, Skopje, N. Macedonia. [Presentation](http://gerardjoreilly.github.io/assets/documents/presentations/MASE20_Presentation_OReilly.pdf)"
+  - "[Gentile, R., et al. (2026). Energy‐Based Characterisation of Earthquake Damage in Masonry Infills Through Combined In‐Plane and Out‐of‐Plane Experimental Tests. *Earthquake Engineering & Structural Dynamics.* [PDF](http://gerardjoreilly.github.io/assets/documents/journal-articles/gentile-2026-enfrag.pdf)"
+  - "[Damiani, N., et al. (2026). Experimental out-of-plane seismic response of URM gables: Role of roof flexibility and differential input. *Engineering Structures.* [PDF](http://gerardjoreilly.github.io/assets/documents/journal-articles/damiani-2026-supreme.pdf)"
+  - "[Ponte, M., et al. (2026). Full-scale cyclic shear-compression testing of stone masonry retrofitted with CRM and FRM: The ERIES-RESTORING project. *Construction and Building Materials.* [PDF](http://gerardjoreilly.github.io/assets/documents/journal-articles/ponte-2026-restoring.pdf)"
+  - "[Sharma, S., et al. (2025). Experimental data from out-of-plane shake-table tests on unreinforced masonry gables. *Earthquake Spectra.* [PDF](http://gerardjoreilly.github.io/assets/documents/journal-articles/sharma-et-al-2025-experimental-data-from-out-of-plane-shake-table-tests-on-unreinforced-masonry-gables.pdf)"
