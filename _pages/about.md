@@ -14,6 +14,8 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 ## News
 <ul>
 
+<li> <b>16/10/2026</b> - Gerard gave an invited lecture entitled "Sensor data, AI and drones for enhanced monitoring and seismic risk decision support" as part of the RELAR Project's final workshop in Belgrade, Serbia [<a href="http://gerardjoreilly.github.io/assets/images/photos/relar-belgrade.jpg">Photo</a>]</li>
+
 <li> <b>22/08/2026</b> - New paper published in the Bulletin of Earthquake Engineering on "Optimal Intensity Measures for Fragility Assessment of Bridge Components under Mainshock–Aftershock Seismic Sequences in Subduction Zones", led by Brian Cagua from Universidad de los Andes during his research visit to our group [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/2026_Cagua_et_al_Optimal_intensity_measures_for_fragility_assessment_of_bridge_components_under_mainshock–aftershock_seismic_sequences_in_subduction_zones.pdf">Paper</a>][<a href="https://doi.org/10.1007/s10518-026-02639-x">Link</a>]</li>
 
 <li> <b>23/07/2026</b> - New paper published in Earthquake Engineering & Structural Dynamics on "Energy‐Based Characterisation of Earthquake Damage in Masonry Infills Through Combined In‐Plane and Out‐of‐Plane Experimental Tests" [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/gentile-2026-enfrag.pdf">Paper</a>][<a href="https://doi.org/10.1002/eqe.70251">Link</a>][<a href="https://doi.org/10.60756/euc-f8hcyh64">Data</a>]</li>
