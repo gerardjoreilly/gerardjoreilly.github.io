@@ -79,9 +79,7 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 <li> <b>29/01/2026</b> - We just completed the 4th edition of the PhD course on "Performance-Based Earthquake Engineering" at IUSS Pavia, followed by a visit to the Eucentre Foundation's facilities. [<a href="https://gerardjoreilly.github.io/assets/documents/courses/PBEE-Course-Syllabus-25-26-v4.pdf">Syllabus</a>] [<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo2.jpeg">Photo 1</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-euc-visit-photo.jpg">Photo 2</a>][<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2026-group-photo3.jpeg">Photo 3</a>] </li>
 
 
-<details><summary>Older news</summary>
-<ul>
-</ul>
+<details><summary>2025</summary>
 
 <li> <b>26/11/2025</b> – Gerard gave a presentation at the session entitled "Towards Next-Generation Seismic Hazard and Risk Services" organised by <a href="http://www.efehr.org/start/">EFEHR</a> at the "EPOS Seismology & Geo-INQUIRE Workshop" in Athens, Greece [<a href="http://gerardjoreilly.github.io/assets/images/photos/efehr_athens.jpg">Photo</a>]</li>
 
@@ -128,6 +126,11 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 <li> <b>20/02/2025</b> - We just completed the third edition of the PhD course on "Performance-Based Earthquake Engineering" at IUSS Pavia, trialling the SimDesign service from <a href="https://github.com/builtenvdata/simulated-design">BED: Built Environment Data</a> for the first time and the online services developed by <a href="https://djura.it/">Djura | Risk - Data - Engineering</a> to conduct risk analyses, which all worked extremely well! [<a href="https://gerardjoreilly.github.io/assets/images/photos/PBEE-Course-Syllabus-24-25-v5.pdf">Syllabus</a>] [<a href="http://gerardjoreilly.github.io/assets/images/photos/pbee-2025.png">Photo</a>] </li>
 
 <li> <b>01/01/2025</b> - Gerard has joined the <a href="https://journals.sagepub.com/editorial-board/EQS">Editorial Board of Earthquake Spectra</a> as an Associate Editor! </li>
+
+
+</details>
+
+<details><summary>2024</summary>
 
 <li> <b>20/12/2024</b> - New paper published in Earthquake Spectra on "Three benefits of "Caution (Yellow Tag)" in SHM-driven condition assessment of buildings: Eight years experience with market-based SHM" [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/fukutomi-et-al-2024-three-benefits-of-caution-(yellow-tag)-in-shm-driven-condition-assessment-of-buildings-eight-years.pdf">Paper</a>][<a href="https://journals.sagepub.com/doi/10.1177/87552930241296377">Link</a>] </li>
 
@@ -179,6 +182,11 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 
 <li> <b>12/02/2024</b> - New paper published in Journal of Earthquake Engineering on "Appraising the Risk Assessment of Non-Structural Components via Simplified and Machine-Learning-Based Approaches" [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/Shahnazaryan-JEE-NSE.pdf">Paper</a>][<a href="https://www.tandfonline.com/doi/full/10.1080/13632469.2024.2314169">Link</a>] </li>
 
+
+</details>
+
+<details><summary>2023</summary>
+
 <li> <b>14/12/2023</b> - New paper published in Earthquake Engineering and Structural Dynamics on "On the fragility of non‐structural elements in loss and recovery: Field observations from Japan" [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/OReilly_EESD_2023.pdf">Paper</a>][<a href="https://onlinelibrary.wiley.com/doi/10.1002/eqe.4066">Link</a>] </li>
 
 <li> <b>01/12/2023</b> - Gerard has been promoted to the rank of Associate Professor of Structural Engineering at IUSS Pavia, Italy</li>
@@ -219,6 +227,11 @@ Gerard J. O’Reilly is an Associate Professor of Structural Engineering at [IUS
 <li> <b>10/02/2023</b> - New paper published in Procedia Structural Integrity on "Simplified tools for the risk assessment and classification of existing buildings" [<a href="http://gerardjoreilly.github.io/assets/documents/conference-papers/anidis-2022.pdf">Paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S2452321623002329?via%3Dihub">Link</a>] </li>
 
 <li> <b>09/01/2023</b> - New paper by Al Mouayed Bellah Nafeh published in the Bulletin of Earthquake Engineering on "Simplified pushover-based seismic risk assessment methodology for existing infilled frame structures" [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/Nafeh-OReilly-2023.pdf">Paper</a>][<a href="https://link.springer.com/article/10.1007/s10518-022-01600-y">Link</a>] </li>
+
+
+</details>
+
+<details><summary>2022 and earlier</summary>
 
 <li> <b>12/12/2022</b> - New paper with Matt Fox from the University of Pavia published in Earthquake Engineering and Structural Dynamics on the topic of "Exploring the site dependency of fragility functions in risk-targeted design" [<a href="http://gerardjoreilly.github.io/assets/documents/journal-articles/Fox-OReilly-EESD-2022.pdf">Paper</a>][<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.3783?campaign=wolearlyview">Link</a>] </li>
 
