@@ -100,3 +100,11 @@ author_profile: true
 1. **O’Reilly GJ**, Goggins J, Mahin SA. Development of a Novel Self-Centering Concentrically Braced Frame System for Deployment in Seismically Active Regions. Bridge and Concrete Research in Ireland, Dublin, Ireland: 2012. [[PDF](http://gerardjoreilly.github.io/assets/documents/conference-papers/C1-2012.pdf)]
 
 ***Disclaimer:*** These publications are provided for timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by the authors or copyright holders. All persons using these documents are expected to adhere to the terms invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.
+
+<script>
+document.querySelectorAll('main ol, .page__content ol, article ol').forEach(function(ol) {
+  var count = ol.querySelectorAll(':scope > li').length;
+  ol.setAttribute('reversed', '');
+  ol.setAttribute('start', count);
+});
+</script>
